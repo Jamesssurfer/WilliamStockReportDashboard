@@ -1,5 +1,147 @@
 [
   {
+    "timestamp": "2026-08-31T20:00:00+00:00",
+    "header": "Monday, August 31, 2026's Report",
+    "headline": "Monday, August 31, 2026's Report.",
+    "market_status": "Confirmed Uptrend",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,686.14",
+        "change": "-25.62 pts",
+        "pct": "-0.33%",
+        "distribution_days": 3,
+        "action": "Holds at 3 Distribution Days. Trading volume was lower than Thursday's advance, confirming the pullback represents low-conviction holiday defense rather than systemic institutional liquidation."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "26,370.89",
+        "change": "-31.53 pts",
+        "pct": "-0.12%",
+        "distribution_days": 3,
+        "action": "Holds at 3 Distribution Days. Growth and hardware clusters demonstrated strong internal resilience relative to the blue-chip sectors, floating above their 21-day EMAs."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$221.32",
+        "change": "",
+        "pct": "-0.35%",
+        "distribution_days": null,
+        "action": "Downward drift driven by defensive banking and consumer capital outflows, though the index successfully guarded its key short-term structural averages."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$122.46",
+        "change": "",
+        "pct": "-0.40%",
+        "distribution_days": null,
+        "action": "Sideways tracking. Tech breadth experienced minor contraction as energy-linked infrastructure sectors completely dominated the green space."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "STDN",
+        "company": "Standard Nuclear",
+        "sector": "Energy",
+        "industry": "Nuclear Utilities",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "price": "$15.20",
+        "pct": "+7.77%",
+        "action": "Broke cleanly out of its multi-week pattern on trading volume expanding to +65% above its 50-DMA, following reports of accelerated alternative-grid power integration."
+      },
+      {
+        "rank": 2,
+        "ticker": "ASND",
+        "company": "Ascendis Pharma",
+        "sector": "Healthcare",
+        "industry": "Biotechnology",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 2",
+        "price": "$264.69",
+        "pct": "+6.77%",
+        "action": "Exploded past its technical handle on heavy institutional volume tracking double its daily average, supported by positive clinical drug pipeline revelations."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "ASST",
+        "company": "Strive, Inc.",
+        "sector": "Financial Services",
+        "industry": "Asset Management",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 1",
+        "price": "$23.97",
+        "pct": "+10.23%",
+        "action": "Registered a definitive breakout past its middle-pivot boundary on exceptional Relative Strength (RS), completely ignoring the down-trending financial services industry."
+      },
+      {
+        "rank": 2,
+        "ticker": "CHA",
+        "company": "Chagee Holdings",
+        "sector": "Consumer Cyclical",
+        "industry": "Restaurants",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 2",
+        "price": "$11.58",
+        "pct": "+7.23%",
+        "action": "Triggered a volume-backed breakout to absolute all-time highs, defying deep systemic selling across consumer retail."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "PLTR",
+        "company": "Palantir Technologies Inc.",
+        "sector": "Technology",
+        "industry": "Software—Infrastructure",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 2",
+        "pivot_price": "$45.00",
+        "distance_to_pivot": "1.6%",
+        "telemetry": "Sideways compaction entering week 7. Sits within 1.6% of its $45.00 pivot point. Daily tracking volume dried to -40% below normal, printing a textbook \"vcp\" signature of total institutional supply exhaustion."
+      },
+      {
+        "rank": 2,
+        "ticker": "ANET",
+        "company": "Arista Networks, Inc.",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 1",
+        "pivot_price": "$365.50",
+        "distance_to_pivot": "2.2%",
+        "telemetry": "The handle remains beautifully intact. The RS line is currently making new relative highs ahead of price, sitting exactly 2.2% below its $365.50 primary pivot."
+      },
+      {
+        "rank": 3,
+        "ticker": "AXON",
+        "company": "Axon Enterprise, Inc.",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "pivot_price": "$380.00",
+        "distance_to_pivot": "0.8%",
+        "telemetry": "Garnering aggressive institutional support amid the regional military escalations. Moving perfectly flat over 6 sessions, positioned within 0.8% of its $380.00 base pivot buy point."
+      },
+      {
+        "rank": 4,
+        "ticker": "ONON",
+        "company": "On Holding AG",
+        "sector": "Consumer Cyclical",
+        "industry": "Footwear & Accessories",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 2",
+        "pivot_price": "$49.80",
+        "distance_to_pivot": "2.9%",
+        "telemetry": "Defied Monday's retail downturn by tightening its price spread. Slicing directly toward its apex, sitting 2.9% below its $49.80 pivot buy point."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-28T20:00:00+00:00",
     "header": "Friday, August 28, 2026's Report",
     "headline": "Friday, August 28, 2026's Report.",
