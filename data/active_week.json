@@ -1,5 +1,135 @@
 [
   {
+    "timestamp": "2026-09-01T20:00:00+00:00",
+    "header": "Tuesday, September 1, 2026's Report",
+    "headline": "Tuesday, September 1, 2026's Report.",
+    "market_status": "Confirmed Uptrend,",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,631.47",
+        "change": "-54.67 pts",
+        "pct": "-0.70%",
+        "distribution_days": 4,
+        "action": "Increases to 4 Distribution Days. Total exchange volume settled at 14.38 billion shares. While slightly below the multi-week average, the swift drop through short-term moving averages reflects meaningful institutional paring."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "26,099.77",
+        "change": "-271.11 pts",
+        "pct": "-1.03%",
+        "distribution_days": 4,
+        "action": "Increases to 4 Distribution Days. Mega-cap hardware, artificial intelligence, and semiconductor clusters acted as the primary weights dragging the benchmark lower, buckling under the yield curve expansion."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$219.78",
+        "change": "",
+        "pct": "-0.69%",
+        "distribution_days": null,
+        "action": "Broad-market breadth weakened significantly, with 7 out of 11 S&P sectors closing firmly in the red."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$120.90",
+        "change": "",
+        "pct": "-1.27%",
+        "distribution_days": null,
+        "action": "Suffered heavier programmatic damage than the market cap-weighted index, illustrating widespread liquidations across non-mega growth tiers."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "VNG",
+        "company": "Vanguard Natural Gas",
+        "sector": "Energy",
+        "industry": "Regulated Gas Utilities",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "price": "$34.12",
+        "pct": "+5.85%",
+        "action": "Cleared its upper boundary pivot on institutional volume pacing +80% above average, tracking the rapid rotation into insulation yields amid crude volatility."
+      },
+      {
+        "rank": 2,
+        "ticker": "NOC",
+        "company": "Northrop Grumman Corp.",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 2",
+        "price": "$542.10",
+        "pct": "+3.95%",
+        "action": "Triggered a structural breakout past its handle on sudden, accelerated volume expansion following fresh defense procurement announcements."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "LEU",
+        "company": "Centrus Energy Corp.",
+        "sector": "Energy",
+        "industry": "Uranium",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 2",
+        "price": "$72.15",
+        "pct": "+8.12%",
+        "action": "Gapped out of its middle pivot point on exceptional Relative Strength, detaching from the broader industrial landscape due to isolated strategic contract wins."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "PLTR",
+        "company": "Palantir Technologies Inc.",
+        "sector": "Technology",
+        "industry": "Software—Infrastructure",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 2",
+        "pivot_price": "$179.92",
+        "distance_to_pivot": "3.4%",
+        "telemetry": "Shed -3.47% to close at $179.92, driven partly by institutional profit-taking (e.g., ARK Invest trimming 139k shares). The price has widened out from its core $186 pivot area, slipping roughly 3.4% below its near-term trigger. Support needs to stabilize at the 50-day moving average."
+      },
+      {
+        "rank": 2,
+        "ticker": "ANET",
+        "company": "Arista Networks, Inc.",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 1",
+        "pivot_price": "$189.26",
+        "distance_to_pivot": "4.6%",
+        "telemetry": "Retreated -3.29% to $189.26 on executive liquidations and general tech sentiment pressure. This drop cracked the upper handle configuration. It now sits 4.6% below its primary breakout pivot, making it a vital candidate to monitor for an institutional shakeout rebound."
+      },
+      {
+        "rank": 3,
+        "ticker": "AXON",
+        "company": "Axon Enterprise, Inc.",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "pivot_price": "$380.00",
+        "distance_to_pivot": "0.7%",
+        "telemetry": "The absolute top-performer on the watchlist. It entirely resisted the index sell-off, closing flat (+0.12%) due to heavy geopolitical safe-haven positioning. It remains incredibly tight, sitting exactly 0.7% below its $380.00 base pivot buy point."
+      },
+      {
+        "rank": 4,
+        "ticker": "ONON",
+        "company": "On Holding AG",
+        "sector": "Consumer Cyclical",
+        "industry": "Footwear & Accessories",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 2",
+        "pivot_price": "",
+        "distance_to_pivot": "5.4%",
+        "telemetry": "Suffered under the consumer discretionary sector's steep declines. Fell back into the middle-half of its structure, widening out to 5.4% below its apex trigger, which temporarily violates our tight 5% watchlist parameter."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-08-31T20:00:00+00:00",
     "header": "Monday, August 31, 2026's Report",
     "headline": "Monday, August 31, 2026's Report.",
