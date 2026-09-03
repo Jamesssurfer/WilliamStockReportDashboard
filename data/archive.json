@@ -1,6 +1,111 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-08-27T20:00:00+00:00",
+      "header": "Thursday, August 27, 2026's Report",
+      "headline": "Major AI-Driven Surge Wipes Out Short-Term Institutional Churning.",
+      "market_status": "Confirmed Uptrend",
+      "indexes": [
+        {
+          "name": "Nasdaq Composite (.IXIC)",
+          "value": "26,523.50",
+          "change": "",
+          "pct": "+1.51%",
+          "distribution_days": null,
+          "action": "Accumulation Day. The tech-heavy index roared higher as artificial intelligence demand confidence was heavily reinforced. Trading volume surged noticeably above the previous day's level, marking a clear institutional accumulation event. Short-term distribution days dropped to 3 as older distribution faded."
+        },
+        {
+          "name": "S&P 500 (.INX)",
+          "value": "7,729.40",
+          "change": "",
+          "pct": "+0.70%",
+          "distribution_days": null,
+          "action": "Accumulation Day. Following a flat, volume-churned session on Wednesday, the benchmark index moved solidly back above short-term technical clusters. Distribution Day Count stands at 3."
+        },
+        {
+          "name": "Invesco S&P 500 Equal Weight (RSP)",
+          "value": "",
+          "change": "",
+          "pct": "+0.35%",
+          "distribution_days": null,
+          "action": "Advanced +0.35%. Steady growth, though it underperformed the market-cap weighted version. This indicates that block institutional buying remains aggressively concentrated within massive enterprise and tech-heavy infrastructure positions rather than trailing smaller cyclicals."
+        },
+        {
+          "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+          "value": "",
+          "change": "",
+          "pct": "+0.65%",
+          "distribution_days": null,
+          "action": "Up +0.65%. Reclaimed technical momentum as a rising tide in hardware components pulled equal-weight tech upwards."
+        }
+      ],
+      "sector_led_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "NVDA",
+          "company": "NVIDIA Corporation",
+          "sector": "",
+          "industry": "",
+          "base_pattern": "",
+          "base_stage": "",
+          "price": "",
+          "pct": "+8.0%",
+          "action": "Exploded +8.0%. It sliced out of a tight base consolidation pattern, printing multi-million share block institutional volume (+160% above daily averages) following a 70% forward guidance expansion."
+        },
+        {
+          "rank": 2,
+          "ticker": "CRM",
+          "company": "Salesforce, Inc.",
+          "sector": "",
+          "industry": "",
+          "base_pattern": "",
+          "base_stage": "",
+          "price": "",
+          "pct": "+5.5%",
+          "action": "Rocketed +5.5%. This moves it decisively out of a late-stage flat base layout, supported by heavy enterprise software fund inflows."
+        },
+        {
+          "rank": 3,
+          "ticker": "CRWD",
+          "company": "CrowdStrike Holdings",
+          "sector": "",
+          "industry": "",
+          "base_pattern": "",
+          "base_stage": "",
+          "price": "",
+          "pct": "+11%",
+          "action": "Cleared an aggressive handle pivot zone on +11% volume surge. It is leading the vital cybersecurity complex into fresh high-ground terrain."
+        }
+      ],
+      "divergent_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "ANF",
+          "company": "Abercrombie & Fitch Co.",
+          "sector": "",
+          "industry": "",
+          "base_pattern": "",
+          "base_stage": "",
+          "price": "",
+          "pct": "+10.71%",
+          "action": "Surged +10.71%. It triggered a high-volume base breakout, flashing a major Relative Strength (RS) line push towards 52-week highs despite ongoing structural stagnation across retail and consumer discretionary sectors."
+        },
+        {
+          "rank": 2,
+          "ticker": "SMTC",
+          "company": "Semtech Corporation",
+          "sector": "",
+          "industry": "",
+          "base_pattern": "",
+          "base_stage": "",
+          "price": "",
+          "pct": "+10.41%",
+          "action": "Skyrocketed +10.41% out of a deep rounding configuration base on explosive volume. It strongly diverged from secondary components and telecom hardware laggards."
+        }
+      ],
+      "pre_breakout_watchlist": []
+    },
+    {
       "timestamp": "2026-08-25T20:00:00+00:00",
       "header": "Tuesday, August 25, 2026's Report",
       "headline": "Mixed Signals: Quiet Rebound Followed by Disguised Churning.",
