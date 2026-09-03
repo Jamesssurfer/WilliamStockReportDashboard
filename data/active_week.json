@@ -1,5 +1,135 @@
 [
   {
+    "timestamp": "2026-09-02T20:00:00+00:00",
+    "header": "Wednesday, September 2, 2026's Report",
+    "headline": "Wednesday, September 2, 2026's Report.",
+    "market_status": "Confirmed Uptrend",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,666.60",
+        "change": "+35.13 pts",
+        "pct": "+0.46%",
+        "distribution_days": 4,
+        "action": "Holds at 4 Distribution Days. Advancing issues led decliners by a 1.78-to-1 ratio on the NYSE. The index found explicit technical support just above its 21-day exponential moving average."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "26,217.83",
+        "change": "+118.05 pts",
+        "pct": "+0.50%",
+        "distribution_days": 4,
+        "action": "Holds at 4 Distribution Days. Tech-heavy sectors clawed back some ground, anchored by a notable 3% bounce in mega-cap semiconductor components."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$220.81",
+        "change": "",
+        "pct": "+0.47%",
+        "distribution_days": null,
+        "action": "Snapped its minor slide as 10 out of 11 core market sectors finished the day in positive territory, led broadly by materials and communication layers."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$121.72",
+        "change": "",
+        "pct": "+0.68%",
+        "distribution_days": null,
+        "action": "Stronger relative performance across mid-tier growth clusters as defensive short-covering favored beaten-down software configurations."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "DELL",
+        "company": "Dell Technologies Inc.",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 2",
+        "price": "$448.90",
+        "pct": "+5.62%",
+        "action": "Surged past its technical pivot point on explosive volume (+115% above average) after raising its full-year sales and corporate enterprise cloud guidance infrastructure targets."
+      },
+      {
+        "rank": 2,
+        "ticker": "BF.B",
+        "company": "Brown-Forman Corp.",
+        "sector": "Consumer Defensive",
+        "industry": "Beverages—Distillers",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 1",
+        "price": "$47.22",
+        "pct": "+3.90%",
+        "action": "Cleared its handle configuration on strong accumulation following a decisive first-quarter earnings and profit margin beat."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "FRVO",
+        "company": "Fervo Energy Company",
+        "sector": "Utilities",
+        "industry": "Renewable Energy",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 1",
+        "price": "$19.75",
+        "pct": "+28.41%",
+        "action": "Rocketed clear of its middle-pivot point on massive volume uncoupling from standard utility indices, fueled by an exclusive clean energy utility contract layer."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "AXON",
+        "company": "Axon Enterprise, Inc.",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "pivot_price": "$380.00",
+        "distance_to_pivot": "38%",
+        "telemetry": "Remained the strongest relative performer on the sheet. Moved completely sideways on light volume (-38% below average) during the market bounce, showing absolute price control. Sits exactly 0.5% below its $380.00 base pivot."
+      },
+      {
+        "rank": 2,
+        "ticker": "PLTR",
+        "company": "Palantir Technologies Inc.",
+        "sector": "Technology",
+        "industry": "Software—Infrastructure",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 2",
+        "pivot_price": "$181.45",
+        "distance_to_pivot": "2.5%",
+        "telemetry": "Stabilized nicely after Tuesday's shakeout, ticking up +0.85% to close at $181.45. It continues to compress along its 21-day EMA structure and is now positioned 2.5% below its near-term breakout pivot."
+      },
+      {
+        "rank": 3,
+        "ticker": "ANET",
+        "company": "Arista Networks, Inc.",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 1",
+        "pivot_price": "$365.50",
+        "distance_to_pivot": "3.6%",
+        "telemetry": "Bounced with the hardware group to recover some of Tuesday's losses. The RS line remains at its upper boundary, keeping the pattern clean. Sits 3.6% below its $365.50 primary handle pivot."
+      },
+      {
+        "rank": 4,
+        "ticker": "ONON",
+        "company": "On Holding AG",
+        "sector": "Consumer Cyclical",
+        "industry": "Footwear & Accessories",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 2",
+        "pivot_price": "",
+        "distance_to_pivot": "4.1%",
+        "telemetry": "Recovers its spot on our core watchlist after a +1.40% reversal move. The pattern has successfully re-tightened, placing the price tracking back to 4.1% below its apex trigger point."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-01T20:00:00+00:00",
     "header": "Tuesday, September 1, 2026's Report",
     "headline": "Tuesday, September 1, 2026's Report.",
