@@ -1,5 +1,135 @@
 [
   {
+    "timestamp": "2026-09-03T20:00:00+00:00",
+    "header": "Thursday, September 3, 2026's Report",
+    "headline": "Thursday, September 3, 2026's Report.",
+    "market_status": "Confirmed Uptrend",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,654.12",
+        "change": "-12.48 pts",
+        "pct": "-0.16%",
+        "distribution_days": 4,
+        "action": "Holds at 4 Distribution Days. The index successfully tested intraday support at its 21-day exponential moving average and reversed higher. Light institutional volume confirms the retreat was non-systemic."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "26,189.04",
+        "change": "-28.79 pts",
+        "pct": "-0.11%",
+        "distribution_days": 4,
+        "action": "Holds at 4 Distribution Days. Growth equities stabilized effectively. Hardware and cyber-security pockets served as major anchors preventing a deeper index correction."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$220.15",
+        "change": "",
+        "pct": "-0.30%",
+        "distribution_days": null,
+        "action": "Minor breadth contraction as standard financial and industrial cyclicals experienced defensive capital paring ahead of the employment data."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$121.54",
+        "change": "",
+        "pct": "-0.15%",
+        "distribution_days": null,
+        "action": "Sideways tracking. Tech-growth variance tightened dramatically, pointing to an environment of quiet portfolio re-balancing rather than distribution."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "GWRE",
+        "company": "Guidewire Software, Inc.",
+        "sector": "Technology",
+        "industry": "Software—Application",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "price": "$147.85",
+        "pct": "+4.92%",
+        "action": "Cleared its 8-week flat base trigger on institutional volume tracking +60% above average, powered by enterprise cloud subscription conversions."
+      },
+      {
+        "rank": 2,
+        "ticker": "CPRT",
+        "company": "Copart, Inc.",
+        "sector": "Industrials",
+        "industry": "Specialty Business Services",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 2",
+        "price": "$56.12",
+        "pct": "+4.15%",
+        "action": "Sliced past its primary handle pivot point with a clean volume pop, demonstrating strong relative strength within a top-performing commercial service sub-group."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "PSTG",
+        "company": "Pure Storage, Inc.",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 2",
+        "price": "$68.45",
+        "pct": "+9.12%",
+        "action": "Rocketed out of its middle-pivot point on massive volume, completely uncoupling from a mixed computer hardware sector due to major data-center storage allocation upgrades."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "AXON",
+        "company": "Axon Enterprise, Inc.",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "pivot_price": "$380.00",
+        "distance_to_pivot": "42%",
+        "telemetry": "Remains the absolute star of the watchlist. The stock printed a tight, quiet \"inside day\" on extremely low volume (-42% below average), which signals complete institutional price control. Sits just 0.3% below its $380.00 base pivot."
+      },
+      {
+        "rank": 2,
+        "ticker": "PLTR",
+        "company": "Palantir Technologies Inc.",
+        "sector": "Technology",
+        "industry": "Software—Infrastructure",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 2",
+        "pivot_price": "$182.45",
+        "distance_to_pivot": "1.9%",
+        "telemetry": "Ticked up slightly (+0.55%) to close at $182.45. It continues to ride its 21-day EMA line with the Relative Strength (RS) line hovering near blue-sky highs. Currently sitting 1.9% below its core $186.00 breakout point."
+      },
+      {
+        "rank": 3,
+        "ticker": "ANET",
+        "company": "Arista Networks, Inc.",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 1",
+        "pivot_price": "$365.50",
+        "distance_to_pivot": "3.2%",
+        "telemetry": "Tightened up its price spread considerably, finishing flat on the day. The right side of its handle is showing textbook volume drying up, positioning the asset 3.2% below its $365.50 primary pivot."
+      },
+      {
+        "rank": 4,
+        "ticker": "ONON",
+        "company": "On Holding AG",
+        "sector": "Consumer Cyclical",
+        "industry": "Footwear & Accessories",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 2",
+        "pivot_price": "",
+        "distance_to_pivot": "3.3%",
+        "telemetry": "Continues to defend its 50-day moving average firmly despite weakness in retail. The stock gained +0.80%, compressing its structure to sit 3.3% below its apex trigger point."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-02T20:00:00+00:00",
     "header": "Wednesday, September 2, 2026's Report",
     "headline": "Wednesday, September 2, 2026's Report.",
