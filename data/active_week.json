@@ -1,5 +1,135 @@
 [
   {
+    "timestamp": "2026-09-04T20:00:00+00:00",
+    "header": "Friday, September 4, 2026's Report",
+    "headline": "Friday, September 4, 2026's Report.",
+    "market_status": "Confirmed Uptrend",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,718.60",
+        "change": "-29.11 pts",
+        "pct": "-0.38%",
+        "distribution_days": 4,
+        "action": "Holds at 4 Distribution Days. Total exchange volume thinned to 13.14 billion shares ahead of the long holiday weekend. Declining volume on a down day is a constructive CAN SLIM signal, indicating that institutions are not distribution-dumping core holdings."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "",
+        "change": "",
+        "pct": "-0.29%",
+        "distribution_days": 4,
+        "action": "Gave back -0.29% to close out the weekly session. Holds at 4 Distribution Days. High-multiple application software and tech infrastructure stocks experienced gentle profit-taking as bond yields moved higher."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "",
+        "change": "",
+        "pct": "-0.42%",
+        "distribution_days": null,
+        "action": "-0.42%. Small- and mid-cap cyclicals drifted lower. Market breadth tracked on a tight 1.04-to-1 ratio favoring decliners on the NYSE."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "",
+        "change": "",
+        "pct": "-0.35%",
+        "distribution_days": null,
+        "action": "-0.35%. Choppy, horizontal consolidation. Growth allocations settled into an equilibrium state as traders squared books prior to the long market holiday."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "ALAB",
+        "company": "Astera Labs, Inc.",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "price": "$310.43",
+        "pct": "+9.76%",
+        "action": "Sliced cleanly out of its multi-week flat consolidation base on high institutional volume tracking 85% above average, driven by surging enterprise data-center connectivity orders."
+      },
+      {
+        "rank": 2,
+        "ticker": "IOT",
+        "company": "Samsara Inc.",
+        "sector": "Technology",
+        "industry": "Software—Application",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 2",
+        "price": "$41.30",
+        "pct": "+6.57%",
+        "action": "Exploded through its handle pivot on high-volume institutional accumulation after beating annual recurring cloud operational revenue metrics."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "AMC",
+        "company": "AMC Entertainment",
+        "sector": "Consumer Cyclical",
+        "industry": "Entertainment",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 1",
+        "price": "$2.68",
+        "pct": "+5.57%",
+        "action": "Charted an aggressive volume breakout through its structural middle pivot, detached from macro headwinds on unique capital reorganization progress."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "AXON",
+        "company": "Axon Enterprise, Inc.",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "pivot_price": "$380.00",
+        "distance_to_pivot": "48%",
+        "telemetry": "Still the overall relative strength champion on the board. The asset closed unchanged (0.00%) on rock-bottom, pre-holiday volume (-48% below normal). This highlights total institutional supply scarcity. Sits precisely 0.3% below its $380.00 pivot point."
+      },
+      {
+        "rank": 2,
+        "ticker": "PLTR",
+        "company": "Palantir Technologies Inc.",
+        "sector": "Technology",
+        "industry": "Software—Infrastructure",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 2",
+        "pivot_price": "$186.00",
+        "distance_to_pivot": "2.1%",
+        "telemetry": "Gathered quiet support along its 21-day EMA, closing fractionally down by -0.15%. Its Relative Strength (RS) line remains locked at absolute multi-month highs, positioning the stock 2.1% below its core $186.00 breakout trigger."
+      },
+      {
+        "rank": 3,
+        "ticker": "ANET",
+        "company": "Arista Networks, Inc.",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 1",
+        "pivot_price": "$365.50",
+        "distance_to_pivot": "3.4%",
+        "telemetry": "Successfully formed a very narrow weekly print. The right side of the handle reflects complete seller exhaustion. Closed steady on Friday, resting 3.4% below its $365.50 handle pivot buy point."
+      },
+      {
+        "rank": 4,
+        "ticker": "ONON",
+        "company": "On Holding AG",
+        "sector": "Consumer Cyclical",
+        "industry": "Footwear & Accessories",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 2",
+        "pivot_price": "",
+        "distance_to_pivot": "3.1%",
+        "telemetry": "Defied general retail sector tracking by advancing +0.45% on Friday. It continues to grip its 50-day moving average tightly as structural support, setting up 3.1% below its technical apex trigger."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-03T20:00:00+00:00",
     "header": "Thursday, September 3, 2026's Report",
     "headline": "Thursday, September 3, 2026's Report.",
