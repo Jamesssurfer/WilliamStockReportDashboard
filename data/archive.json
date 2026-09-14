@@ -519,7 +519,9 @@
           "telemetry": "Suffered under the consumer discretionary sector's steep declines. Fell back into the middle-half of its structure, widening out to 5.4% below its apex trigger, which temporarily violates our tight 5% watchlist parameter."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-08-31T20:00:00+00:00",
       "header": "Monday, August 31, 2026's Report",
@@ -661,9 +663,7 @@
           "telemetry": "Defied Monday's retail downturn by tightening its price spread. Slicing directly toward its apex, sitting 2.9% below its $49.80 pivot buy point."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-08-28T20:00:00+00:00",
       "header": "Friday, August 28, 2026's Report",
