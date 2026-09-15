@@ -1,5 +1,111 @@
 [
   {
+    "timestamp": "2026-09-14T20:00:00+00:00",
+    "header": "Monday, September 14, 2026's Report",
+    "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
+    "market_status": "Uptrend Under Pressure",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,705.50",
+        "change": "-1.60 pts",
+        "pct": "-0.02%",
+        "distribution_days": 6,
+        "action": "Holds at 6 Distribution Days. The index fluctuated inside a highly compressed 0.3% intraday band. Total exchange volume dried up drastically to 11.2 billion shares, falling far below the 15-day average, signaling zero institutional selling pressure."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "26,345.18",
+        "change": "+2.64 pts",
+        "pct": "+0.01%",
+        "distribution_days": 6,
+        "action": "Holds at 6 Distribution Days. Tech-growth segments moved horizontally. Small capital flows rotated into standard network hardware providers, offsetting fractional easing in mega-cap cloud providers."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "",
+        "change": "",
+        "pct": "+0.04%",
+        "distribution_days": null,
+        "action": "+0.04%. Balanced market breadth. Advancing issues matched declining issues almost perfectly (1.02-to-1 ratio) on the NYSE, highlighting a lack of directional conviction."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "",
+        "change": "",
+        "pct": "-0.08%",
+        "distribution_days": null,
+        "action": "-0.08%. Horizontal price compaction. Growth assets tracked within tight ranges as algorithms held baseline positions ahead of the interest rate path updates."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "VST",
+        "company": "Vistra Corp.",
+        "sector": "Utilities",
+        "industry": "Utilities—Independent Power Producers",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 2",
+        "price": "$148.65",
+        "pct": "+4.22%",
+        "action": "Cleared a tight 6-week flat base pivot point on institutional volume tracking 45% above normal, driven by structural demand revisions for data-center nuclear grid linkage."
+      },
+      {
+        "rank": 2,
+        "ticker": "COHR",
+        "company": "Coherent Corp.",
+        "sector": "Technology",
+        "industry": "Scientific & Technical Instruments",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 1",
+        "price": "$102.10",
+        "pct": "+3.95%",
+        "action": "Broke past its upper handle boundary on healthy accumulation, continuing the institutional momentum triggered by Friday's broad optical network expansion."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "SG",
+        "company": "Sweetgreen, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Restaurants",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 2",
+        "price": "$41.35",
+        "pct": "+6.12%",
+        "action": "Rocketed clear of its middle consolidation pivot point on high volume, completely uncoupling from a weak consumer discretionary group due to standalone menu margins and store expansion metrics."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "AXON",
+        "company": "Axon Enterprise, Inc.",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "pivot_price": "$380.00",
+        "distance_to_pivot": "52%",
+        "telemetry": "Still the premier relative strength leader on the entire dashboard. The stock printed a literal flatline session (0.00% change) on 52% below-average volume, demonstrating total institutional seller exhaustion. Sits just 0.25% below its $380.00 pivot buy point."
+      },
+      {
+        "rank": 2,
+        "ticker": "ANET",
+        "company": "Arista Networks, Inc.",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 1",
+        "pivot_price": "$365.50",
+        "distance_to_pivot": "2.9%",
+        "telemetry": "Held its ground beautifully following Friday's massive surge. The stock compressed sideways, losing just -0.10% on minimal trading activity. Its Relative Strength (RS) line remains anchored right at blue-sky highs, leaving the stock 2.9% below its primary $365.50 handle trigger."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-11T20:00:00+00:00",
     "header": "Friday, September 11, 2026's Report",
     "headline": "Friday, September 11, 2026's Report.",
