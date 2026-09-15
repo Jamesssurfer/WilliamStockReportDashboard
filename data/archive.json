@@ -1,6 +1,136 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-08T20:00:00+00:00",
+      "header": "Tuesday, September 8, 2026's Report",
+      "headline": "Tuesday, September 8, 2026's Report.",
+      "market_status": "Uptrend Under Pressure",
+      "indexes": [
+        {
+          "name": "S&P 500 Index (.INX)",
+          "value": "7,673.52",
+          "change": "-45.08 pts",
+          "pct": "-0.58%",
+          "distribution_days": 5,
+          "action": "Increases to 5 Distribution Days. Total exchange volume climbed to 15.7 billion shares, coming in above the 20-day institutional baseline average of 14.9 billion. Slicing below the 21-day moving average on higher volume confirms aggressive defensive institutional hedging."
+        },
+        {
+          "name": "Nasdaq Composite (.IXIC)",
+          "value": "26,421.41",
+          "change": "-85.58 pts",
+          "pct": "-0.32%",
+          "distribution_days": 5,
+          "action": "Increases to 5 Distribution Days. The tech-heavy benchmark fell for a second straight session. A severe 4% sell-off in enterprise software components dragged on the index, though strong demand for memory and optical hardware insulated the total losses."
+        },
+        {
+          "name": "Invesco S&P 500 Equal Weight (RSP)",
+          "value": "",
+          "change": "",
+          "pct": "-0.78%",
+          "distribution_days": null,
+          "action": "-0.78%. Capital flight hit broader blue chips forcefully, as seen by the market-cap weighted Dow Jones dropping over 600 points (-1.2%). Market breadth deteriorated to a 2.3-to-1 negative ratio on the NYSE."
+        },
+        {
+          "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+          "value": "",
+          "change": "",
+          "pct": "-0.84%",
+          "distribution_days": null,
+          "action": "-0.84%. Programmatic selling accelerated through non-mega-cap growth layers, signaling that fund managers are raising cash reserves across the tech spectrum."
+        }
+      ],
+      "sector_led_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "INTC",
+          "company": "Intel Corporation",
+          "sector": "Technology",
+          "industry": "Semiconductors",
+          "base_pattern": "Double Bottom",
+          "base_stage": "Stage 1",
+          "price": "$104.47",
+          "pct": "+9.05%",
+          "action": "Sliced powerfully out of its primary middle pivot boundary on massive volume (+140% above normal) following reports of a strategic price adjustment structure scheduled for October."
+        },
+        {
+          "rank": 2,
+          "ticker": "GLW",
+          "company": "Corning Inc.",
+          "sector": "Technology",
+          "industry": "Electronic Components",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 2",
+          "price": "$52.30",
+          "pct": "+7.45%",
+          "action": "Broke past a key flat base pivot point on heavy institutional volume, sparked by an exclusive, multi-billion dollar supply agreement with Verizon Communications to deploy high-density optical fiber."
+        }
+      ],
+      "divergent_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "SEI",
+          "company": "Solaris Energy Infrastructure",
+          "sector": "Energy",
+          "industry": "Oil & Gas Equipment & Services",
+          "base_pattern": "Cup-with-Handle",
+          "base_stage": "Stage 1",
+          "price": "$63.96",
+          "pct": "+16.29%",
+          "action": "Surged completely clear of its consolidation handle on exceptional volume, detaching from broader energy patterns as crude oil trended near multi-month highs."
+        }
+      ],
+      "pre_breakout_watchlist": [
+        {
+          "rank": 1,
+          "ticker": "AXON",
+          "company": "Axon Enterprise, Inc.",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 1",
+          "pivot_price": "$380.00",
+          "distance_to_pivot": "0.7%",
+          "telemetry": "Remains the structural leader on the screen. The stock drifted down slightly by -0.42% on lighter trading volume, displaying tight institutional price support. Sits exactly 0.7% below its $380.00 base pivot buy point."
+        },
+        {
+          "rank": 2,
+          "ticker": "PLTR",
+          "company": "Palantir Technologies Inc.",
+          "sector": "Technology",
+          "industry": "Software—Infrastructure",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 2",
+          "pivot_price": "$175.52",
+          "distance_to_pivot": "5.6%",
+          "telemetry": "Swept up in the widespread software industry contraction, dropping -3.80% to close at $175.52. This volume drop breaks below its 21-day EMA line, widening its proximity to 5.6% below its core $186 breakout pivot. Note: This temporarily violates our 5% parameter; it will be monitored for an immediate rebound at the 50-day moving average or face removal."
+        },
+        {
+          "rank": 3,
+          "ticker": "ANET",
+          "company": "Arista Networks, Inc.",
+          "sector": "Technology",
+          "industry": "Computer Hardware",
+          "base_pattern": "Cup-with-Handle",
+          "base_stage": "Stage 1",
+          "pivot_price": "$365.50",
+          "distance_to_pivot": "4.2%",
+          "telemetry": "Resisted the software rout due to its data-center infrastructure position, finishing the day down just -0.85%. Its Relative Strength (RS) line remains near local highs, keeping the stock positioned 4.2% below its primary $365.50 handle trigger."
+        },
+        {
+          "rank": 4,
+          "ticker": "ONON",
+          "company": "On Holding AG",
+          "sector": "Consumer Cyclical",
+          "industry": "Footwear & Accessories",
+          "base_pattern": "Double Bottom",
+          "base_stage": "Stage 2",
+          "pivot_price": "",
+          "distance_to_pivot": "5.0%",
+          "telemetry": "Fell back -1.90% as consumer retail clusters experienced broad holiday-shortened paring. The asset has loosened its structure slightly, settling 5.0% below its apex trigger point."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-04T20:00:00+00:00",
       "header": "Friday, September 4, 2026's Report",
       "headline": "Friday, September 4, 2026's Report.",
@@ -389,7 +519,9 @@
           "telemetry": "Recovers its spot on our core watchlist after a +1.40% reversal move. The pattern has successfully re-tightened, placing the price tracking back to 4.1% below its apex trigger point."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-01T20:00:00+00:00",
       "header": "Tuesday, September 1, 2026's Report",
@@ -519,9 +651,7 @@
           "telemetry": "Suffered under the consumer discretionary sector's steep declines. Fell back into the middle-half of its structure, widening out to 5.4% below its apex trigger, which temporarily violates our tight 5% watchlist parameter."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-08-31T20:00:00+00:00",
       "header": "Monday, August 31, 2026's Report",
