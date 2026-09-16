@@ -1,6 +1,136 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-09T20:00:00+00:00",
+      "header": "Wednesday, September 9, 2026's Report",
+      "headline": "Wednesday, September 9, 2026's Report.",
+      "market_status": "Uptrend Under Pressure",
+      "indexes": [
+        {
+          "name": "S&P 500 Index (.INX)",
+          "value": "7,644.12",
+          "change": "-29.40 pts",
+          "pct": "-0.38%",
+          "distribution_days": 6,
+          "action": "Increases to 6 Distribution Days. Total aggregate trading volume expanded across the main board. Slicing through the 21-day EMA line on heavy institutional volume elevates near-term cash-preservation signals."
+        },
+        {
+          "name": "Nasdaq Composite (.IXIC)",
+          "value": "26,262.88",
+          "change": "-158.53 pts",
+          "pct": "-0.60%",
+          "distribution_days": 6,
+          "action": "Increases to 6 Distribution Days. Higher-multiple application software, software-as-a-service, and consumption AI nodes took the brunt of the algorithmic hit as discount rates expanded."
+        },
+        {
+          "name": "Invesco S&P 500 Equal Weight (RSP)",
+          "value": "",
+          "change": "",
+          "pct": "-0.68%",
+          "distribution_days": null,
+          "action": "-0.68%. Broad breadth experienced continued rot, and the market-cap weighted Dow Jones plummeted roughly -0.7% on industrial safety-switching."
+        },
+        {
+          "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+          "value": "",
+          "change": "",
+          "pct": "-0.81%",
+          "distribution_days": null,
+          "action": "-0.81%. Non-mega cap growth equities fractured key support points, validating that fund managers are actively sweeping profits out of open positions."
+        }
+      ],
+      "sector_led_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "CAT",
+          "company": "Caterpillar Inc.",
+          "sector": "Industrials",
+          "industry": "Farm & Heavy Construction Machinery",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 1",
+          "price": "$418.50",
+          "pct": "+4.12%",
+          "action": "Defied the broader market drop to punch out into all-time high territory on volume pacing 55% above average, tracking positive institutional rotation into hard asset infrastructure plays."
+        },
+        {
+          "rank": 2,
+          "ticker": "CVX",
+          "company": "Chevron Corporation",
+          "sector": "Energy",
+          "industry": "Oil & Gas Integrated",
+          "base_pattern": "Cup-with-Handle",
+          "base_stage": "Stage 2",
+          "price": "$161.40",
+          "pct": "+3.85%",
+          "action": "Triggered a volume-backed technical breakout as the global energy vector spiked, further accelerated by the ongoing absorption and formal delisting of Hess Corporation merger assets."
+        }
+      ],
+      "divergent_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "LITE",
+          "company": "Lumentum Holdings Inc.",
+          "sector": "Technology",
+          "industry": "Communication Equipment",
+          "base_pattern": "Double Bottom",
+          "base_stage": "Stage 2",
+          "price": "$61.22",
+          "pct": "+8.70%",
+          "action": "Rocketed clear of its middle consolidation pivot on heavy volume, completely disconnecting from the falling tech indexes due to a specialized optical transceived procurement allocation."
+        }
+      ],
+      "pre_breakout_watchlist": [
+        {
+          "rank": 1,
+          "ticker": "AXON",
+          "company": "Axon Enterprise, Inc.",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 1",
+          "pivot_price": "$380.00",
+          "distance_to_pivot": "0.9%",
+          "telemetry": "Retains its absolute leadership role on the dashboard. The stock closed down just -0.20% on flat, defensive volume, showcasing incredible structural insulation. Sits a mere 0.9% below its $380.00 base pivot buy trigger."
+        },
+        {
+          "rank": 2,
+          "ticker": "ANET",
+          "company": "Arista Networks, Inc.",
+          "sector": "Technology",
+          "industry": "Computer Hardware",
+          "base_pattern": "Cup-with-Handle",
+          "base_stage": "Stage 1",
+          "pivot_price": "$365.50",
+          "distance_to_pivot": "5.0%",
+          "telemetry": "Slid -1.10% as hardware clusters absorbed late-day programmatic index selling. The price remains structurally orderly within the right hand of its handle, positioning the stock 5.0% below its primary $365.50 buy trigger. Warning: Reached the maximum threshold boundary."
+        },
+        {
+          "rank": 3,
+          "ticker": "PLTR",
+          "company": "Palantir Technologies Inc.",
+          "sector": "Technology",
+          "industry": "Software—Infrastructure",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 2",
+          "pivot_price": "$171.75",
+          "distance_to_pivot": "7.6%",
+          "telemetry": "⚠️ REMOVED FROM ACTIVE WATCHLIST. The asset dropped another -2.15% to close at $171.75 on climbing volume. The breakdown through the 50-day moving average has caused the right side of the base to severely loosen, pushing its proximity to 7.6% below the breakout pivot and violating our 5% parameter limitation."
+        },
+        {
+          "rank": 4,
+          "ticker": "ONON",
+          "company": "On Holding AG",
+          "sector": "Consumer Cyclical",
+          "industry": "Footwear & Accessories",
+          "base_pattern": "Double Bottom",
+          "base_stage": "Stage 2",
+          "pivot_price": "",
+          "distance_to_pivot": "6.8%",
+          "telemetry": "⚠️ REMOVED FROM ACTIVE WATCHLIST. Suffered severe liquidation alongside broad consumer discretionary themes. Broke structural support to settle 6.8% below its technical trigger point, failing to preserve the tight setup parameters required by the agent."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-08T20:00:00+00:00",
       "header": "Tuesday, September 8, 2026's Report",
       "headline": "Tuesday, September 8, 2026's Report.",
@@ -389,7 +519,9 @@
           "telemetry": "Continues to defend its 50-day moving average firmly despite weakness in retail. The stock gained +0.80%, compressing its structure to sit 3.3% below its apex trigger point."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-02T20:00:00+00:00",
       "header": "Wednesday, September 2, 2026's Report",
@@ -519,9 +651,7 @@
           "telemetry": "Recovers its spot on our core watchlist after a +1.40% reversal move. The pattern has successfully re-tightened, placing the price tracking back to 4.1% below its apex trigger point."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-01T20:00:00+00:00",
       "header": "Tuesday, September 1, 2026's Report",
