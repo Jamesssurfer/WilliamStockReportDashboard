@@ -1,6 +1,112 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-10T20:00:00+00:00",
+      "header": "Thursday, September 10, 2026's Report",
+      "headline": "Thursday, September 10, 2026's Report.",
+      "market_status": "Uptrend Under Pressure",
+      "indexes": [
+        {
+          "name": "S&P 500 Index (.INX)",
+          "value": "",
+          "change": "-44.66 pts",
+          "pct": "-0.58%",
+          "distribution_days": 6,
+          "action": "7,591.70 (-44.66 pts / -0.58%). Holds at 6 Distribution Days. Trading volume remained elevated above historical averages. Systemic support at the short-term 21-day EMA has given way, shifting institutional eyes to the 50-day moving average threshold."
+        },
+        {
+          "name": "Nasdaq Composite (.IXIC)",
+          "value": "26,081.72",
+          "change": "-171.62 pts",
+          "pct": "-0.65%",
+          "distribution_days": 6,
+          "action": "Holds at 6 Distribution Days. Heavyweight chipmakers and artificial intelligence semiconductor components suffered the worst systemic hits, directly weighed down by the rapid escalation in bond yield discount rates."
+        },
+        {
+          "name": "Invesco S&P 500 Equal Weight (RSP)",
+          "value": "",
+          "change": "",
+          "pct": "-0.88%",
+          "distribution_days": null,
+          "action": "-0.88%. Broad market breadth fractured even more sharply than the cap-weighted indexes. The Dow Jones Industrial Average fell -316.56 points (-0.60%) as basic industrial heavyweights and consumer retail components experienced sharp liquidation."
+        },
+        {
+          "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+          "value": "",
+          "change": "",
+          "pct": "-1.02%",
+          "distribution_days": null,
+          "action": "-1.02%. Deeper systemic degradation. Non-mega cap growth equities broken below near-term congestion baselines, revealing widespread cash extraction by tier-1 funds."
+        }
+      ],
+      "sector_led_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "VLO",
+          "company": "Valero Energy Corp.",
+          "sector": "Energy",
+          "industry": "Oil & Gas Refining & Marketing",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 1",
+          "price": "$142.15",
+          "pct": "+4.80%",
+          "action": "Cleared its multi-week consolidation boundary on institutional buying tracing +75% above normal, riding the tailwinds of expanded refining margin expectations from crude price spikes."
+        },
+        {
+          "rank": 2,
+          "ticker": "LMT",
+          "company": "Lockheed Martin Corp.",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense",
+          "base_pattern": "Cup-with-Handle",
+          "base_stage": "Stage 2",
+          "price": "$578.40",
+          "pct": "+3.12%",
+          "action": "Pushed past its technical handle buy pivot point with strong, above-average daily volume, validating continued institutional accumulation within defense clusters amidst widening geopolitical friction."
+        }
+      ],
+      "divergent_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "BK",
+          "company": "The Bank of New York Mellon",
+          "sector": "Financial Services",
+          "industry": "Asset Management",
+          "base_pattern": "Double Bottom",
+          "base_stage": "Stage 1",
+          "price": "",
+          "pct": "",
+          "action": "$163.08 (+2.26%). Disconnected entirely from down-trending financial peers to break through its middle pivot point, supported by substantial structural client asset inflows despite macroeconomic turbulence."
+        }
+      ],
+      "pre_breakout_watchlist": [
+        {
+          "rank": 1,
+          "ticker": "AXON",
+          "company": "Axon Enterprise, Inc.",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 1",
+          "pivot_price": "$380.00",
+          "distance_to_pivot": "45%",
+          "telemetry": "Remains the definitive anchor of relative strength on the sheet. The stock closed essentially flat (-0.05%) on a massive contraction of volume (-45% below average), demonstrating that institutional managers refuse to liquidate their positions. Sits a mere 0.95% below its $380.00 core base pivot."
+        },
+        {
+          "rank": 2,
+          "ticker": "ANET",
+          "company": "Arista Networks, Inc.",
+          "sector": "Technology",
+          "industry": "Computer Hardware",
+          "base_pattern": "Cup-with-Handle",
+          "base_stage": "Stage 1",
+          "pivot_price": "$365.50",
+          "distance_to_pivot": "6.3%",
+          "telemetry": "⚠️ UNDER INTENSE WATCH. Dropped -1.35% on Thursday as chipmakers dragged general tech architecture back down. The price is stretching the lower boundary of its handle layout, positioning the equity exactly 6.3% below its primary $365.50 trigger point. This violates our standard 5% tracking rule. However, because its Relative Strength line remains locked near peak absolute levels, it will be given a 24-hour grace period to defend its 50-day moving average or face deletion."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-09T20:00:00+00:00",
       "header": "Wednesday, September 9, 2026's Report",
       "headline": "Wednesday, September 9, 2026's Report.",
@@ -389,7 +495,9 @@
           "telemetry": "Defied general retail sector tracking by advancing +0.45% on Friday. It continues to grip its 50-day moving average tightly as structural support, setting up 3.1% below its technical apex trigger."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-03T20:00:00+00:00",
       "header": "Thursday, September 3, 2026's Report",
@@ -519,9 +627,7 @@
           "telemetry": "Continues to defend its 50-day moving average firmly despite weakness in retail. The stock gained +0.80%, compressing its structure to sit 3.3% below its apex trigger point."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-02T20:00:00+00:00",
       "header": "Wednesday, September 2, 2026's Report",
