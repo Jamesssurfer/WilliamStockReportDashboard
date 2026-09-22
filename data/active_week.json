@@ -1,5 +1,87 @@
 [
   {
+    "timestamp": "2026-09-21T20:00:00+00:00",
+    "header": "Monday, September 21, 2026's Report",
+    "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
+    "market_status": "Market in Correction",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,664.12",
+        "change": "+13.62 pts",
+        "pct": "+0.18%",
+        "distribution_days": 6,
+        "action": "Holds at 6 Distribution Days. The index fluctuated within a very tight intraday range, finding support right along its short-term congestion floors. Total daily trading volume dried up to 11.4 billion shares, well below the 20-day institutional baseline average, confirming a total lack of aggressive selling pressure."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "26,548.28",
+        "change": "+25.73 pts",
+        "pct": "+0.10%",
+        "distribution_days": 6,
+        "action": "Holds at 6 Distribution Days. Growth clusters tracked sideways. Pockets of strength across specialized data-center networking components were offset by fractional trims in mega-cap cloud providers as the street absorbed the Salesforce transaction metrics."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "",
+        "change": "",
+        "pct": "+0.12%",
+        "distribution_days": null,
+        "action": "+0.12%. Flat, balanced market breadth. Advancing issues matched declining issues on a near 1.05-to-1 ratio on the NYSE, highlighting a widespread absence of directional momentum."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "",
+        "change": "",
+        "pct": "-0.05%",
+        "distribution_days": null,
+        "action": "-0.05%. Programmatic algorithms held baseline positions steady, keeping capital locked in cash preservation patterns."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "PLTR",
+        "company": "Palantir Technologies Inc.",
+        "sector": "Technology",
+        "industry": "Software—Infrastructure",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$179.92",
+        "pct": "+4.76%",
+        "action": "Surged back above its short-term technical moving averages on accelerating institutional volume. Momentum returned following a massive corporate announcement that PLTR has expanded its strategic cloud analytics partnership with Oracle to deploy advanced sovereign data-center infrastructure globally."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "CEG",
+        "company": "Constellation Energy Corp.",
+        "sector": "Utilities",
+        "industry": "Utilities—Renewable",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$248.50",
+        "pct": "+5.12%",
+        "action": "Triggered a significant volume-backed lone-wolf breakout to fresh absolute highs, completely uncoupling from standard utility indices due to multi-year nuclear power allocation contract extensions for AI hyper-scalers."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "AXON",
+        "company": "Axon Enterprise, Inc.",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "pivot_price": "$380.00",
+        "distance_to_pivot": "48%",
+        "telemetry": "Still the premier relative strength leader across the entire agent database. The asset printed a quiet, horizontal session (+0.05% change) on 48% below-average volume. This indicates complete institutional supply lock—fund managers refuse to liquidate blocks despite the macro correction. Sits exactly 0.10% below its $380.00 core base pivot."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-18T20:00:00+00:00",
     "header": "Friday, September 18, 2026's Report",
     "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
