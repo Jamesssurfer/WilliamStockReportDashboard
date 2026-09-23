@@ -1,6 +1,100 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-16T20:00:00+00:00",
+      "header": "Wednesday, September 16, 2026's Report",
+      "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
+      "market_status": "Market in Correction",
+      "indexes": [
+        {
+          "name": "S&P 500 Index (.INX)",
+          "value": "7,551.81",
+          "change": "-33.92 pts",
+          "pct": "-0.45%",
+          "distribution_days": null,
+          "action": "Switches to Market in Correction. The index fell for a seventh time in eight sessions. Total aggregate exchange volume expanded significantly to 2.90 billion shares. Slicing decisively below the critical 50-day moving average on expanding volume invalidates the previous uptrend structure, triggering defensive capital preservation protocols."
+        },
+        {
+          "name": "Nasdaq Composite (.IXIC)",
+          "value": "25,978.42",
+          "change": "-4.12 pts",
+          "pct": "-0.01%",
+          "distribution_days": null,
+          "action": "Switches to Market in Correction. Tech-growth clusters whipsawed violently. Massive, high-volume institutional accumulation in select computing segments offset deep programmatic liquidations in software-as-a-service (SaaS) and high-multiple AI nodes."
+        },
+        {
+          "name": "Invesco S&P 500 Equal Weight (RSP)",
+          "value": "",
+          "change": "",
+          "pct": "-0.84%",
+          "distribution_days": null,
+          "action": "-0.84%. Deep underlying damage. Broad-market breadth fractured severely as the blue-chip Dow Jones Industrial Average plummeted 631.21 points (-1.21%)."
+        },
+        {
+          "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+          "value": "",
+          "change": "",
+          "pct": "-0.65%",
+          "distribution_days": null,
+          "action": "-0.65%. Broad-scale growth paring. Non-mega cap technology assets suffered intense technical breakdown as algorithms extracted capital to safety."
+        }
+      ],
+      "sector_led_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "INTC",
+          "company": "Intel Corporation",
+          "sector": "Technology",
+          "industry": "Semiconductors",
+          "base_pattern": "",
+          "base_stage": "",
+          "price": "$113.80",
+          "pct": "+8.93%",
+          "action": "Completely decoupled from the market downturn on explosive institutional volume pacing +210% above average. Momentum surged following leaked reports that SK Hynix is in advanced talks to lease domestic manufacturing capacity, providing a massive multi-year tailwind for Intel's domestic foundry business."
+        }
+      ],
+      "divergent_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "NUE",
+          "company": "Nucor Corporation",
+          "sector": "Basic Materials",
+          "industry": "Steel",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 2",
+          "price": "$184.20",
+          "pct": "+4.15%",
+          "action": "Triggered a lone-wolf technical breakout past its core consolidation pivot line, heavily insulated from macro headwinds due to domestic steel industrial re-shoring allocations."
+        }
+      ],
+      "pre_breakout_watchlist": [
+        {
+          "rank": 1,
+          "ticker": "AXON",
+          "company": "Axon Enterprise, Inc.",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 1",
+          "pivot_price": "$380.00",
+          "distance_to_pivot": "32%",
+          "telemetry": "The single remaining pillar of absolute relative strength in the entire database. Despite severe index liquidations, the asset dropped just -0.15% on low defensive volume (-32% below normal). Institutions refuse to loose their supply block. Sits exactly 0.40% below its $380.00 base pivot buy trigger."
+        },
+        {
+          "rank": 2,
+          "ticker": "ANET",
+          "company": "Arista Networks, Inc.",
+          "sector": "Technology",
+          "industry": "Computer Hardware",
+          "base_pattern": "Cup-with-Handle",
+          "base_stage": "Stage 1",
+          "pivot_price": "",
+          "distance_to_pivot": "5.9%",
+          "telemetry": "⚠️ REMOVED FROM ACTIVE WATCHLIST. The stock was swept up in the late-day programmatic tech purge, falling -2.65% to close below its 50-day moving average. The structural handle has completely broken down, widening its proximity to 5.9% below its primary pivot trigger and violating our strict 5% risk tolerance limit."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-15T20:00:00+00:00",
       "header": "Tuesday, September 15, 2026's Report",
       "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
@@ -423,7 +517,9 @@
           "telemetry": "⚠️ UNDER INTENSE WATCH. Dropped -1.35% on Thursday as chipmakers dragged general tech architecture back down. The price is stretching the lower boundary of its handle layout, positioning the equity exactly 6.3% below its primary $365.50 trigger point. This violates our standard 5% tracking rule. However, because its Relative Strength line remains locked near peak absolute levels, it will be given a 24-hour grace period to defend its 50-day moving average or face deletion."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-09T20:00:00+00:00",
       "header": "Wednesday, September 9, 2026's Report",
@@ -553,9 +649,7 @@
           "telemetry": "⚠️ REMOVED FROM ACTIVE WATCHLIST. Suffered severe liquidation alongside broad consumer discretionary themes. Broke structural support to settle 6.8% below its technical trigger point, failing to preserve the tight setup parameters required by the agent."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-08T20:00:00+00:00",
       "header": "Tuesday, September 8, 2026's Report",
