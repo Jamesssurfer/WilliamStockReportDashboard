@@ -1,5 +1,99 @@
 [
   {
+    "timestamp": "2026-09-22T20:00:00+00:00",
+    "header": "Tuesday, September 22, 2026's Report",
+    "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
+    "market_status": "Confirmed Uptrend",
+    "indexes": [
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "27,244.28",
+        "change": "+122.18 pts",
+        "pct": "+0.45%",
+        "distribution_days": null,
+        "action": "Confirmed Uptrend Active. The tech-focused index captured a fresh all-time high closing record for the second consecutive session. Aggregate exchange trading volume expanded forcefully to 17.9 billion shares, flying well above the 20-session institutional average of 16.3 billion. A high-volume breakout to new absolute ground provides a strong institutional sign of trend validation."
+      },
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "",
+        "change": "-0.06 pts",
+        "pct": "-0.00%",
+        "distribution_days": null,
+        "action": "7,764.64 (-0.06 pts / -0.00%). Holds structural support perfectly, finishing essentially flat. The benchmark index tracks inside a tight consolidation layer, resting a microscopic 0.44% below its own all-time record close set last month."
+      },
+      {
+        "name": "Dow Jones Industrial Average (.DJI)",
+        "value": "51,863.69",
+        "change": "-185.14 pts",
+        "pct": "-0.40%",
+        "distribution_days": null,
+        "action": "Underperformed significantly due to severe capital paring across legacy banks, with JPMorgan Chase (JPM) dropping -3.26% on AI commercial disruption fears."
+      },
+      {
+        "name": "Russell 2000 Index (.RUT)",
+        "value": "2,889.92",
+        "change": "+14.56 pts",
+        "pct": "+0.55%",
+        "distribution_days": null,
+        "action": "Strong breadth expansion in smaller capital units, confirming a healthy dispersion of fund deployment away from narrow mega-cap lines."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "MU",
+        "company": "Micron Technology, Inc.",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "price": "$168.40",
+        "pct": "+6.80%",
+        "action": "Staged a powerful, high-volume structural breakout to become one of the top gainers inside the entire S&P 500. Momentum was supercharged by massive institutional forward projections for high-bandwidth memory (HBM) modules needed to fuel the AI assistant boom."
+      },
+      {
+        "rank": 2,
+        "ticker": "SHOP",
+        "company": "Shopify Inc.",
+        "sector": "Technology",
+        "industry": "Software—Application",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 2",
+        "price": "",
+        "pct": "",
+        "action": "$148.64 (+7.77%). Sliced aggressively past its technical handle pivot line on heavy volume expansion, heavily insulated from macro retail drag due to surging e-commerce agent integration loops."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "VKTX",
+        "company": "Viking Therapeutics, Inc.",
+        "sector": "Healthcare",
+        "industry": "Biotechnology",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 2",
+        "price": "$38.78",
+        "pct": "+28.80%",
+        "action": "Exploded out of a deep multi-week middle pivot on staggering volume, completely uncoupling from a heavily declining broader medical and healthcare sector."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "AXON",
+        "company": "Axon Enterprise, Inc.",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "pivot_price": "$380.00",
+        "distance_to_pivot": "38%",
+        "telemetry": "The absolute historical anchor of institutional supply control. As the broader market confirmed its new upward push, the asset advanced +0.12% on a textbook volume contraction (-38% below multi-week averages). Funds are completely locking up supply, refusing to release block structures. Sits perfectly tight, positioned a mere 0.03% below its $380.00 base pivot buy zone."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-21T20:00:00+00:00",
     "header": "Monday, September 21, 2026's Report",
     "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
