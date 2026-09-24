@@ -1,5 +1,107 @@
 [
   {
+    "timestamp": "2026-09-23T20:00:00+00:00",
+    "header": "Wednesday, September 23, 2026's Report",
+    "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
+    "market_status": "Confirmed Uptrend",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,706.03",
+        "change": "-58.61 pts",
+        "pct": "-0.75%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 1 Distribution Day). (Note: Prior multi-week counts were completely cleared following the index's climb to fresh technical high ground on September 22). Total aggregate exchange volume expanded over the previous session, confirming true institutional de-risking as interest rate paths adjusted higher."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "26,936.04",
+        "change": "-308.24 pts",
+        "pct": "-1.13%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 1 Distribution Day). (Note: Prior distribution days expired as the index closed at a fresh historic record high on September 22). The tech-focused index snapped its consecutive record-closing run. Institutional liquidation expanded forcefully across high-multiple AI tech setups and semiconductor nodes."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "20,115.40",
+        "change": "-148.60 pts",
+        "pct": "-0.73%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 1 Distribution Day). Legacy financials and industrial commodity layers buckled as broad market breadth thinned. The index registered an expansion in daily trading volume above its 20-day baseline average."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$211.31",
+        "change": "-1.49 pts",
+        "pct": "-0.70%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 1 Distribution Day). Unskewed by mega-cap trillion-dollar tech weights, the equal-weighted index dropped on expanding volume. This confirms broad-market participation in the institutional pullback rather than an isolated big-tech contraction."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$121.35",
+        "change": "-0.99 pts",
+        "pct": "-0.81%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 1 Distribution Day). Programmatic cash extractions swept across mid-tier growth slots, forcing the index below near-term structural consolidation lines on heavy volume."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "COP",
+        "company": "ConocoPhillips",
+        "sector": "Energy",
+        "industry": "Oil & Gas Exploration & Production",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "price": "$118.45",
+        "pct": "+4.25%",
+        "action": "Cleared its upper resistance consolidation pivot line on heavy institutional volume tracking 65% above average, driven by the abrupt resurgence in global Brent crude valuations."
+      },
+      {
+        "rank": 2,
+        "ticker": "STLD",
+        "company": "Steel Dynamics, Inc.",
+        "sector": "Basic Materials",
+        "industry": "Steel",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 2",
+        "price": "$134.10",
+        "pct": "+3.90%",
+        "action": "Cleared its near-term structural handle trigger point with a firm volume pop, continuing the strong lone-wolf raw material theme."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "CRWD",
+        "company": "CrowdStrike Holdings, Inc.",
+        "sector": "Technology",
+        "industry": "Software—Infrastructure",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$318.50",
+        "pct": "+5.12%",
+        "action": "Completely disconnected from the crashing technology indices. It rallied on massive, isolated institutional fund inflows as cybersecurity clusters garnered safety defensive bid status."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "AXON",
+        "company": "Axon Enterprise, Inc.",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "pivot_price": "$450.61",
+        "distance_to_pivot": "1.8%",
+        "telemetry": "The long-standing relative strength leader felt its first significant structural pullback in weeks, slipping -1.90% to close at $450.61 as programmatic baskets dragged defense lines. It currently sits 1.8% below its short-term triggers, but remains well within its macro base structure."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-22T20:00:00+00:00",
     "header": "Tuesday, September 22, 2026's Report",
     "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
