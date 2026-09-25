@@ -1,6 +1,100 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-18T20:00:00+00:00",
+      "header": "Friday, September 18, 2026's Report",
+      "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
+      "market_status": "Market in Correction",
+      "indexes": [
+        {
+          "name": "S&P 500 Index (.INX)",
+          "value": "7,650.50",
+          "change": "+12.74 pts",
+          "pct": "+0.17%",
+          "distribution_days": 6,
+          "action": "Holds at 6 Distribution Days. The benchmark index notched a marginal gain but [finished the five-session period 0.08% lower, locking in its second consecutive weekly loss."
+        },
+        {
+          "name": "Nasdaq Composite (.IXIC)",
+          "value": "26,522.55",
+          "change": "+104.25 pts",
+          "pct": "+0.39%",
+          "distribution_days": 6,
+          "action": "Holds at 6 Distribution Days. Led higher by standard computing hardware and selected front-tier artificial intelligence listings. The index defied a rolling correction loop to finish the weekly cycle 0.7% higher."
+        },
+        {
+          "name": "Dow Jones Industrial Average (.DJI)",
+          "value": "51,682.64",
+          "change": "-95.40 pts",
+          "pct": "-0.18%",
+          "distribution_days": null,
+          "action": "Underperformed substantially. Industrial blue chips suffered severe weekly erosion, [plummeting 1.7% over the five-session frame to register their third straight weekly decline."
+        },
+        {
+          "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+          "value": "",
+          "change": "",
+          "pct": "+0.22%",
+          "distribution_days": null,
+          "action": "+0.22%. Indicated flat, late-day horizontal churn as automated algorithmic positions re-balanced ahead of the weekend options expiration."
+        }
+      ],
+      "sector_led_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "COIN",
+          "company": "Coinbase Global, Inc.",
+          "sector": "Financial Services",
+          "industry": "Capital Markets",
+          "base_pattern": "Double Bottom",
+          "base_stage": "Stage 1",
+          "price": "$191.28",
+          "pct": "+9.95%",
+          "action": "Exploded clear of its middle consolidation pivot boundary on massive trading volume, tracking a sharp weekly surge in global alternative digital stores of value."
+        },
+        {
+          "rank": 2,
+          "ticker": "MSTR",
+          "company": "MicroStrategy Inc.",
+          "sector": "Technology",
+          "industry": "Software—Application",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 2",
+          "price": "$147.30",
+          "pct": "+11.38%",
+          "action": "Sliced through its primary base trigger line on powerful institutional volume, completely ignoring the overarching software group drag."
+        }
+      ],
+      "divergent_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "ALMR",
+          "company": "Alamar Biosciences, Inc.",
+          "sector": "Healthcare",
+          "industry": "Diagnostics & Research",
+          "base_pattern": "Cup-with-Handle",
+          "base_stage": "Stage 1",
+          "price": "$35.78",
+          "pct": "+11.81%",
+          "action": "Staged a significant lone-wolf breakout to fresh absolute 52-week highs on heavy institutional accumulation, detached entirely from macro yield volatility."
+        }
+      ],
+      "pre_breakout_watchlist": [
+        {
+          "rank": 1,
+          "ticker": "AXON",
+          "company": "Axon Enterprise, Inc.",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 1",
+          "pivot_price": "$380.00",
+          "distance_to_pivot": "45%",
+          "telemetry": "The absolute king of relative strength. The asset closed unchanged (0.00%) on rock-bottom Friday pre-close volume (-45% below the multi-week average). This structural profile confirms total institutional supply lock—fund managers refuse to liquidate blocks despite the macro correction tape. Sits exactly 0.15% below its $380.00 core base breakout pivot."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-17T20:00:00+00:00",
       "header": "Thursday, September 17, 2026's Report",
       "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
@@ -399,7 +493,9 @@
           "telemetry": "Held its ground beautifully following Friday's massive surge. The stock compressed sideways, losing just -0.10% on minimal trading activity. Its Relative Strength (RS) line remains anchored right at blue-sky highs, leaving the stock 2.9% below its primary $365.50 handle trigger."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-11T20:00:00+00:00",
       "header": "Friday, September 11, 2026's Report",
@@ -505,9 +601,7 @@
           "telemetry": "🛡️ WATCHLIST RECOVERY. Responding directly to Oracle's explosive cloud data-center telemetry, the asset surged +3.40% on Friday. This powerful move fully repaired Thursday's handle breakdown, pulling the equity back up to sit exactly 2.8% below its primary $365.50 breakout pivot."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-10T20:00:00+00:00",
       "header": "Thursday, September 10, 2026's Report",
