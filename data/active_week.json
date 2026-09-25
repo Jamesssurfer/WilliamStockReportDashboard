@@ -1,5 +1,107 @@
 [
   {
+    "timestamp": "2026-09-24T20:00:00+00:00",
+    "header": "Thursday, September 24, 2026's Report",
+    "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,704.13",
+        "change": "-1.90 pts",
+        "pct": "-0.02%",
+        "distribution_days": 1,
+        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). The index staged a resilient intraday recovery after bouncing cleanly off its near-term structural congestion floors. Total daily volume contracted slightly compared to Wednesday's rout, resulting in an orderly, non-distribution pause."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "26,939.37",
+        "change": "+3.34 pts",
+        "pct": "+0.01%",
+        "distribution_days": 1,
+        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). The tech-heavy index squeaked into positive territory at the close. Powerful large-cap tech demand neutralized rolling liquidations in multiple semiconductor lines, keeping the counter completely unchanged."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "20,081.25",
+        "change": "-34.15 pts",
+        "pct": "-0.17%",
+        "distribution_days": 1,
+        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). Pullbacks across blue-chip industrial and basic material clusters slowed down dramatically during the afternoon session, maintaining defensive structural configurations."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$210.95",
+        "change": "-0.36 pts",
+        "pct": "-0.17%",
+        "distribution_days": 1,
+        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). Broad-market breadth thinned slightly on a 1.4-to-1 negative ratio on the NYSE, but the minor drop occurred on lower volume, preventing a second consecutive distribution print."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$121.16",
+        "change": "-0.19 pts",
+        "pct": "-0.16%",
+        "distribution_days": 1,
+        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). Mid-tier growth and cloud setups consolidated sideways in a tight equilibrium band as programmatic options algorithms paused their cash-extraction sweeps."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "EVPR",
+        "company": "Everpure, Inc.",
+        "sector": "Consumer Defensive",
+        "industry": "Water Utilities & Filtration",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$42.15",
+        "pct": "+11.20%",
+        "action": "Exploded out of a 7-week tight flat consolidation base to lead the broad tape on massive institutional volume (+165% above normal), tracking rotation into highly defensive, insulated commodity utilities."
+      },
+      {
+        "rank": 2,
+        "ticker": "TTE",
+        "company": "TotalEnergies SE",
+        "sector": "Energy",
+        "industry": "Oil & Gas Integrated",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 1",
+        "price": "$71.40",
+        "pct": "+3.65%",
+        "action": "Triggered a clean breakout past its technical handle pivot line, heavily backed by tier-1 funds as Middle East energy shocks kept absolute integrated asset prices historically tight."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "META",
+        "company": "Meta Platforms, Inc.",
+        "sector": "Communication Services",
+        "industry": "Internet Content & Information",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$612.45",
+        "pct": "+2.42%",
+        "action": "Defied the broader market drop completely to lead the communication sector. It surged into clear blue-sky territory on massive institutional block volume, driven by explosive global ad monetization metrics from its new end-to-end \"Muse\" AI assistant loop."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "AXON",
+        "company": "Axon Enterprise, Inc.",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "pivot_price": "$452.64",
+        "distance_to_pivot": "1.35%",
+        "telemetry": "Showed strong recovery characteristics following Wednesday's drop, ticking up +0.45% to close at $452.64. The asset continues to compress tightly along its short-term moving average lines, positioning its absolute proximity back to 1.35% below its core $380.00 buy trigger."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-23T20:00:00+00:00",
     "header": "Wednesday, September 23, 2026's Report",
     "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
