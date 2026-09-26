@@ -1783,7 +1783,9 @@
           "telemetry": "Moving sideways in a tight 4% price band for 5 weeks within a top-performing industry group. Institutional \"v-turn\" support is visible at the 50-day moving average. Sitting within 1.2% of its $380.00 base pivot."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-08-27T20:00:00+00:00",
       "header": "Thursday, August 27, 2026's Report",
@@ -1888,9 +1890,7 @@
         }
       ],
       "pre_breakout_watchlist": []
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-08-25T20:00:00+00:00",
       "header": "Tuesday, August 25, 2026's Report",
