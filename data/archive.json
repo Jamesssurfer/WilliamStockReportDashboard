@@ -1629,7 +1629,9 @@
           "telemetry": "Defied Monday's retail downturn by tightening its price spread. Slicing directly toward its apex, sitting 2.9% below its $49.80 pivot buy point."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-08-28T20:00:00+00:00",
       "header": "Friday, August 28, 2026's Report",
@@ -1783,9 +1785,7 @@
           "telemetry": "Moving sideways in a tight 4% price band for 5 weeks within a top-performing industry group. Institutional \"v-turn\" support is visible at the 50-day moving average. Sitting within 1.2% of its $380.00 base pivot."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-08-27T20:00:00+00:00",
       "header": "Thursday, August 27, 2026's Report",
