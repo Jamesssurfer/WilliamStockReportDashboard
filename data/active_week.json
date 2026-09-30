@@ -1,5 +1,95 @@
 [
   {
+    "timestamp": "2026-09-29T20:00:00+00:00",
+    "header": "Tuesday, September 29, 2026's Report",
+    "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,670.84",
+        "change": "-12.85 pts",
+        "pct": "-0.17%",
+        "distribution_days": 1,
+        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). The benchmark index managed to pare its steepest intraday losses to close off its lows. Crucially, total volume on U.S. exchanges thinned to 16.15 billion shares—falling below the 16.87 billion 20-day average—preventing this down-session from printing a fresh distribution day."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "26,797.54",
+        "change": "-22.84 pts",
+        "pct": "-0.08%",
+        "distribution_days": 1,
+        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). Secular tech found marginal relative support after New York Fed President John Williams remarked that the central bank need not rush to raise rates. Programmatic dip-buying in large-cap hardware prevented a high-volume breakdown."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "20,011.14",
+        "change": "-70.11 pts",
+        "pct": "-0.35%",
+        "distribution_days": 1,
+        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). Dragged lower by financial underperformance, with major institutions like JPMorgan Chase and Bank of America sliding on yield-curve flattening pressure."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$210.42",
+        "change": "-0.53 pts",
+        "pct": "-0.25%",
+        "distribution_days": 1,
+        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). Broad market decay continued to track quietly under the surface. Decliners led advancing stocks on the NYSE on a lighter volume profile, avoiding systemic fund liquidations."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$120.92",
+        "change": "-0.24 pts",
+        "pct": "-0.20%",
+        "distribution_days": 1,
+        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). Mid-tier software and tech-growth components consolidated horizontally as automated trading corridors protected baseline support parameters."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "GLW",
+        "company": "Corning Inc.",
+        "sector": "Technology",
+        "industry": "Electronic Components",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$53.12",
+        "pct": "+4.85%",
+        "action": "Strongly defied the broader market's downward drift to punch to new multi-month highs on high institutional block volume. Capital continues to concentrate heavily in its optical fiber divisions following macro carrier infrastructure upgrades."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "CCL",
+        "company": "Carnival Corporation & plc",
+        "sector": "Consumer Cyclical",
+        "industry": "Travel Services",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 1",
+        "price": "$18.45",
+        "pct": "+6.12%",
+        "action": "Rebounded aggressively to rank among the top S&P 500 gainers. It uncoupled entirely from consumer confidence anxieties as fuel operating costs dropped on the back of falling Brent crude benchmarks."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "AXON",
+        "company": "Axon Enterprise, Inc.",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "pivot_price": "$453.32",
+        "distance_to_pivot": "1.20%",
+        "telemetry": "Exhibited world-class structural insulation on Tuesday, ticking up +0.15% to close at $453.32. Institutional desks completely refuse to unlock their block supply structures during index noise. Price compression remains visually flawless along short-term moving averages, pinning its absolute breakout proximity to a razor-thin 1.20% below its core $380.00 buy trigger."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-28T20:00:00+00:00",
     "header": "Monday, September 28, 2026's Report",
     "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
