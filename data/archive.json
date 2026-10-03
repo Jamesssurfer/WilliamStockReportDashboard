@@ -1579,7 +1579,9 @@
           "telemetry": "Defied general retail sector tracking by advancing +0.45% on Friday. It continues to grip its 50-day moving average tightly as structural support, setting up 3.1% below its technical apex trigger."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-03T20:00:00+00:00",
       "header": "Thursday, September 3, 2026's Report",
@@ -1709,9 +1711,7 @@
           "telemetry": "Continues to defend its 50-day moving average firmly despite weakness in retail. The stock gained +0.80%, compressing its structure to sit 3.3% below its apex trigger point."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-02T20:00:00+00:00",
       "header": "Wednesday, September 2, 2026's Report",
