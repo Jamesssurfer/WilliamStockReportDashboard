@@ -1449,7 +1449,9 @@
           "telemetry": "Fell back -1.90% as consumer retail clusters experienced broad holiday-shortened paring. The asset has loosened its structure slightly, settling 5.0% below its apex trigger point."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-04T20:00:00+00:00",
       "header": "Friday, September 4, 2026's Report",
@@ -1579,9 +1581,7 @@
           "telemetry": "Defied general retail sector tracking by advancing +0.45% on Friday. It continues to grip its 50-day moving average tightly as structural support, setting up 3.1% below its technical apex trigger."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-03T20:00:00+00:00",
       "header": "Thursday, September 3, 2026's Report",
