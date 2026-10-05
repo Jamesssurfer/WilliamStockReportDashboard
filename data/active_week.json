@@ -1,5 +1,107 @@
 [
   {
+    "timestamp": "2026-10-05T20:00:00+00:00",
+    "header": "Monday, October 5, 2026's Report",
+    "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,773.99",
+        "change": "+51.27 pts",
+        "pct": "+0.66%",
+        "distribution_days": 2,
+        "action": "Holds at 2 Distribution Days (Total: 2 Distribution Days). The index advanced on institutional accumulation filters, recovering completely from its early morning hesitation. Crucially, aggregate exchange volume thinned slightly compared to peak liquidation matrices, keeping the baseline distribution count cleanly locked."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "27,477.31",
+        "change": "+286.45 pts",
+        "pct": "+1.05%",
+        "distribution_days": 2,
+        "action": "Holds at 2 Distribution Days (Total: 2 Distribution Days). Mega-cap technology allocation grids provided immense structural leadership to lift the average to a new all-time high close. High-multiple software vectors successfully shook off the 5.31% yield headwind."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "20,082.40",
+        "change": "+131.30 pts",
+        "pct": "+0.66%",
+        "distribution_days": 2,
+        "action": "Holds at 2 Distribution Days (Total: 2 Distribution Days). Broad participation across industrial elements and manufacturing lines supported the legacy index off intermediate support baselines as energy benchmarks soft-landed."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$210.98",
+        "change": "+1.30 pts",
+        "pct": "+0.62%",
+        "distribution_days": 2,
+        "action": "Holds at 2 Distribution Days (Total: 2 Distribution Days). Market breadth validated the underlying health of the session, tracking a clear 2.1-to-1 positive advancing ratio across the main board on steady programmatic block inflows."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$121.68",
+        "change": "+1.08 pts",
+        "pct": "+0.90%",
+        "distribution_days": 2,
+        "action": "Holds at 2 Distribution Days (Total: 2 Distribution Days). Cash extraction loops completely reversed course, streaming liquidity back into mid-tier application networks and computational components."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "PTC",
+        "company": "PTC Inc.",
+        "sector": "Technology",
+        "industry": "Software—Application",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "",
+        "pct": "",
+        "action": "$191.31 (+33.00%). Staged an extraordinary, record-breaking gap up to clear all multi-year overhead chart resistance shelves following a definitive $22.6 billion all-cash acquisition agreement from French industrial engineering giant Schneider Electric."
+      },
+      {
+        "rank": 2,
+        "ticker": "PCVX",
+        "company": "Vaxcyte, Inc.",
+        "sector": "Healthcare",
+        "industry": "Biotechnology",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$73.82",
+        "pct": "+30.70%",
+        "action": "Exploded past its primary consolidation pivot point on extraordinary institutional block volume pacing 8x above historical norms, supercharged after its experimental 31-valent pneumococcal conjugate vaccine candidate met all co-primary Phase 3 endpoints."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "NVDA",
+        "company": "NVIDIA Corporation",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$127.51",
+        "pct": "+2.25%",
+        "action": "Fully decoupled from intermediate sector noise and high sovereign yields to vault to a new all-time high close, leading mega-cap tech accumulation grids."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "AXON",
+        "company": "Axon Enterprise, Inc.",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "pivot_price": "$454.12",
+        "distance_to_pivot": "0.95%",
+        "telemetry": "Maintained elite structural insulation during the tech rotation, grinding fractionally higher to close at $454.12. Supply mechanics remain exceptionally tight as tier-1 desks refuse to release block structures, pinning price action a razor-thin 0.95% below its core $380.00 base pivot buy trigger zone."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-02T20:00:00+00:00",
     "header": "Friday, October 2, 2026's Report",
     "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
@@ -368,96 +470,6 @@
         "pivot_price": "$453.32",
         "distance_to_pivot": "1.20%",
         "telemetry": "Exhibited world-class structural insulation on Tuesday, ticking up +0.15% to close at $453.32. Institutional desks completely refuse to unlock their block supply structures during index noise. Price compression remains visually flawless along short-term moving averages, pinning its absolute breakout proximity to a razor-thin 1.20% below its core $380.00 buy trigger."
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-28T20:00:00+00:00",
-    "header": "Monday, September 28, 2026's Report",
-    "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
-    "market_status": "",
-    "indexes": [
-      {
-        "name": "S&P 500 Index (.INX)",
-        "value": "7,732.14",
-        "change": "-15.98 pts",
-        "pct": "-0.21%",
-        "distribution_days": 1,
-        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). The benchmark index pulled back fractionally on Monday after its late-week accumulation run. Total daily trading volume dropped below its 20-day institutional average, marking the session as a normal, non-distribution digest day. Short-term exponential moving average support holds perfectly intact."
-      },
-      {
-        "name": "Nasdaq Composite (.IXIC)",
-        "value": "27,133.72",
-        "change": "-17.58 pts",
-        "pct": "-0.06%",
-        "distribution_days": 1,
-        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). Tech-growth allocations compressed sideways. Pockets of strength across specialized data-center component spaces effectively neutralized rolling profit-taking trims in high-multiple application software layers."
-      },
-      {
-        "name": "NYSE Composite (.NYA)",
-        "value": "20,105.10",
-        "change": "-60.30 pts",
-        "pct": "-0.30%",
-        "distribution_days": 1,
-        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). Underperformed the tech indices slightly due to broad-scale cooling across energy utilities, basic materials, and heavy cyclical lines as oil prices stabilized."
-      },
-      {
-        "name": "Invesco S&P 500 Equal Weight (RSP)",
-        "value": "$211.20",
-        "change": "-0.55 pts",
-        "pct": "-0.26%",
-        "distribution_days": 1,
-        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). Broad-market participation paused, with declining stocks slightly outpacing advancing listings on a 1.3-to-1 ratio across the main board on lower volume."
-      },
-      {
-        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
-        "value": "$121.58",
-        "change": "-0.14 pts",
-        "pct": "-0.12%",
-        "distribution_days": 1,
-        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). Programmatic algorithms held baseline tech-growth and cloud allocations steady, keeping capital locked in tight horizontal patterns."
-      }
-    ],
-    "sector_led_breakouts": [
-      {
-        "rank": 1,
-        "ticker": "MRVL",
-        "company": "Marvell Technology, Inc.",
-        "sector": "Technology",
-        "industry": "Semiconductors",
-        "base_pattern": "Flat Base",
-        "base_stage": "Stage 1",
-        "price": "$82.40",
-        "pct": "+4.62%",
-        "action": "Sliced cleanly past its upper baseline consolidation resistance on institutional trading volume tracking +55% above average, driven by robust forward demand parameters for AI custom compute chips."
-      }
-    ],
-    "divergent_breakouts": [
-      {
-        "rank": 1,
-        "ticker": "CTAS",
-        "company": "Cintas Corporation",
-        "sector": "Industrials",
-        "industry": "Specialty Business Services",
-        "base_pattern": "Flat Base",
-        "base_stage": "Stage 2",
-        "price": "$212.15",
-        "pct": "+3.85%",
-        "action": "Triggered a significant lone-wolf breakout to fresh Technical Relative Strength highs, completely uncoupling from a down-trending broader industrial services landscape after updating quarterly execution models."
-      }
-    ],
-    "pre_breakout_watchlist": [
-      {
-        "rank": 1,
-        "ticker": "AXON",
-        "company": "Axon Enterprise, Inc.",
-        "sector": "Industrials",
-        "industry": "Aerospace & Defense",
-        "base_pattern": "Flat Base",
-        "base_stage": "Stage 1",
-        "pivot_price": "$380.00",
-        "distance_to_pivot": "42%",
-        "telemetry": "Still the premier relative strength leader across the active database context. The asset recorded a quiet, narrow session (-0.12% change) on 42% below-average volume. Institutional supply remains tightly locked up as funds refuse to sell blocks. Proximity sits at a razor-thin 0.35% below its core $380.00 breakout pivot."
       }
     ]
   }
