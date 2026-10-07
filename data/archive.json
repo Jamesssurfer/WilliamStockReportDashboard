@@ -1,6 +1,96 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-30T20:00:00+00:00",
+      "header": "Wednesday, September 30, 2026's Report",
+      "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
+      "market_status": "Confirmed Uptrend",
+      "indexes": [
+        {
+          "name": "S&P 500 Index (.INX)",
+          "value": "7,651.54",
+          "change": "-54.49 pts",
+          "pct": "-0.71%",
+          "distribution_days": 1,
+          "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). The benchmark index pulled back on late-day portfolio shifts, locking in a 2.03% gain for the quarter. Total daily aggregate trading volume contracted below yesterday's heavy liquidation levels, saving the core average from triggering a second distribution count."
+        },
+        {
+          "name": "Nasdaq Composite (.IXIC)",
+          "value": "27,001.04",
+          "change": "+65.00 pts",
+          "pct": "+0.24%",
+          "distribution_days": 1,
+          "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). Tech-growth allocations served as a structural bright spot. Powerful institutional capital concentration inside hardware networks shielded the index from broad liquidation."
+        },
+        {
+          "name": "NYSE Composite (.NYA)",
+          "value": "19,951.40",
+          "change": "-59.74 pts",
+          "pct": "-0.30%",
+          "distribution_days": 1,
+          "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). Underperformed due to deep structural rotation away from real estate, utilities, and rate-sensitive financial entities as long yields expanded."
+        },
+        {
+          "name": "Invesco S&P 500 Equal Weight (RSP)",
+          "value": "$209.70",
+          "change": "-0.72 pts",
+          "pct": "-0.34%",
+          "distribution_days": 1,
+          "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). Broad market breadth closed mildly negative on the day, with decliners outnumbering advancing listings on the main board on lower trading volume."
+        },
+        {
+          "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+          "value": "$120.60",
+          "change": "-0.32 pts",
+          "pct": "-0.26%",
+          "distribution_days": 1,
+          "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). Mid-tier technology lines consolidated horizontally as portfolio desks balanced position limits ahead of the new quarter."
+        }
+      ],
+      "sector_led_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "MU",
+          "company": "Micron Technology, Inc.",
+          "sector": "Technology",
+          "industry": "Semiconductors",
+          "base_pattern": "",
+          "base_stage": "",
+          "price": "$179.80",
+          "pct": "+6.77%",
+          "action": "Staged a powerful, volume-backed breakout to print multi-month high parameters. The surge was supercharged by record fiscal fourth-quarter results, with revenue jumping to $54.23 billion alongside explosive forward guidance loops fueled by massive AI memory infrastructure allocation limits."
+        }
+      ],
+      "divergent_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "VLO",
+          "company": "Valero Energy Corp.",
+          "sector": "Energy",
+          "industry": "Oil & Gas Refining & Marketing",
+          "base_pattern": "",
+          "base_stage": "",
+          "price": "$146.50",
+          "pct": "+3.05%",
+          "action": "Strongly decoupled from broad index pressure to clear its near-term price ceiling on high volume. Absolute refined asset metrics remain heavily insulated as global Brent crude oil prices ticked back up to $102.56 a barrel due to ongoing Strait of Hormuz maritime delivery bottlenecks."
+        }
+      ],
+      "pre_breakout_watchlist": [
+        {
+          "rank": 1,
+          "ticker": "AXON",
+          "company": "Axon Enterprise, Inc.",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 1",
+          "pivot_price": "$380.00",
+          "distance_to_pivot": "1.25%",
+          "telemetry": "Continues to demonstrate elite structural insulation against macro index noise, closing essentially unchanged (-0.05% change). Complete institutional supply lock remains highly visible as trading desks refuse to release blocks, keeping its absolute proximity clamped to 1.25% below its core $380.00 base pivot buy trigger."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-29T20:00:00+00:00",
       "header": "Tuesday, September 29, 2026's Report",
       "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
@@ -383,7 +473,9 @@
           "telemetry": "Showed strong recovery characteristics following Wednesday's drop, ticking up +0.45% to close at $452.64. The asset continues to compress tightly along its short-term moving average lines, positioning its absolute proximity back to 1.35% below its core $380.00 buy trigger."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-23T20:00:00+00:00",
       "header": "Wednesday, September 23, 2026's Report",
@@ -485,9 +577,7 @@
           "telemetry": "The long-standing relative strength leader felt its first significant structural pullback in weeks, slipping -1.90% to close at $450.61 as programmatic baskets dragged defense lines. It currently sits 1.8% below its short-term triggers, but remains well within its macro base structure."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-22T20:00:00+00:00",
       "header": "Tuesday, September 22, 2026's Report",

@@ -1,5 +1,95 @@
 [
   {
+    "timestamp": "2026-10-07T20:00:00+00:00",
+    "header": "Wednesday, October 7, 2026's Report",
+    "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,671.22",
+        "change": "-16.88 pts",
+        "pct": "-0.22%",
+        "distribution_days": 3,
+        "action": "Holds at 3 Distribution Days (Total: 3 Distribution Days). The index recorded a mild downside consolidation but managed to defend its near-term structural support lines. Crucially, total exchange volume decreased compared to the prior day's distribution spike, avoiding the registration of a new high-volume liquidation signature."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "26,973.95",
+        "change": "-61.20 pts",
+        "pct": "-0.22%",
+        "distribution_days": 3,
+        "action": "Holds at 3 Distribution Days (Total: 3 Distribution Days). Technology grids experienced early duration pressure from the 5.36% yield spike but stabilized late in the session. Lower total volume on the slide left the background distribution count unchanged."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "19,788.15",
+        "change": "-133.60 pts",
+        "pct": "-0.67%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 4 Distribution Days). Market breadth deteriorated significantly with declining issues outpacing advancers on the NYSE by a wide 3.34-to-1 ratio. Heavy industrial capital equipment blocks and financials faced forceful institutional selling on expanded volume [Stock Market Today – Market Breadth Was Worse Than the Indexes Suggest., Stock Market Today – Market Breadth Was Worse Than the Indexes Suggest.]."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$207.62",
+        "change": "-1.57 pts",
+        "pct": "-0.75%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 4 Distribution Days). Stripped of mega-cap valuation anchors, the equal-weighted framework fell on expanding volume, underscoring broad institutional rotation away from interest-rate-sensitive cyclical and industrial spaces [Stock Market Today – Market Breadth Was Worse Than the Indexes Suggest., Stock Market Today – Market Breadth Was Worse Than the Indexes Suggest.]."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$119.12",
+        "change": "-0.96 pts",
+        "pct": "-0.80%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 4 Distribution Days). mid-tier growth layers and industrial software proxies buckled under duration pressure on high volume, confirming that broad tech participation remains defensive."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "CEG",
+        "company": "Constellation Energy Corp.",
+        "sector": "Utilities",
+        "industry": "Independent Power",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$295.10",
+        "pct": "+1.20%",
+        "action": "Maintained positive price momentum on heavy volume as institutional desks continued to aggressively allocate capital into nuclear power infrastructure following its historic 20-year clean energy grid contract with Google."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "NEM",
+        "company": "Newmont Corporation",
+        "sector": "Basic Materials",
+        "industry": "Gold",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 2",
+        "price": "$54.50",
+        "pct": "+0.70%",
+        "action": "Safely preserved its recent breakout posture, capturing steady safe-haven accumulation as global bullion indices push higher against escalating Middle East chokepoint and proxy risk indicators."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "AXON",
+        "company": "Axon Enterprise, Inc.",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "pivot_price": "$446.52",
+        "distance_to_pivot": "2.78%",
+        "telemetry": "The elite relative strength anchor absorbed mild index-driven paring, closing at $446.52. Institutional defense blocks remain highly visible at key chart floors, holding price action 2.78% below its core $380.00 base pivot buy trigger zone."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-06T20:00:00+00:00",
     "header": "Tuesday, October 6, 2026's Report",
     "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
@@ -380,96 +470,6 @@
         "pivot_price": "$448.91",
         "distance_to_pivot": "2.25%",
         "telemetry": "⚠️ WATCHLIST PROXIMITY EXPANSION. The long-standing relative strength anchor felt the weight of broad-market de-risking, sliding -1.92% to close at $448.91 as programmatic baskets dragged defense lines. The drop has widened its absolute proximity to 2.25% below its core $380.00 buy trigger, but the structural floor of the primary macro base remains securely defended by tier-1 desks."
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-30T20:00:00+00:00",
-    "header": "Wednesday, September 30, 2026's Report",
-    "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
-    "market_status": "Confirmed Uptrend",
-    "indexes": [
-      {
-        "name": "S&P 500 Index (.INX)",
-        "value": "7,651.54",
-        "change": "-54.49 pts",
-        "pct": "-0.71%",
-        "distribution_days": 1,
-        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). The benchmark index pulled back on late-day portfolio shifts, locking in a 2.03% gain for the quarter. Total daily aggregate trading volume contracted below yesterday's heavy liquidation levels, saving the core average from triggering a second distribution count."
-      },
-      {
-        "name": "Nasdaq Composite (.IXIC)",
-        "value": "27,001.04",
-        "change": "+65.00 pts",
-        "pct": "+0.24%",
-        "distribution_days": 1,
-        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). Tech-growth allocations served as a structural bright spot. Powerful institutional capital concentration inside hardware networks shielded the index from broad liquidation."
-      },
-      {
-        "name": "NYSE Composite (.NYA)",
-        "value": "19,951.40",
-        "change": "-59.74 pts",
-        "pct": "-0.30%",
-        "distribution_days": 1,
-        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). Underperformed due to deep structural rotation away from real estate, utilities, and rate-sensitive financial entities as long yields expanded."
-      },
-      {
-        "name": "Invesco S&P 500 Equal Weight (RSP)",
-        "value": "$209.70",
-        "change": "-0.72 pts",
-        "pct": "-0.34%",
-        "distribution_days": 1,
-        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). Broad market breadth closed mildly negative on the day, with decliners outnumbering advancing listings on the main board on lower trading volume."
-      },
-      {
-        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
-        "value": "$120.60",
-        "change": "-0.32 pts",
-        "pct": "-0.26%",
-        "distribution_days": 1,
-        "action": "Holds at 1 Distribution Day (Total: 1 Distribution Day). Mid-tier technology lines consolidated horizontally as portfolio desks balanced position limits ahead of the new quarter."
-      }
-    ],
-    "sector_led_breakouts": [
-      {
-        "rank": 1,
-        "ticker": "MU",
-        "company": "Micron Technology, Inc.",
-        "sector": "Technology",
-        "industry": "Semiconductors",
-        "base_pattern": "",
-        "base_stage": "",
-        "price": "$179.80",
-        "pct": "+6.77%",
-        "action": "Staged a powerful, volume-backed breakout to print multi-month high parameters. The surge was supercharged by record fiscal fourth-quarter results, with revenue jumping to $54.23 billion alongside explosive forward guidance loops fueled by massive AI memory infrastructure allocation limits."
-      }
-    ],
-    "divergent_breakouts": [
-      {
-        "rank": 1,
-        "ticker": "VLO",
-        "company": "Valero Energy Corp.",
-        "sector": "Energy",
-        "industry": "Oil & Gas Refining & Marketing",
-        "base_pattern": "",
-        "base_stage": "",
-        "price": "$146.50",
-        "pct": "+3.05%",
-        "action": "Strongly decoupled from broad index pressure to clear its near-term price ceiling on high volume. Absolute refined asset metrics remain heavily insulated as global Brent crude oil prices ticked back up to $102.56 a barrel due to ongoing Strait of Hormuz maritime delivery bottlenecks."
-      }
-    ],
-    "pre_breakout_watchlist": [
-      {
-        "rank": 1,
-        "ticker": "AXON",
-        "company": "Axon Enterprise, Inc.",
-        "sector": "Industrials",
-        "industry": "Aerospace & Defense",
-        "base_pattern": "Flat Base",
-        "base_stage": "Stage 1",
-        "pivot_price": "$380.00",
-        "distance_to_pivot": "1.25%",
-        "telemetry": "Continues to demonstrate elite structural insulation against macro index noise, closing essentially unchanged (-0.05% change). Complete institutional supply lock remains highly visible as trading desks refuse to release blocks, keeping its absolute proximity clamped to 1.25% below its core $380.00 base pivot buy trigger."
       }
     ]
   }
