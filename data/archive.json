@@ -1,6 +1,96 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-01T20:00:00+00:00",
+      "header": "Thursday, October 1, 2026's Report",
+      "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
+      "market_status": "Confirmed Uptrend",
+      "indexes": [
+        {
+          "name": "S&P 500 Index (.INX)",
+          "value": "7,591.10",
+          "change": "-60.44 pts",
+          "pct": "-0.79%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 2 Distribution Days). The benchmark average gave up its short-term moving average lines on an expansion of daily trading volume. Institutional selling expanded down the stretch, driving the index to its lowest technical closing point in two weeks."
+        },
+        {
+          "name": "Nasdaq Composite (.IXIC)",
+          "value": "26,622.14",
+          "change": "-378.90 pts",
+          "pct": "-1.40%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 2 Distribution Days). High-multiple application software, semiconductor nodes, and memory lines bore the brunt of the programmatic liquidation wave as portfolio managers trimmed open tech profit parameters."
+        },
+        {
+          "name": "NYSE Composite (.NYA)",
+          "value": "19,831.60",
+          "change": "-119.80 pts",
+          "pct": "-0.60%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 2 Distribution Days). Financial institutions, industrial components, and basic commodity groups moved lower on heavy daily volume, testing major structural support floors."
+        },
+        {
+          "name": "Invesco S&P 500 Equal Weight (RSP)",
+          "value": "$208.38",
+          "change": "-1.32 pts",
+          "pct": "-0.63%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 2 Distribution Days). Broad market decay was validated by the equal-weighted index dropping on expanding volume, confirming a broad institutional de-risking phase rather than an isolated mega-cap tech event. NYSE decliners outpaced advancing listings by a wide 2.8-to-1 ratio."
+        },
+        {
+          "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+          "value": "$119.52",
+          "change": "-1.08 pts",
+          "pct": "-0.90%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 2 Distribution Days). Algorithmic cash extraction hit mid-tier software and hardware configurations hard, breaking beneath near-term structural consolidation bounds on high volume."
+        }
+      ],
+      "sector_led_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "CPB",
+          "company": "Campbell Soup Company",
+          "sector": "Consumer Defensive",
+          "industry": "Packaged Foods",
+          "base_pattern": "",
+          "base_stage": "",
+          "price": "$48.65",
+          "pct": "+4.12%",
+          "action": "Strongly defied the broader market drop to clear its multi-week ceiling on institutional volume pacing +50% above normal, driven by capital flight seeking out defensive yield shelters."
+        }
+      ],
+      "divergent_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "NEM",
+          "company": "Newmont Corporation",
+          "sector": "Basic Materials",
+          "industry": "Gold",
+          "base_pattern": "Double Bottom",
+          "base_stage": "Stage 2",
+          "price": "$54.12",
+          "pct": "+3.95%",
+          "action": "Rocketed out of its middle consolidation pivot boundary on major volume expansion, completely uncoupling from the broader basic materials group as gold asset values caught a prominent safe-haven bid."
+        }
+      ],
+      "pre_breakout_watchlist": [
+        {
+          "rank": 1,
+          "ticker": "AXON",
+          "company": "Axon Enterprise, Inc.",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 1",
+          "pivot_price": "$448.91",
+          "distance_to_pivot": "2.25%",
+          "telemetry": "⚠️ WATCHLIST PROXIMITY EXPANSION. The long-standing relative strength anchor felt the weight of broad-market de-risking, sliding -1.92% to close at $448.91 as programmatic baskets dragged defense lines. The drop has widened its absolute proximity to 2.25% below its core $380.00 buy trigger, but the structural floor of the primary macro base remains securely defended by tier-1 desks."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-30T20:00:00+00:00",
       "header": "Wednesday, September 30, 2026's Report",
       "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
@@ -371,7 +461,9 @@
           "telemetry": "Still the premier relative strength leader across the active database. The asset advanced +1.12% to close at $457.70, driving right back to the top of its multi-week structure on tight volume. Complete institutional supply lock remains visible, positioning its proximity to a razor-thin 0.23% below its core $380.00 base pivot buy zone."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-24T20:00:00+00:00",
       "header": "Thursday, September 24, 2026's Report",
@@ -473,9 +565,7 @@
           "telemetry": "Showed strong recovery characteristics following Wednesday's drop, ticking up +0.45% to close at $452.64. The asset continues to compress tightly along its short-term moving average lines, positioning its absolute proximity back to 1.35% below its core $380.00 buy trigger."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-23T20:00:00+00:00",
       "header": "Wednesday, September 23, 2026's Report",
@@ -1589,7 +1679,9 @@
           "telemetry": "⚠️ REMOVED FROM ACTIVE WATCHLIST. Suffered severe liquidation alongside broad consumer discretionary themes. Broke structural support to settle 6.8% below its technical trigger point, failing to preserve the tight setup parameters required by the agent."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-08T20:00:00+00:00",
       "header": "Tuesday, September 8, 2026's Report",
@@ -1719,9 +1811,7 @@
           "telemetry": "Fell back -1.90% as consumer retail clusters experienced broad holiday-shortened paring. The asset has loosened its structure slightly, settling 5.0% below its apex trigger point."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-04T20:00:00+00:00",
       "header": "Friday, September 4, 2026's Report",

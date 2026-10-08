@@ -1,5 +1,82 @@
 [
   {
+    "timestamp": "2026-10-08T20:00:00+00:00",
+    "header": "Thursday, October 8, 2026's Report",
+    "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,765.36",
+        "change": "-36.41 pts",
+        "pct": "-0.50%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 4 Distribution Days). The index recorded its second consecutive loss on expanding aggregate exchange volume, confirming systematic distribution. Tech sector liquidations overshadowed positive price action across the majority of the broader index components."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "27,193.34",
+        "change": "-345.35 pts",
+        "pct": "-1.30%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 4 Distribution Days). High-multiple application layers, silicon equipment blocks, and generative design networks were targeted heavily by institutional liquidation baskets, forcing a clear break below near-term moving averages on a volume expansion."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "19,851.52",
+        "change": "+63.37 pts",
+        "pct": "+0.32%",
+        "distribution_days": 4,
+        "action": "Holds at 4 Distribution Days (Total: 4 Distribution Days). The traditional board found pockets of relative insulation, eking out a minor gain as value-centric industrial segments and defensive utility lines absorbed minor inflows away from the tech epicentre."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$208.56",
+        "change": "+0.94 pts",
+        "pct": "+0.45%",
+        "distribution_days": 4,
+        "action": "Holds at 4 Distribution Days (Total: 4 Distribution Days). Broad market breadth diverged from the cap-weighted indices, indicating that while institutional managers aggressively trimmed high-multiple growth nodes, smaller equal-weight blocks managed a technical rest point."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$117.81",
+        "change": "-1.31 pts",
+        "pct": "-1.10%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 5 Distribution Days). CRITICAL SIGNAL TAPE ALERT: The growth equal-weight network logged its fifth active distribution day on expanded institutional transaction volume, triggering a strict defensive posture across the scanner array."
+      }
+    ],
+    "sector_led_breakouts": [],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "PLTR",
+        "company": "Palantir Technologies Inc.",
+        "sector": "Technology",
+        "industry": "Software—Infrastructure",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$44.15",
+        "pct": "+4.80%",
+        "action": "Uncoupled completely from the broad technology rout, capturing major institutional accumulation volume following a high-profile Goldman Sachs rating upgrade to 'Buy'. The stock strongly defended its recent base clear, asserting exceptional Relative Strength (RS)."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "AXON",
+        "company": "Axon Enterprise, Inc.",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "pivot_price": "$439.12",
+        "distance_to_pivot": "4.40%",
+        "telemetry": "⚠️ WATCHLIST PROXIMITY RISK. The aerospace and defense anchor bent under the weight of programmatic basket liquidation loops, sliding to $439.12. While institutional support walls remain structurally visible near lower baseline gaps, the drop has expanded its position to 4.40% below its primary $380.00 base pivot buy zone, nearing the outer limits of our strict 5% filter."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-07T20:00:00+00:00",
     "header": "Wednesday, October 7, 2026's Report",
     "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
@@ -380,96 +457,6 @@
         "pivot_price": "$454.98",
         "distance_to_pivot": "0.85%",
         "telemetry": "Exhibited textbook relative strength stabilization, advancing +1.35% to close at $454.98. The asset immediately recaptured its short-term technical triggers as institutional desks completely locked down block structures, pinning its proximity back to a razor-thin 0.85% below its core $380.00 base pivot buy zone."
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-01T20:00:00+00:00",
-    "header": "Thursday, October 1, 2026's Report",
-    "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
-    "market_status": "Confirmed Uptrend",
-    "indexes": [
-      {
-        "name": "S&P 500 Index (.INX)",
-        "value": "7,591.10",
-        "change": "-60.44 pts",
-        "pct": "-0.79%",
-        "distribution_days": 1,
-        "action": "1 New Distribution Day added (Total: 2 Distribution Days). The benchmark average gave up its short-term moving average lines on an expansion of daily trading volume. Institutional selling expanded down the stretch, driving the index to its lowest technical closing point in two weeks."
-      },
-      {
-        "name": "Nasdaq Composite (.IXIC)",
-        "value": "26,622.14",
-        "change": "-378.90 pts",
-        "pct": "-1.40%",
-        "distribution_days": 1,
-        "action": "1 New Distribution Day added (Total: 2 Distribution Days). High-multiple application software, semiconductor nodes, and memory lines bore the brunt of the programmatic liquidation wave as portfolio managers trimmed open tech profit parameters."
-      },
-      {
-        "name": "NYSE Composite (.NYA)",
-        "value": "19,831.60",
-        "change": "-119.80 pts",
-        "pct": "-0.60%",
-        "distribution_days": 1,
-        "action": "1 New Distribution Day added (Total: 2 Distribution Days). Financial institutions, industrial components, and basic commodity groups moved lower on heavy daily volume, testing major structural support floors."
-      },
-      {
-        "name": "Invesco S&P 500 Equal Weight (RSP)",
-        "value": "$208.38",
-        "change": "-1.32 pts",
-        "pct": "-0.63%",
-        "distribution_days": 1,
-        "action": "1 New Distribution Day added (Total: 2 Distribution Days). Broad market decay was validated by the equal-weighted index dropping on expanding volume, confirming a broad institutional de-risking phase rather than an isolated mega-cap tech event. NYSE decliners outpaced advancing listings by a wide 2.8-to-1 ratio."
-      },
-      {
-        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
-        "value": "$119.52",
-        "change": "-1.08 pts",
-        "pct": "-0.90%",
-        "distribution_days": 1,
-        "action": "1 New Distribution Day added (Total: 2 Distribution Days). Algorithmic cash extraction hit mid-tier software and hardware configurations hard, breaking beneath near-term structural consolidation bounds on high volume."
-      }
-    ],
-    "sector_led_breakouts": [
-      {
-        "rank": 1,
-        "ticker": "CPB",
-        "company": "Campbell Soup Company",
-        "sector": "Consumer Defensive",
-        "industry": "Packaged Foods",
-        "base_pattern": "",
-        "base_stage": "",
-        "price": "$48.65",
-        "pct": "+4.12%",
-        "action": "Strongly defied the broader market drop to clear its multi-week ceiling on institutional volume pacing +50% above normal, driven by capital flight seeking out defensive yield shelters."
-      }
-    ],
-    "divergent_breakouts": [
-      {
-        "rank": 1,
-        "ticker": "NEM",
-        "company": "Newmont Corporation",
-        "sector": "Basic Materials",
-        "industry": "Gold",
-        "base_pattern": "Double Bottom",
-        "base_stage": "Stage 2",
-        "price": "$54.12",
-        "pct": "+3.95%",
-        "action": "Rocketed out of its middle consolidation pivot boundary on major volume expansion, completely uncoupling from the broader basic materials group as gold asset values caught a prominent safe-haven bid."
-      }
-    ],
-    "pre_breakout_watchlist": [
-      {
-        "rank": 1,
-        "ticker": "AXON",
-        "company": "Axon Enterprise, Inc.",
-        "sector": "Industrials",
-        "industry": "Aerospace & Defense",
-        "base_pattern": "Flat Base",
-        "base_stage": "Stage 1",
-        "pivot_price": "$448.91",
-        "distance_to_pivot": "2.25%",
-        "telemetry": "⚠️ WATCHLIST PROXIMITY EXPANSION. The long-standing relative strength anchor felt the weight of broad-market de-risking, sliding -1.92% to close at $448.91 as programmatic baskets dragged defense lines. The drop has widened its absolute proximity to 2.25% below its core $380.00 buy trigger, but the structural floor of the primary macro base remains securely defended by tier-1 desks."
       }
     ]
   }
