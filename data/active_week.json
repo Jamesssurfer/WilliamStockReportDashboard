@@ -1,5 +1,107 @@
 [
   {
+    "timestamp": "2026-10-09T20:00:00+00:00",
+    "header": "Friday, October 9, 2026's Report",
+    "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,811.00",
+        "change": "+45.64 pts",
+        "pct": "+0.59%",
+        "distribution_days": 4,
+        "action": "Holds at 4 Distribution Days (Total: 4 Distribution Days). The index rebounded on lower total exchange volume relative to Thursday's sell-off. Because the bounce lacked expanding institutional accumulation volume, the underlying distribution count remains unchanged at a elevated 4 days."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "27,366.00",
+        "change": "+172.66 pts",
+        "pct": "+0.64%",
+        "distribution_days": 4,
+        "action": "Holds at 4 Distribution Days (Total: 4 Distribution Days). A sharp late-session relief rally in mega-cap technology clusters cushioned the index. However, because volume thinned on the move higher, it stands as a technical bounce rather than a true day of heavy accumulation."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "19,925.10",
+        "change": "+73.58 pts",
+        "pct": "+0.37%",
+        "distribution_days": 4,
+        "action": "Holds at 4 Distribution Days (Total: 4 Distribution Days). The broader board participated fractionally in the morning short-covering loop, though severe distribution in large carrier telecom assets down the stretch limited total performance."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$209.12",
+        "change": "+0.56 pts",
+        "pct": "+0.27%",
+        "distribution_days": 4,
+        "action": "Holds at 4 Distribution Days (Total: 4 Distribution Days). Market breadth underperformed the cap-weighted averages as advanced sectors split. NYSE advancing issues registered a muted 1.4-to-1 ratio, locking the equal-weighted framework into its defensive posture."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$118.25",
+        "change": "+0.44 pts",
+        "pct": "+0.37%",
+        "distribution_days": 5,
+        "action": "Holds at 5 Distribution Days (Total: 5 Distribution Days). CRITICAL SIGNAL POSTURE MAINTAINED: The tech equal-weight array remains locked at 5 active distribution days, forcing the system to maintain a highly defensive risk mask on all growth entries."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "CCI",
+        "company": "Crown Castle Inc.",
+        "sector": "Real Estate",
+        "industry": "REIT—Specialty",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "",
+        "pct": "",
+        "action": "$79.64 (+15.60%). Exploded out of a deep primary base structure on massive institutional block volume pacing +240% above normal, completely uncoupling from broader real estate structures as wireless infrastructure setups caught intense programmatic tailwinds."
+      },
+      {
+        "rank": 2,
+        "ticker": "HUM",
+        "company": "Humana Inc.",
+        "sector": "Healthcare",
+        "industry": "Healthcare Plans",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$431.87",
+        "pct": "+11.56%",
+        "action": "Vaulted cleanly past multi-week resistance shelves on heavy volume tracking, capturing aggressive institutional reallocation after receiving major upgraded health quality ratings for its core Medicare Advantage plans."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "PLTR",
+        "company": "Palantir Technologies Inc.",
+        "sector": "Technology",
+        "industry": "Software—Infrastructure",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$45.60",
+        "pct": "+3.28%",
+        "action": "Demonstrated elite relative strength by extending yesterday's breakout move to new record highs, firmly defying the broader software consolidation matrix on heavy follow-through capital streams."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "AXON",
+        "company": "Axon Enterprise, Inc.",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "pivot_price": "$440.15",
+        "distance_to_pivot": "4.65%",
+        "telemetry": "⚠️ WATCHLIST PROXIMITY BOUNDARY EXPANSION. The aerospace relative strength anchor stabilized marginally to close at $440.15. While institutional defense layers remain active at major moving averages, the absolute distance stands at 4.65% below its primary $380.00 base pivot buy zone, hanging by a thread within our strict 5% scan gate limit."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-08T20:00:00+00:00",
     "header": "Thursday, October 8, 2026's Report",
     "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
