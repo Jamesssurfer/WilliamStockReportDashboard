@@ -1,6 +1,108 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-02T20:00:00+00:00",
+      "header": "Friday, October 2, 2026's Report",
+      "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
+      "market_status": "",
+      "indexes": [
+        {
+          "name": "S&P 500 Index (.INX)",
+          "value": "7,724.38",
+          "change": "+57.93 pts",
+          "pct": "+0.76%",
+          "distribution_days": 2,
+          "action": "Holds at 2 Distribution Days (Total: 2 Distribution Days). The index bounced constructively to retake its short-term exponential floors. Total volume expanded over Thursday's sell-off session, changing the day's signature into an institutional accumulation lift and capping the weekly drop at 0.3%."
+        },
+        {
+          "name": "Nasdaq Composite (.IXIC)",
+          "value": "27,191.33",
+          "change": "+319.73 pts",
+          "pct": "+1.19%",
+          "distribution_days": 2,
+          "action": "Holds at 2 Distribution Days (Total: 2 Distribution Days). Growth, semiconductor, and hardware blocks led the global rally charge after touching intraday records. The heavy accumulation fully erased the week's previous markdowns, pushing the tech index 0.5% higher for the weekly period."
+        },
+        {
+          "name": "NYSE Composite (.NYA)",
+          "value": "19,951.10",
+          "change": "+119.50 pts",
+          "pct": "+0.60%",
+          "distribution_days": 2,
+          "action": "Holds at 2 Distribution Days (Total: 2 Distribution Days). Legacy transport, industrial networks, and financial asset bases moved off their baseline support floors as interest-rate pressures stabilized."
+        },
+        {
+          "name": "Invesco S&P 500 Equal Weight (RSP)",
+          "value": "$209.68",
+          "change": "+1.30 pts",
+          "pct": "+0.62%",
+          "distribution_days": 2,
+          "action": "Holds at 2 Distribution Days (Total: 2 Distribution Days). Market breadth expanded forcefully, printing a solid 2.4-to-1 positive advancing ratio across the main floor on high institutional volume."
+        },
+        {
+          "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+          "value": "$120.60",
+          "change": "+1.08 pts",
+          "pct": "+0.90%",
+          "distribution_days": 2,
+          "action": "Holds at 2 Distribution Days (Total: 2 Distribution Days). Algorithmic cash programs reversed their recent defensive extractions, flowing aggressively back into mid-tier software and cloud layers."
+        }
+      ],
+      "sector_led_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "BA",
+          "company": "Boeing Co.",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense",
+          "base_pattern": "",
+          "base_stage": "",
+          "price": "",
+          "pct": "",
+          "action": "$194.50 (+1.15%). Triggered a definitive technical breakout past its middle congestion line on heavy volume after the Federal Aviation Administration (FAA) officially ruled that a navigation flight computer software update was not a safety hazard, removing a multi-week operational overhang."
+        },
+        {
+          "rank": 2,
+          "ticker": "NVDA",
+          "company": "NVIDIA Corporation",
+          "sector": "Technology",
+          "industry": "Semiconductors",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 2",
+          "price": "$131.40",
+          "pct": "+4.35%",
+          "action": "Rocketed through its primary baseline pivot point on heavy institutional block volume, supercharged by macro cloud re-allocations as rate worries faded."
+        }
+      ],
+      "divergent_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "PLTR",
+          "company": "Palantir Technologies Inc.",
+          "sector": "Technology",
+          "industry": "Software—Infrastructure",
+          "base_pattern": "Cup-with-Handle",
+          "base_stage": "Stage 2",
+          "price": "$184.20",
+          "pct": "+5.85%",
+          "action": "Completely outpaced the broader software sector to clear its near-term handle pivot point on massive institutional volume, uncoupling from general tech drift following fresh government intelligence cloud network expansion contract wins."
+        }
+      ],
+      "pre_breakout_watchlist": [
+        {
+          "rank": 1,
+          "ticker": "AXON",
+          "company": "Axon Enterprise, Inc.",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 1",
+          "pivot_price": "$454.98",
+          "distance_to_pivot": "0.85%",
+          "telemetry": "Exhibited textbook relative strength stabilization, advancing +1.35% to close at $454.98. The asset immediately recaptured its short-term technical triggers as institutional desks completely locked down block structures, pinning its proximity back to a razor-thin 0.85% below its core $380.00 base pivot buy zone."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-01T20:00:00+00:00",
       "header": "Thursday, October 1, 2026's Report",
       "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
@@ -359,7 +461,9 @@
           "telemetry": "Still the premier relative strength leader across the active database context. The asset recorded a quiet, narrow session (-0.12% change) on 42% below-average volume. Institutional supply remains tightly locked up as funds refuse to sell blocks. Proximity sits at a razor-thin 0.35% below its core $380.00 breakout pivot."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-09-25T20:00:00+00:00",
       "header": "Friday, September 25, 2026's Report",
@@ -461,9 +565,7 @@
           "telemetry": "Still the premier relative strength leader across the active database. The asset advanced +1.12% to close at $457.70, driving right back to the top of its multi-week structure on tight volume. Complete institutional supply lock remains visible, positioning its proximity to a razor-thin 0.23% below its core $380.00 base pivot buy zone."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-09-24T20:00:00+00:00",
       "header": "Thursday, September 24, 2026's Report",
@@ -1549,7 +1651,9 @@
           "telemetry": "⚠️ UNDER INTENSE WATCH. Dropped -1.35% on Thursday as chipmakers dragged general tech architecture back down. The price is stretching the lower boundary of its handle layout, positioning the equity exactly 6.3% below its primary $365.50 trigger point. This violates our standard 5% tracking rule. However, because its Relative Strength line remains locked near peak absolute levels, it will be given a 24-hour grace period to defend its 50-day moving average or face deletion."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-09T20:00:00+00:00",
       "header": "Wednesday, September 9, 2026's Report",
@@ -1679,9 +1783,7 @@
           "telemetry": "⚠️ REMOVED FROM ACTIVE WATCHLIST. Suffered severe liquidation alongside broad consumer discretionary themes. Broke structural support to settle 6.8% below its technical trigger point, failing to preserve the tight setup parameters required by the agent."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-08T20:00:00+00:00",
       "header": "Tuesday, September 8, 2026's Report",
