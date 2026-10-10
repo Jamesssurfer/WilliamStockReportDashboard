@@ -1545,7 +1545,9 @@
           "telemetry": "🛡️ WATCHLIST RECOVERY. Responding directly to Oracle's explosive cloud data-center telemetry, the asset surged +3.40% on Friday. This powerful move fully repaired Thursday's handle breakdown, pulling the equity back up to sit exactly 2.8% below its primary $365.50 breakout pivot."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-10T20:00:00+00:00",
       "header": "Thursday, September 10, 2026's Report",
@@ -1651,9 +1653,7 @@
           "telemetry": "⚠️ UNDER INTENSE WATCH. Dropped -1.35% on Thursday as chipmakers dragged general tech architecture back down. The price is stretching the lower boundary of its handle layout, positioning the equity exactly 6.3% below its primary $365.50 trigger point. This violates our standard 5% tracking rule. However, because its Relative Strength line remains locked near peak absolute levels, it will be given a 24-hour grace period to defend its 50-day moving average or face deletion."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-09T20:00:00+00:00",
       "header": "Wednesday, September 9, 2026's Report",
