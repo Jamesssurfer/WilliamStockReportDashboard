@@ -1439,7 +1439,9 @@
           "telemetry": "Held its ground beautifully following Friday's massive surge. The stock compressed sideways, losing just -0.10% on minimal trading activity. Its Relative Strength (RS) line remains anchored right at blue-sky highs, leaving the stock 2.9% below its primary $365.50 handle trigger."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-11T20:00:00+00:00",
       "header": "Friday, September 11, 2026's Report",
@@ -1545,9 +1547,7 @@
           "telemetry": "🛡️ WATCHLIST RECOVERY. Responding directly to Oracle's explosive cloud data-center telemetry, the asset surged +3.40% on Friday. This powerful move fully repaired Thursday's handle breakdown, pulling the equity back up to sit exactly 2.8% below its primary $365.50 breakout pivot."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-10T20:00:00+00:00",
       "header": "Thursday, September 10, 2026's Report",
