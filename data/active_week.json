@@ -44,118 +44,6 @@
         "pct": "+0.48%",
         "distribution_days": 5,
         "action": "Holds at 5 Distribution Days (Total: 5 Distribution Days). CRITICAL SIGNAL POSTURE MAINTAINED: The tech equal-weight array stabilized fractionally but remains heavily weighted by its 5 active distribution days, forcing the system to maintain a defensive protective posture on new growth positions."
-      },
-      {
-        "name": "Sector / Industry",
-        "value": "",
-        "change": "",
-        "pct": "",
-        "distribution_days": null,
-        "action": "Consumer Cyclical / Internet Retail."
-      },
-      {
-        "name": "Base Pattern & Stage",
-        "value": "",
-        "change": "",
-        "pct": "",
-        "distribution_days": null,
-        "action": "Stage 2 Flat Base."
-      },
-      {
-        "name": "Action",
-        "value": "",
-        "change": "",
-        "pct": "+4.50%",
-        "distribution_days": null,
-        "action": "$73.20 (+4.50%). Surged forcefully to lead e-commerce nodes after Wall Street analysts named it a \"Top Pick,\" highlighting that nascent live-commerce streams are driving a powerful acceleration in Gross Merchandise Volume (GMV) [Markets News, Oct. 12, 2026: Dow Rises, Nasdaq Slips to ...]."
-      },
-      {
-        "name": "Salesforce, Inc. ([CRM](https",
-        "value": "",
-        "change": "",
-        "pct": "",
-        "distribution_days": null,
-        "action": "//finance.yahoo.com/quote/CPB))."
-      },
-      {
-        "name": "Sector / Industry",
-        "value": "",
-        "change": "",
-        "pct": "",
-        "distribution_days": null,
-        "action": "Technology / Software—Application."
-      },
-      {
-        "name": "Base Pattern & Stage",
-        "value": "",
-        "change": "",
-        "pct": "",
-        "distribution_days": null,
-        "action": "Stage 1 Cup-with-Handle."
-      },
-      {
-        "name": "Action",
-        "value": "$284.10",
-        "change": "",
-        "pct": "+2.00%",
-        "distribution_days": null,
-        "action": ""
-      },
-      {
-        "name": "Axon Enterprise, Inc. ([AXON](https",
-        "value": "",
-        "change": "",
-        "pct": "",
-        "distribution_days": null,
-        "action": "//finance.yahoo.com/quote/AXON))."
-      },
-      {
-        "name": "Sector / Industry",
-        "value": "",
-        "change": "",
-        "pct": "",
-        "distribution_days": null,
-        "action": "Industrials / Aerospace & Defense."
-      },
-      {
-        "name": "Base Pattern",
-        "value": "",
-        "change": "",
-        "pct": "",
-        "distribution_days": null,
-        "action": "Flat Base."
-      },
-      {
-        "name": "Base Stage",
-        "value": "",
-        "change": "",
-        "pct": "",
-        "distribution_days": null,
-        "action": "Stage 1."
-      },
-      {
-        "name": "Technical Telemetry",
-        "value": "",
-        "change": "",
-        "pct": "",
-        "distribution_days": null,
-        "action": "The relative strength pioneer rebounded effectively off its short-term moving averages to close at $442.20. Supply pools remain exceptionally tight as defensive institutional buyers keep price action anchored 4.20% below its primary $380.00 base pivot zone, holding its critical position within our strict 5% scan gate filter."
-      },
-      {
-        "name": "The Global Memory Chip Friction",
-        "value": "",
-        "change": "",
-        "pct": "",
-        "distribution_days": null,
-        "action": "The semiconductor and AI hardware spaces absorbed notable distribution after reports surfaced highlighting rapid technical chip advancement and rising competition from subsidized Chinese domestic memory manufacturers [Stock market news for Oct. 12, 2026 - CNBC]. The headlines triggered immediate institutional paring down the stretch, knocking Micron Technology ($MU) down 3.9% and stalling parallel silicon chains [Stock market news for Oct. 12, 2026 - CNBC, Stock Market News Oct. 12, 2026: Dow finishes higher, but ...]."
-      },
-      {
-        "name": "Bumble's Take-Private Speculation Volatility",
-        "value": "",
-        "change": "",
-        "pct": "+50.00%",
-        "distribution_days": null,
-        "action": "In consumer metrics, Bumble ($BMBL) experienced an extraordinary +50.00% explosion following authoritative financial reports that the company is in advanced negotiations to be taken private by a prominent technology-focused investment fund at a $1 billion valuation ceiling [Stock Market News Oct. 12, 2026: Dow finishes higher, but ...]."
       }
     ],
     "sector_led_breakouts": [
@@ -181,21 +69,9 @@
         "industry": "Software—Application",
         "base_pattern": "",
         "base_stage": "",
-        "price": "$284.10",
-        "pct": "+2.00%",
-        "action": "Decoupled cleanly from broader software weakness to clear its horizontal chart pivot trigger [Stock Market News Oct. 12, 2026: Dow finishes higher, but ...], supercharged by a high-profile tier-1 double upgrade to \"Buy\" tracking enterprise application monetization loops [Stock market news for Oct. 12, 2026 - CNBC, Markets News, Oct. 12, 2026: Dow Rises, Nasdaq Slips to ...]."
-      },
-      {
-        "rank": 2,
-        "ticker": "AXON",
-        "company": "Axon Enterprise, Inc.",
-        "sector": "Industrials",
-        "industry": "Aerospace & Defense",
-        "base_pattern": "Flat Base",
-        "base_stage": "Stage 1",
         "price": "",
         "pct": "",
-        "action": ""
+        "action": "$284.10 (+2.00%). Decoupled cleanly from broader software weakness to clear its horizontal chart pivot trigger [Stock Market News Oct. 12, 2026: Dow finishes higher, but ...], supercharged by a high-profile tier-1 double upgrade to \"Buy\" tracking enterprise application monetization loops [Stock market news for Oct. 12, 2026 - CNBC, Markets News, Oct. 12, 2026: Dow Rises, Nasdaq Slips to ...]."
       }
     ],
     "pre_breakout_watchlist": [
