@@ -19,6 +19,15 @@
 #   3. If a story has no parseable date anywhere in its text, this
 #      parser cannot recover one and falls back to "now" at parse time
 #      — that story will sort by dispatch time, not market date.
+#
+# Format tolerance (Oct 2026 update):
+#   - Accepts both Markdown '##' headings and emoji-prefixed plain
+#     headings (📊 / 🚀 / 🎯 / 🏢 / 🦅 …).
+#   - Accepts both '*' and '•' (Unicode bullet) as list markers.
+#   - Tolerates tab-indented continuation bullets under indexes and
+#     stock blocks.
+#   - Section boundaries stop at the next major heading even when the
+#     report has no '-----' horizontal rules.
 
 import re
 from datetime import datetime, timezone
@@ -27,6 +36,21 @@ MONTHS = {
     "january": 1, "february": 2, "march": 3, "april": 4, "may": 5, "june": 6,
     "july": 7, "august": 8, "september": 9, "october": 10, "november": 11, "december": 12,
 }
+
+# Match either '*' or the Unicode bullet '•', optionally preceded by
+# whitespace/tabs (common in the emoji-style reports).
+BULLET_RE = re.compile(r'^[\t ]*[•*]\s*(.*)$')
+
+# Shared “next major section” boundaries used to keep sections from
+# bleeding into one another when the report has no ----- dividers.
+_END_AT_NEXT_MAJOR = (
+    r'\n(?:#{1,3}\s*)?(?:📊\s*)?Major (?:Market )?Index(?:es|ices)?[^\n]*\n'
+    r'|\n(?:#{1,3}\s*)?(?:🚀\s*)?CAN SLIM Stock Breakout[^\n]*\n'
+    r'|\n(?:#{1,3}\s*)?(?:🚀\s*)?Breakout Screen[^\n]*\n'
+    r'|\n(?:#{1,3}\s*)?(?:🎯\s*)?Pre-Breakout Watchlist[^\n]*\n'
+    r'|\n-{5,}\n'
+    r'|\Z'
+)
 
 
 def _strip_refs(text):
@@ -82,24 +106,48 @@ def _find_header_and_date(text):
 
 
 def _headline(text):
+    """Prefer the long narrative paragraph that follows the date header.
+    Skip emoji titles, pure date lines, and short agent banners."""
     body = text
     div = re.search(r'\n-{5,}\n', body)
     if div:
         body = body[:div.start()]
+
+    # Stop at the first major section heading so we don't leak index text
+    # into the headline.
+    section_cut = re.search(
+        r'\n(?:#{1,3}\s*)?(?:📊|🚀|🎯|🏢|🦅)?\s*(?:Major Market Indexes|CAN SLIM Stock Breakout|Pre-Breakout Watchlist)',
+        body, re.IGNORECASE
+    )
+    if section_cut:
+        body = body[:section_cut.start()]
+
     lines = [l for l in body.split("\n") if l.strip()]
     for line in lines:
         stripped = line.strip()
+        # Skip pure date / time stamps
         if re.match(r'^\w+\s+\d{1,2},\s*\d{1,2}:\d{2}\s*[AP]M$', stripped):
-            continue  # date/time line
+            continue
         if re.match(r"^O'?Neil Market Update:", stripped, re.IGNORECASE):
-            continue  # agent name line
+            continue
+        # Skip the "Tuesday, October 13, 2026's Report" style header
+        if re.search(r"\d{4}'s Report$", stripped):
+            continue
+        # Skip short emoji-only or banner titles
+        if re.match(r'^[📁📊🚀🎯🏢🦅📁].{0,60}$', stripped) and len(stripped) < 80:
+            continue
         if stripped.startswith("##"):
-            # a headline-styled H2 (story 2's format) still counts as headline text
             candidate = re.sub(r'^##\s*[^\w]*', '', stripped).strip()
             if len(candidate) > 20:
                 return _strip_refs(candidate)
             continue
-        if len(stripped) > 20:
+        # Prefer the first substantial prose paragraph
+        if len(stripped) > 60:
+            return _strip_refs(stripped)
+    # Fallback: first line longer than 20 chars
+    for line in lines:
+        stripped = line.strip()
+        if len(stripped) > 20 and not re.search(r"\d{4}'s Report$", stripped):
             return _strip_refs(stripped)
     return ""
 
@@ -109,12 +157,14 @@ def _market_status(text):
     return m.group(1).strip() if m else ""
 
 
-def _section(text, start_patterns, end_pattern=r'\n-{5,}\n|\Z'):
+def _section(text, start_patterns, end_pattern=None):
+    if end_pattern is None:
+        end_pattern = _END_AT_NEXT_MAJOR
     for sp in start_patterns:
-        m = re.search(sp, text)
+        m = re.search(sp, text, re.IGNORECASE)
         if m:
             rest = text[m.end():]
-            end_m = re.search(end_pattern, rest)
+            end_m = re.search(end_pattern, rest, re.IGNORECASE)
             return rest[:end_m.start()] if end_m else rest
     return ""
 
@@ -122,37 +172,49 @@ def _section(text, start_patterns, end_pattern=r'\n-{5,}\n|\Z'):
 def _subsection(text, start_pattern, end_patterns):
     """Like _section but the end boundary is any of several possible
     next-heading patterns (used to split the breakout screen into its
-    Sector-Led / Divergent sub-sections, which are '## ' headings, not
-    '-----' dividers)."""
-    m = re.search(start_pattern, text)
+    Sector-Led / Divergent sub-sections)."""
+    m = re.search(start_pattern, text, re.IGNORECASE)
     if not m:
         return ""
     rest = text[m.end():]
     end_positions = []
     for ep in end_patterns:
-        em = re.search(ep, rest)
+        em = re.search(ep, rest, re.IGNORECASE)
         if em:
             end_positions.append(em.start())
     end_positions.append(len(rest))
     return rest[:min(end_positions)]
 
 
+def _is_bullet(line):
+    return bool(BULLET_RE.match(line))
+
+
+def _bullet_content(line):
+    m = BULLET_RE.match(line)
+    return m.group(1).strip() if m else ""
+
+
 def _parse_indexes(section_text):
-    lines = [l.strip() for l in section_text.split('\n') if l.strip().startswith('*')]
     indexes = []
     current = None
-    for line in lines:
-        content = line.lstrip('*').strip()
+    for raw_line in section_text.split('\n'):
+        if not _is_bullet(raw_line):
+            continue
+        content = _bullet_content(raw_line)
         if not content:
             continue
+
         am = re.match(r"^O'?Neil (?:Action|Indicator):\s*(.*)", content, re.IGNORECASE)
         if am:
             if current is not None:
                 current['action'] = (current['action'] + ' ' + _strip_refs(am.group(1))).strip()
             continue
+
         if current is not None:
             indexes.append(current)
             current = None
+
         if ':' not in content:
             continue
         name, rest = content.split(':', 1)
@@ -186,19 +248,15 @@ HEADER_RE = re.compile(
 def _iter_stock_blocks(section_text):
     """Split a breakout/watchlist section into per-stock blocks. A new
     block starts on any bullet line whose content matches HEADER_RE
-    (i.e. it names a ticker in parens) — NOT on indentation, because
-    the sample reports put 'Sector / Industry:' continuation lines at
-    the SAME indentation as the ticker header line; only 'Base Pattern
-    & Stage:' / 'Action:' / 'Technical Telemetry:' are actually
-    indented. Keying off content shape handles both correctly and
-    also skips empty spacer bullets ('* ' with nothing after it)."""
+    (i.e. it names a ticker in parens). Continuation lines (Sector /
+    Industry, Base Pattern, Action, Telemetry) stay with the current
+    block regardless of indentation."""
     blocks = []
     current = []
     for line in section_text.split('\n'):
-        stripped = line.strip()
-        if not stripped.startswith('*'):
+        if not _is_bullet(line):
             continue
-        content = stripped.lstrip('*').strip()
+        content = _bullet_content(line)
         if not content:
             continue  # spacer bullet
         if HEADER_RE.match(content):
@@ -271,9 +329,19 @@ def _parse_stock_block(content_lines):
         if m:
             telemetry_text = m.group(1).strip()
             out["telemetry"] = _strip_refs(telemetry_text)
-            pivot_m = re.search(r'\$[\d,]+\.?\d*', telemetry_text)
-            if pivot_m:
-                out["pivot_price"] = pivot_m.group(0)
+            # Prefer the pivot that appears near "pivot" language; fall back
+            # to the last $-amount if needed.
+            pivot_m = re.search(
+                r'(?:pivot(?:\s+zone)?|primary)\s+\$?([\d,]+\.?\d*)',
+                telemetry_text, re.IGNORECASE
+            )
+            if not pivot_m:
+                # fallback: last dollar amount in the sentence
+                all_dollars = re.findall(r'\$([\d,]+\.?\d*)', telemetry_text)
+                if all_dollars:
+                    out["pivot_price"] = f"${all_dollars[-1]}"
+            else:
+                out["pivot_price"] = f"${pivot_m.group(1)}"
             dist_m = re.search(r'(\d+\.?\d*%)\s*(?:of|below|above)', telemetry_text, re.IGNORECASE)
             if dist_m:
                 out["distance_to_pivot"] = dist_m.group(1)
@@ -330,33 +398,44 @@ def parse_story(text):
     headline = _headline(text)
     market_status = _market_status(text)
 
+    # Accept both classic Markdown '##' and emoji-prefixed plain headings.
+    # Stop at the next major section (or ----- / EOF) so content does not
+    # bleed across sections when the report has no horizontal rules.
     idx_section = _section(text, [
-        r'##[^\n]*Major (?:Market )?Index(?:es|ices)?[^\n]*\n',
+        r'(?:#{1,3}\s*)?(?:📊\s*)?Major (?:Market )?Index(?:es|ices)?[^\n]*\n',
+        r'(?:#{1,3}\s*)?(?:📊\s*)?Major U\.?S\.? stock indexes[^\n]*\n',
     ])
     indexes = _parse_indexes(idx_section)
 
-    # The breakout screen section contains two '## ' sub-headings
-    # (Sector-Led, Divergent) rather than being divider-separated, so
-    # we grab the whole screen block first, then split by sub-heading.
+    # The breakout screen section contains two sub-headings
+    # (Sector-Led, Divergent). Grab the whole screen block first, then
+    # split by sub-heading. Patterns tolerate emoji or '##' prefixes.
     screen_section = _section(text, [
-        r'##[^\n]*CAN SLIM Stock Breakout[^\n]*\n',
-        r'##[^\n]*Breakout Screen[^\n]*\n',
+        r'(?:#{1,3}\s*)?(?:🚀\s*)?CAN SLIM Stock Breakout[^\n]*\n',
+        r'(?:#{1,3}\s*)?(?:🚀\s*)?Breakout Screen[^\n]*\n',
     ])
     sector_led_text = _subsection(
         screen_section,
-        r'##[^\n]*Sector-Led Breakouts[^\n]*\n',
-        [r'##[^\n]*Divergent Breakouts[^\n]*\n', r'\n-{5,}\n']
+        r'(?:#{1,3}\s*)?(?:🏢\s*)?(?:\d+\.\s*)?Sector-Led Breakouts[^\n]*\n',
+        [
+            r'(?:#{1,3}\s*)?(?:🦅\s*)?(?:\d+\.\s*)?Divergent Breakouts[^\n]*\n',
+            r'\n-{5,}\n',
+            r'(?:#{1,3}\s*)?(?:🎯\s*)?Pre-Breakout Watchlist[^\n]*\n',
+        ]
     )
     divergent_text = _subsection(
         screen_section,
-        r'##[^\n]*Divergent Breakouts[^\n]*\n',
-        [r'\n-{5,}\n']
+        r'(?:#{1,3}\s*)?(?:🦅\s*)?(?:\d+\.\s*)?Divergent Breakouts[^\n]*\n',
+        [
+            r'\n-{5,}\n',
+            r'(?:#{1,3}\s*)?(?:🎯\s*)?Pre-Breakout Watchlist[^\n]*\n',
+        ]
     )
     sector_led_breakouts = _parse_breakout_rows(sector_led_text)
     divergent_breakouts = _parse_breakout_rows(divergent_text)
 
     watchlist_section = _section(text, [
-        r'##[^\n]*Pre-Breakout Watchlist[^\n]*\n',
+        r'(?:#{1,3}\s*)?(?:🎯\s*)?Pre-Breakout Watchlist[^\n]*\n',
     ])
     pre_breakout_watchlist = _parse_watchlist_rows(watchlist_section)
 
