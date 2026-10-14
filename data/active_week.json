@@ -2,12 +2,79 @@
   {
     "timestamp": "2026-10-13T20:00:00+00:00",
     "header": "Tuesday, October 13, 2026's Report",
-    "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
+    "headline": "Major U.S. stock indexes conclude a tightly contained session near flatlines as mixed tier-1 bank earnings cancel out a prolonged structural liquidation program across the semiconductor landscape. Macro index pressure was partially alleviated as fixed-income desks paused their markdown cycle, allowing the benchmark 10-year U.S. Treasury yield to ease to 5.21% on a minor stabilization of international energy baselines. Global energy desks experienced an aimless positioning shift, leaving Brent crude oil futures marginally lower to settle at $106.05 a barrel as market participants balanced persistent Middle East supply chokepoint vulnerabilities against increased global diesel availability projections.",
     "market_status": "",
-    "indexes": [],
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,805.45",
+        "change": "-1.79 pts",
+        "pct": "-0.02%",
+        "distribution_days": 4,
+        "action": "Holds at 4 Distribution Days (Total: 4 Distribution Days). The benchmark average tracked tightly within an inside-day range on thinning institutional volume that fell well below the 20-day baseline, preventing a new liquidation count."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "27,210.55",
+        "change": "-35.35 pts",
+        "pct": "-0.13%",
+        "distribution_days": 4,
+        "action": "Holds at 4 Distribution Days (Total: 4 Distribution Days). Technology grids endured a fifth consecutive session of localized semiconductor hardware distribution, but late-session programmatic index accumulation in mega-cap cloud providers cushioned the slide."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "19,951.25",
+        "change": "-59.25 pts",
+        "pct": "-0.30%",
+        "distribution_days": 4,
+        "action": "Holds at 4 Distribution Days (Total: 4 Distribution Days). The traditional board consolidated its recent rotational strength, experiencing mild profit paring in industrial components and large pharmaceutical nodes that offset banking inflows."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$209.68",
+        "change": "-0.47 pts",
+        "pct": "-0.22%",
+        "distribution_days": 4,
+        "action": "Holds at 4 Distribution Days (Total: 4 Distribution Days). Broad market decay stabilized relative to last week's velocity, recording a neutral advancing-to-declining footprint as NYSE decliners barely ticked past advancers."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$118.41",
+        "change": "-0.41 pts",
+        "pct": "-0.35%",
+        "distribution_days": 5,
+        "action": "Holds at 5 Distribution Days (Total: 5 Distribution Days). The tech equal-weight matrix remains severely restricted at 5 active distribution days, keeping our fresh buy alerts guardrail operating under a strict defensive configuration."
+      }
+    ],
     "sector_led_breakouts": [],
-    "divergent_breakouts": [],
-    "pre_breakout_watchlist": []
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "UNH",
+        "company": "UnitedHealth Group Inc.",
+        "sector": "Healthcare",
+        "industry": "Healthcare Plans",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 1",
+        "price": "$602.15",
+        "pct": "+4.30%",
+        "action": "Vaulted past its horizontal chart trigger on heavy institutional volume pacing +80% above average following a blockbuster quarterly earnings print that beat revenue and forward optimization baselines."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "AXON",
+        "company": "Axon Enterprise, Inc.",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "pivot_price": "$380.00",
+        "distance_to_pivot": "3.90%",
+        "telemetry": "The absolute relative strength anchor defended its short-term moving average parameters cleanly during the macro pause, ticking up to close at $443.50. Institutional supply mechanics remain heavily locked down by top-tier desks, keeping price action a minor 3.90% below its primary $380.00 base pivot zone and firmly inside our strict 5% tracking gate."
+      }
+    ]
   },
   {
     "timestamp": "2026-10-12T20:00:00+00:00",
