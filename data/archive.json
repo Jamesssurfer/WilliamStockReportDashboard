@@ -1406,7 +1406,9 @@
           "telemetry": "Still the premier relative strength leader across the entire agent database. The asset printed a quiet, horizontal session (+0.05% change) on 48% below-average volume. This indicates complete institutional supply lock—fund managers refuse to liquidate blocks despite the macro correction. Sits exactly 0.10% below its $380.00 core base pivot."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-18T20:00:00+00:00",
       "header": "Friday, September 18, 2026's Report",
@@ -1500,9 +1502,7 @@
           "telemetry": "The absolute king of relative strength. The asset closed unchanged (0.00%) on rock-bottom Friday pre-close volume (-45% below the multi-week average). This structural profile confirms total institutional supply lock—fund managers refuse to liquidate blocks despite the macro correction tape. Sits exactly 0.15% below its $380.00 core base breakout pivot."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-17T20:00:00+00:00",
       "header": "Thursday, September 17, 2026's Report",
