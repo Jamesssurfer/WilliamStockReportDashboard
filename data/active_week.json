@@ -1,5 +1,82 @@
 [
   {
+    "timestamp": "2026-10-19T20:00:00+00:00",
+    "header": "Monday, October 19, 2026's Report",
+    "headline": "The tech-heavy NASDAQ Composite surges past one percent as institutional dip-buyers rush back into beaten-down semiconductor and artificial intelligence chains following last week's bruising liquidation wave [Markets News, Oct. 19, 2026: Nasdaq, S&P 500 Start Week ..., Nasdaq climbs as chip and AI]. The sharp thematic rebound in high-multiple hardware networks effectively countered a shaky backdrop across non-tech sectors and major international equity boards [How major US stock indexes fared Monday 10/19/2026 - WTOP]. Fixed-income benchmarks experienced renewed selling pressure as global sovereign debt markets contract, lifting the benchmark 10-year U.S. Treasury yield seven basis points higher to settle at 5.14% [Markets News, Oct. 19, 2026: Nasdaq, S&P 500 Start Week ..., US 10 Year Treasury Note Yield - Quote]. Concurrently, energy volatility quieted down as front-month international Brent crude futures eased 0.5% to settle at $109.35 a barrel, providing a temporary respite near structural multi-month highs while traders continue to parse localized conflict chokepoints [Markets News, Oct. 19, 2026: Nasdaq, S&P 500 Start Week ..., Oil prices dip, but remain elevated on war uncertainty].",
+    "market_status": "Uptrend Under Pressure",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,690.73",
+        "change": "+31.29 pts",
+        "pct": "+0.41%",
+        "distribution_days": 7,
+        "action": "Holds at 7 Distribution Days (Total: 7 Distribution Days). The benchmark average recovered its 100-day moving average baseline, but aggregate exchange volume dried up significantly below the 20-day institutional tracking average, keeping the action bound to a low-volume technical bounce [Dashboard | WILLIAM O'NEIL+CO]."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "26,430.89",
+        "change": "+290.85 pts",
+        "pct": "+1.11%",
+        "distribution_days": 7,
+        "action": "Holds at 7 Distribution Days (Total: 7 Distribution Days). Big tech drove a sharp rebound into the close as institutional managers reallocated capital back into leading software components, though thinning absolute volume matrices left the high distribution profile intact [Nasdaq Jumps Past 1 Percent as VIX Swings While Dow Dips, Nasdaq climbs as chip and AI]."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "19,738.55",
+        "change": "-13.85 pts",
+        "pct": "-0.07%",
+        "distribution_days": 6,
+        "action": "Holds at 6 Distribution Days (Total: 6 Distribution Days). The legacy board underperformed cleanly, weighed down by prominent liquidations in top-tier bank clearing houses and medical drug research blocks that completely erased midday cyclical gains [United States Stock Market Index - Quote]."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$206.32",
+        "change": "-0.58 pts",
+        "pct": "-0.28%",
+        "distribution_days": 6,
+        "action": "Holds at 6 Distribution Days (Total: 6 Distribution Days). Broad market breadth diverged heavily from the cap-weighted technology clusters, tracking a defensive 1.9-to-1 negative advancing footprint across the exchange as small-to-mid-cap networks languished [How major US stock indexes fared Monday 10/19/2026 - WTOP]."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$114.76",
+        "change": "+0.71 pts",
+        "pct": "+0.62%",
+        "distribution_days": 7,
+        "action": "Holds at 7 Distribution Days (Total: 7 Distribution Days). Programmatic baskets executed mechanical short-covering loops inside secondary growth slots, but the overall framework remains heavily restricted by maximum distribution limits."
+      }
+    ],
+    "sector_led_breakouts": [],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "CLF",
+        "company": "Cleveland-Cliffs Inc.",
+        "sector": "Basic Materials",
+        "industry": "Steel",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$14.95",
+        "pct": "+11.80%",
+        "action": "Uncoupled powerfully from a flat commodity market to clear a key structural pivot on massive institutional accumulation volume following an exceptional $4 billion forward operational cash-flow outlook statement [Investor's Business Daily | Stock News and Stock Market ...]."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "AAPL",
+        "company": "Apple Inc.",
+        "sector": "Technology",
+        "industry": "Consumer Electronics",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 1",
+        "pivot_price": "",
+        "distance_to_pivot": "1.85%",
+        "telemetry": "The consumer electronics anchor caught a robust institutional bid during the tech rotation, grinding higher to form structural price tighteners near its near-term moving averages [Investor's Business Daily | Stock News and Stock Market ...]. Supply pools remain tight as top-tier desks keep the configuration anchored a precise 1.85% below its core macro pivot buy trigger zone, maintaining elite relative strength scores [Investor's Business Daily | Stock News and Stock Market ...]."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-16T20:00:00+00:00",
     "header": "Friday, October 16, 2026's Report",
     "headline": "A brutal liquidation wave across the artificial intelligence and semiconductor complexes hammers Wall Street, dragging the tech-heavy Nasdaq down 2% and officially triggering a downgrade in the Market Environment Framework to an \"Uptrend Under Pressure\" [Dashboard | WILLIAM O'NEIL+CO, Markets News, Oct. 16, 2026: Nasdaq, S&P 500 End Lower ..., U.S. markets are weighed down by an extended sell-off in the ...]. The systematic de-risking phase accelerated on escalating institutional anxiety surrounding massive data center debt vectors alongside rumors of soft near-term revenue growth from core generative AI design networks [Markets News, Oct. 16, 2026: Nasdaq, S&P 500 End Lower ...]. Fixed-income desks recorded heavy safe-haven coupon bids that completely detached from equity stress, pulling the benchmark 10-year U.S. Treasury yield down to close the week at 5.10% [Market Yield on U.S. Treasury Securities at 10-Year Constant ..., 10-Year Treasury Yield Falls to 5.097% This Week — Data Talk]. Meanwhile, commodity chokepoint friction intensified aggressively as international Brent crude oil futures surged to settle at $109.86 a barrel, recording an absolute multi-month breakout as Middle East conflict indicators and Russian fuel supply restrictions rattled global energy matrices [Brent hits US$110 a barrel on October 16 over supply fears, Brent Oil Hits $110 as Supply Risks Mount].",
@@ -304,96 +381,6 @@
         "pivot_price": "$380.00",
         "distance_to_pivot": "3.90%",
         "telemetry": "The absolute relative strength anchor defended its short-term moving average parameters cleanly during the macro pause, ticking up to close at $443.50. Institutional supply mechanics remain heavily locked down by top-tier desks, keeping price action a minor 3.90% below its primary $380.00 base pivot zone and firmly inside our strict 5% tracking gate."
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-12T20:00:00+00:00",
-    "header": "Monday, October 12, 2026's Report",
-    "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
-    "market_status": "",
-    "indexes": [
-      {
-        "name": "S&P 500 Index (.INX)",
-        "value": "7,807.24",
-        "change": "-4.30 pts",
-        "pct": "-0.06%",
-        "distribution_days": 4,
-        "action": "Holds at 4 Distribution Days (Total: 4 Distribution Days). The index wavered near the flatline throughout the session [Wall Street ends mixed as oil prices rise and tech stocks fall]. Crucially, with the bond market closed and ahead of massive corporate numbers, institutional exchange volume dropped off significantly, sparing the index from logging a new high-volume liquidation signature."
-      },
-      {
-        "name": "Nasdaq Composite (.IXIC)",
-        "value": "27,245.90",
-        "change": "-120.27 pts",
-        "pct": "-0.44%",
-        "distribution_days": 4,
-        "action": "Holds at 4 Distribution Days (Total: 4 Distribution Days). Technology grids bore the brunt of localized distribution waves following industry-wide caution from major chip infrastructure executives [Stock Market News Oct. 12, 2026: Dow finishes higher, but ...]. However, a lower total transactional volume print left the background core distribution day count unchanged."
-      },
-      {
-        "name": "NYSE Composite (.NYA)",
-        "value": "20,010.50",
-        "change": "+85.40 pts",
-        "pct": "+0.43%",
-        "distribution_days": 4,
-        "action": "Holds at 4 Distribution Days (Total: 4 Distribution Days). The traditional board outperformed cleanly, finding structural insulation as capital rotated into large carrier telecom layers, energy extraction blocks, and value-focused cyclicals [Wall Street ends mixed as oil prices rise and tech stocks fall, Stock Market Today, Oct. 12: Dow Gains as Memory Stocks ...]."
-      },
-      {
-        "name": "Invesco S&P 500 Equal Weight (RSP)",
-        "value": "$210.15",
-        "change": "+1.03 pts",
-        "pct": "+0.49%",
-        "distribution_days": 4,
-        "action": "Holds at 4 Distribution Days (Total: 4 Distribution Days). Breadth acted as a bright spot as roughly 64% of companies within the broad index finished higher [Wall Street ends mixed as oil prices rise and tech stocks fall], indicating the day's weakness was a concentrated tech-cap phenomenon rather than a systemic market meltdown [Pre‑Market Briefing | Cannon Trading]."
-      },
-      {
-        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
-        "value": "$118.82",
-        "change": "+0.57 pts",
-        "pct": "+0.48%",
-        "distribution_days": 5,
-        "action": "Holds at 5 Distribution Days (Total: 5 Distribution Days). CRITICAL SIGNAL POSTURE MAINTAINED: The tech equal-weight array stabilized fractionally but remains heavily weighted by its 5 active distribution days, forcing the system to maintain a defensive protective posture on new growth positions."
-      }
-    ],
-    "sector_led_breakouts": [
-      {
-        "rank": 1,
-        "ticker": "EBAY",
-        "company": "eBay Inc.",
-        "sector": "Consumer Cyclical",
-        "industry": "Internet Retail",
-        "base_pattern": "",
-        "base_stage": "",
-        "price": "",
-        "pct": "",
-        "action": "$73.20 (+4.50%). Surged forcefully to lead e-commerce nodes after Wall Street analysts named it a \"Top Pick,\" highlighting that nascent live-commerce streams are driving a powerful acceleration in Gross Merchandise Volume (GMV) [Markets News, Oct. 12, 2026: Dow Rises, Nasdaq Slips to ...]."
-      }
-    ],
-    "divergent_breakouts": [
-      {
-        "rank": 1,
-        "ticker": "CRM",
-        "company": "Salesforce, Inc.",
-        "sector": "Technology",
-        "industry": "Software—Application",
-        "base_pattern": "",
-        "base_stage": "",
-        "price": "",
-        "pct": "",
-        "action": "$284.10 (+2.00%). Decoupled cleanly from broader software weakness to clear its horizontal chart pivot trigger [Stock Market News Oct. 12, 2026: Dow finishes higher, but ...], supercharged by a high-profile tier-1 double upgrade to \"Buy\" tracking enterprise application monetization loops [Stock market news for Oct. 12, 2026 - CNBC, Markets News, Oct. 12, 2026: Dow Rises, Nasdaq Slips to ...]."
-      }
-    ],
-    "pre_breakout_watchlist": [
-      {
-        "rank": 1,
-        "ticker": "AXON",
-        "company": "Axon Enterprise, Inc.",
-        "sector": "Industrials",
-        "industry": "Aerospace & Defense",
-        "base_pattern": "Flat Base",
-        "base_stage": "Stage 1",
-        "pivot_price": "$442.20",
-        "distance_to_pivot": "4.20%",
-        "telemetry": "The relative strength pioneer rebounded effectively off its short-term moving averages to close at $442.20. Supply pools remain exceptionally tight as defensive institutional buyers keep price action anchored 4.20% below its primary $380.00 base pivot zone, holding its critical position within our strict 5% scan gate filter."
       }
     ]
   }

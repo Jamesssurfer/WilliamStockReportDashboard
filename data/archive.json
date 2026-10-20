@@ -1,6 +1,96 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-12T20:00:00+00:00",
+      "header": "Monday, October 12, 2026's Report",
+      "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
+      "market_status": "",
+      "indexes": [
+        {
+          "name": "S&P 500 Index (.INX)",
+          "value": "7,807.24",
+          "change": "-4.30 pts",
+          "pct": "-0.06%",
+          "distribution_days": 4,
+          "action": "Holds at 4 Distribution Days (Total: 4 Distribution Days). The index wavered near the flatline throughout the session [Wall Street ends mixed as oil prices rise and tech stocks fall]. Crucially, with the bond market closed and ahead of massive corporate numbers, institutional exchange volume dropped off significantly, sparing the index from logging a new high-volume liquidation signature."
+        },
+        {
+          "name": "Nasdaq Composite (.IXIC)",
+          "value": "27,245.90",
+          "change": "-120.27 pts",
+          "pct": "-0.44%",
+          "distribution_days": 4,
+          "action": "Holds at 4 Distribution Days (Total: 4 Distribution Days). Technology grids bore the brunt of localized distribution waves following industry-wide caution from major chip infrastructure executives [Stock Market News Oct. 12, 2026: Dow finishes higher, but ...]. However, a lower total transactional volume print left the background core distribution day count unchanged."
+        },
+        {
+          "name": "NYSE Composite (.NYA)",
+          "value": "20,010.50",
+          "change": "+85.40 pts",
+          "pct": "+0.43%",
+          "distribution_days": 4,
+          "action": "Holds at 4 Distribution Days (Total: 4 Distribution Days). The traditional board outperformed cleanly, finding structural insulation as capital rotated into large carrier telecom layers, energy extraction blocks, and value-focused cyclicals [Wall Street ends mixed as oil prices rise and tech stocks fall, Stock Market Today, Oct. 12: Dow Gains as Memory Stocks ...]."
+        },
+        {
+          "name": "Invesco S&P 500 Equal Weight (RSP)",
+          "value": "$210.15",
+          "change": "+1.03 pts",
+          "pct": "+0.49%",
+          "distribution_days": 4,
+          "action": "Holds at 4 Distribution Days (Total: 4 Distribution Days). Breadth acted as a bright spot as roughly 64% of companies within the broad index finished higher [Wall Street ends mixed as oil prices rise and tech stocks fall], indicating the day's weakness was a concentrated tech-cap phenomenon rather than a systemic market meltdown [Pre‑Market Briefing | Cannon Trading]."
+        },
+        {
+          "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+          "value": "$118.82",
+          "change": "+0.57 pts",
+          "pct": "+0.48%",
+          "distribution_days": 5,
+          "action": "Holds at 5 Distribution Days (Total: 5 Distribution Days). CRITICAL SIGNAL POSTURE MAINTAINED: The tech equal-weight array stabilized fractionally but remains heavily weighted by its 5 active distribution days, forcing the system to maintain a defensive protective posture on new growth positions."
+        }
+      ],
+      "sector_led_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "EBAY",
+          "company": "eBay Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Internet Retail",
+          "base_pattern": "",
+          "base_stage": "",
+          "price": "",
+          "pct": "",
+          "action": "$73.20 (+4.50%). Surged forcefully to lead e-commerce nodes after Wall Street analysts named it a \"Top Pick,\" highlighting that nascent live-commerce streams are driving a powerful acceleration in Gross Merchandise Volume (GMV) [Markets News, Oct. 12, 2026: Dow Rises, Nasdaq Slips to ...]."
+        }
+      ],
+      "divergent_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "CRM",
+          "company": "Salesforce, Inc.",
+          "sector": "Technology",
+          "industry": "Software—Application",
+          "base_pattern": "",
+          "base_stage": "",
+          "price": "",
+          "pct": "",
+          "action": "$284.10 (+2.00%). Decoupled cleanly from broader software weakness to clear its horizontal chart pivot trigger [Stock Market News Oct. 12, 2026: Dow finishes higher, but ...], supercharged by a high-profile tier-1 double upgrade to \"Buy\" tracking enterprise application monetization loops [Stock market news for Oct. 12, 2026 - CNBC, Markets News, Oct. 12, 2026: Dow Rises, Nasdaq Slips to ...]."
+        }
+      ],
+      "pre_breakout_watchlist": [
+        {
+          "rank": 1,
+          "ticker": "AXON",
+          "company": "Axon Enterprise, Inc.",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 1",
+          "pivot_price": "$442.20",
+          "distance_to_pivot": "4.20%",
+          "telemetry": "The relative strength pioneer rebounded effectively off its short-term moving averages to close at $442.20. Supply pools remain exceptionally tight as defensive institutional buyers keep price action anchored 4.20% below its primary $380.00 base pivot zone, holding its critical position within our strict 5% scan gate filter."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-09T20:00:00+00:00",
       "header": "Friday, October 9, 2026's Report",
       "headline": "📁 O'Neil Market Analysis & Breakout Tracker.",
@@ -358,7 +448,9 @@
           "telemetry": "⚠️ WATCHLIST PROXIMITY EXPANSION. The long-standing relative strength anchor felt the weight of broad-market de-risking, sliding -1.92% to close at $448.91 as programmatic baskets dragged defense lines. The drop has widened its absolute proximity to 2.25% below its core $380.00 buy trigger, but the structural floor of the primary macro base remains securely defended by tier-1 desks."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-05T20:00:00+00:00",
       "header": "Monday, October 5, 2026's Report",
@@ -460,9 +552,7 @@
           "telemetry": "Maintained elite structural insulation during the tech rotation, grinding fractionally higher to close at $454.12. Supply mechanics remain exceptionally tight as tier-1 desks refuse to release block structures, pinning price action a razor-thin 0.95% below its core $380.00 base pivot buy trigger zone."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-02T20:00:00+00:00",
       "header": "Friday, October 2, 2026's Report",
