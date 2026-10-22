@@ -1,5 +1,95 @@
 [
   {
+    "timestamp": "2026-10-21T20:00:00+00:00",
+    "header": "Wednesday, October 21, 2026's Report",
+    "headline": "A wave of better-than-expected corporate earnings reports from major tech and aerospace bellwethers sparks a robust short-covering rally, driving the tech-heavy NASDAQ up over one percent [Stock market news for Oct. 21, 2026 - CNBC, How major US stock indexes fared Wednesday 10/21/2026]. Institutional dip-buyers aggressively reclaimed key short-term moving averages as stellar bottom-line results from SpaceX completely revitalized the sentiment matrix across the broader artificial intelligence and computational hardware complex [How major US stock indexes fared Wednesday 10/21/2026]. Fixed-income benchmarks experienced a highly constructive relief window, with the benchmark 10-year U.S. Treasury yield sliding back six basis points to settle at 5.14% as programmatic sovereign debt liquidation loops finally paused. Concurrently, global energy pressures remained acute as front-month international Brent crude futures pushed higher to settle near $110.85 a barrel following escalating geopolitical frictions and security developments surrounding Middle East distribution pathways [Stock Market Today: Dow, S&P Live Updates for October 22, Nasdaq logs 1.1% gain; S&P 500 and Dow end higher as AI ...].",
+    "market_status": "Uptrend Under Pressure",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,757.17",
+        "change": "+123.97 pts",
+        "pct": "+0.58%",
+        "distribution_days": 8,
+        "action": "Holds at 8 Distribution Days (Total: 8 Distribution Days). The index rebounded off near-term support channels, but aggregate transaction volume fell short of the 20-day institutional accumulation baseline, logging a low-volume technical bounce."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "26,702.86",
+        "change": "+541.65 pts",
+        "pct": "+1.05%",
+        "distribution_days": 8,
+        "action": "Holds at 8 Distribution Days (Total: 8 Distribution Days). Mega-cap tech allocation blocks aggressively retook key technical parameters, though absolute exchange volume thinned into the close, leaving the background count locked at maximum levels."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "19,810.50",
+        "change": "+170.64 pts",
+        "pct": "+0.87%",
+        "distribution_days": 7,
+        "action": "Holds at 7 Distribution Days (Total: 7 Distribution Days). The traditional board bounced back sharply as broad industrial capital goods, basic commodities, and financial services groups found steady structural buyers off multi-week consolidation floors."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$206.50",
+        "change": "+1.40 pts",
+        "pct": "+0.68%",
+        "distribution_days": 7,
+        "action": "Holds at 7 Distribution Days (Total: 7 Distribution Days). Market breadth validated the underlying short-covering velocity, with NYSE advancing listings strongly outstripping declining issues by a positive 2.2-to-1 ratio across the session."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$114.90",
+        "change": "+1.30 pts",
+        "pct": "+1.14%",
+        "distribution_days": 8,
+        "action": "Holds at 8 Distribution Days (Total: 8 Distribution Days). Programmatic algorithms triggered heavy covering inside mid-tier application software slots, though the active tracking matrix remains heavily bound by extreme distribution filters."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "SMCI",
+        "company": "Super Micro Computer, Inc.",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$35.57",
+        "pct": "+9.55%",
+        "action": "Cleared its horizontal base pivot buy point on heavy institutional volume tracking +110% above average, supercharged by the massive SpaceX quarterly profit beat [How major US stock indexes fared Wednesday 10/21/2026]."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "COF",
+        "company": "Capital One Financial Corp.",
+        "sector": "Financial Services",
+        "industry": "Credit Services",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$154.20",
+        "pct": "+6.15%",
+        "action": "Decoupled completely from broader credit sector drag to blast past its primary chart ceiling on massive block accumulation following a blowout bottom-line earnings release [How major US stock indexes fared Wednesday 10/21/2026]."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "AAPL",
+        "company": "Apple Inc.",
+        "sector": "Technology",
+        "industry": "Consumer Electronics",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 1",
+        "pivot_price": "",
+        "distance_to_pivot": "2.15%",
+        "telemetry": "The consumer hardware leader caught strong institutional block support during the tech rotation, grinding higher to form a tight weekly close near short-term moving averages. Supply mechanics remain exceptionally constrained as top-tier desks keep the configuration anchored 2.15% below its core macro pivot buy zone, maintaining elite relative strength parameters."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-20T20:00:00+00:00",
     "header": "Tuesday, October 20, 2026's Report",
     "headline": "A blistering acceleration in sovereign bond yields triggers a late-session algorithmic liquidation wave across Wall Street, wiping out early technology gains and intensifying broad-market technical damage. Growth equity metrics absorbed a harsh structural blow as the benchmark 10-year U.S. Treasury yield surged past its multi-year baseline to settle at 5.20%, fueled by heavy institutional programmatic selling ahead of the Federal Reserve's restrictive macroeconomic policy updates. The intense yield pressure quickly spread to global energy corridors, lifting front-month international Brent crude oil futures to settle higher at $109.95 a barrel on escalating Middle East chokepoint transit risks. Concurrently, defensive capital allocation models dominated the tape as corporate budget forecasters parsed mixed third-quarter industrial procurement data, triggering widespread multi-asset portfolio cash-raising loops into the closing bell.",
