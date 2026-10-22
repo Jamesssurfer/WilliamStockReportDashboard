@@ -1,5 +1,82 @@
 [
   {
+    "timestamp": "2026-10-22T20:00:00+00:00",
+    "header": "Thursday, October 22, 2026's Report",
+    "headline": "A devastating technology liquidation wave sweeps across Wall Street as revived doubts over AI spending ignite a massive sell-off in semiconductor and growth clusters. Mega-cap tech earnings guidance stoked deep anxieties that capital deployment into artificial intelligence architectures has gone too far, too fast, prompting severe multi-asset programmatic cash-raising loops. The tech rout completely masked underlying market resilience, as investors rotated into defensive dividend-paying spaces rather than abandoning equities entirely. Fixed-income desks recorded an extraordinary flight-to-safety coupon bid, dragging the benchmark 10-year U.S. Treasury yield down 19 basis points to 4.95% in its sharpest single-day decline in over three years. Concurrently, global energy pressures flared up aggressively as international Brent crude oil futures surged 4% to settle at $113.10 a barrel, driven by mounting Middle East chokepoint transit risks and potential military escalations. (https://www.reuters.com/business/nasdaq-futures-drop-over-1-ai-worries-resurface-oil-climbs-2026-10-22/), (https://www.bloomberg.com/news/articles/2026-10-22/us-futures-slip-as-risk-off-sentiment-dominates-with-oil-rising), (https://wtop.com/national/2026/10/how-major-us-stock-indexes-fared-thursday-10-22-2026/), (https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-investors-weigh-meta-tesla-financial-earnings), (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10222026-12187670).",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,663.43",
+        "change": "-93.74 pts",
+        "pct": "-1.21%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 9 Distribution Days). The index suffered an aggressive breakdown on an intense expansion of daily exchange volume tracking well above its 20-day institutional baseline average. (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10222026-12187670), (https://www.reuters.com/business/nasdaq-futures-drop-over-1-ai-worries-resurface-oil-climbs-2026-10-22/)."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "26,008.86",
+        "change": "-694.00 pts",
+        "pct": "-2.60%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 9 Distribution Days). High-multiple growth clusters bore the brunt of systematic institutional de-risking, logging the index's largest single-day percentage drop since June. (https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026), (https://www.reuters.com/business/nasdaq-futures-drop-over-1-ai-worries-resurface-oil-climbs-2026-10-22/)."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "19,742.10",
+        "change": "-68.40 pts",
+        "pct": "-0.35%",
+        "distribution_days": 7,
+        "action": "Holds at 7 Distribution Days (Total: 7 Distribution Days). The traditional board demonstrated significant relative insulation on flat volume constraints as institutional rotations into safe-haven consumer staples offset severe heavy-machinery liquidations. (https://tradingeconomics.com/united-states/stock-market), (https://www.bloomberg.com/news/articles/2026-10-22/us-futures-slip-as-risk-off-sentiment-dominates-with-oil-rising)."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$207.25",
+        "change": "+0.75 pts",
+        "pct": "+0.36%",
+        "distribution_days": 7,
+        "action": "Holds at 7 Distribution Days (Total: 7 Distribution Days). Stripped of tech megacap anchors, the equal-weighted framework actually finished in positive territory as the majority of broader board constituents advanced, tracking a resilient 1.7-to-1 positive advancing ratio. (https://wtop.com/national/2026/10/how-major-us-stock-indexes-fared-thursday-10-22-2026/)."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$112.18",
+        "change": "-2.72 pts",
+        "pct": "-2.37%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 9 Distribution Days). Algorithmic extraction hit mid-tier growth layers forcefully on high volume, sealing the strict defensive shutdown across the automated tracking array."
+      }
+    ],
+    "sector_led_breakouts": [],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "SPOT",
+        "company": "Spotify Technology S.A.",
+        "sector": "Communication Services",
+        "industry": "Entertainment",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$382.40",
+        "pct": "+11.00%",
+        "action": "Completely uncoupled from the broader technology routing to clear its horizontal chart ceiling on massive institutional accumulation volume, supercharged by an exceptional Q3 subscriber optimization report. (https://www.reuters.com/business/nasdaq-futures-drop-over-1-ai-worries-resurface-oil-climbs-2026-10-22/), (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10222026-12187670)."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "NTRA",
+        "company": "Natera, Inc.",
+        "sector": "Healthcare",
+        "industry": "Diagnostics & Research",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 2",
+        "pivot_price": "$128.50",
+        "distance_to_pivot": "1.15%",
+        "telemetry": "The molecular diagnostics innovator displayed elite structural insulation against broad-market liquidation loops, closing tightly at $128.50. Supply pools remain exceptionally restricted by top-tier funds, anchoring the pattern a precise 1.15% below its core macro pivot buy point zone with highly constructive volume drying up. (https://www.investors.com/)."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-21T20:00:00+00:00",
     "header": "Wednesday, October 21, 2026's Report",
     "headline": "A wave of better-than-expected corporate earnings reports from major tech and aerospace bellwethers sparks a robust short-covering rally, driving the tech-heavy NASDAQ up over one percent [Stock market news for Oct. 21, 2026 - CNBC, How major US stock indexes fared Wednesday 10/21/2026]. Institutional dip-buyers aggressively reclaimed key short-term moving averages as stellar bottom-line results from SpaceX completely revitalized the sentiment matrix across the broader artificial intelligence and computational hardware complex [How major US stock indexes fared Wednesday 10/21/2026]. Fixed-income benchmarks experienced a highly constructive relief window, with the benchmark 10-year U.S. Treasury yield sliding back six basis points to settle at 5.14% as programmatic sovereign debt liquidation loops finally paused. Concurrently, global energy pressures remained acute as front-month international Brent crude futures pushed higher to settle near $110.85 a barrel following escalating geopolitical frictions and security developments surrounding Middle East distribution pathways [Stock Market Today: Dow, S&P Live Updates for October 22, Nasdaq logs 1.1% gain; S&P 500 and Dow end higher as AI ...].",
