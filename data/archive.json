@@ -1322,7 +1322,9 @@
           "telemetry": "Still the premier relative strength leader across the active database context. The asset recorded a quiet, narrow session (-0.12% change) on 42% below-average volume. Institutional supply remains tightly locked up as funds refuse to sell blocks. Proximity sits at a razor-thin 0.35% below its core $380.00 breakout pivot."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-25T20:00:00+00:00",
       "header": "Friday, September 25, 2026's Report",
@@ -1424,9 +1426,7 @@
           "telemetry": "Still the premier relative strength leader across the active database. The asset advanced +1.12% to close at $457.70, driving right back to the top of its multi-week structure on tight volume. Complete institutional supply lock remains visible, positioning its proximity to a razor-thin 0.23% below its core $380.00 base pivot buy zone."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-24T20:00:00+00:00",
       "header": "Thursday, September 24, 2026's Report",
