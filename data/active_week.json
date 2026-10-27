@@ -1,5 +1,95 @@
 [
   {
+    "timestamp": "2026-10-26T20:00:00+00:00",
+    "header": "Monday, October 26, 2026's Report",
+    "headline": "A high-profile public IPO filing from artificial intelligence pioneer Anthropic revives systemic enthusiasm for generative AI architectures, lifting U.S. benchmarks to arrest a consecutive multi-week decline [Markets News, Oct. 26, 2026: Stocks Finish Higher to Begin ..., Stock market today: Dow, S&P 500, Nasdaq gain as Anthropic ...]. The landmark registration statement by the developer of Claude injected massive optimism into technology corridors ahead of a crucial slate of mega-cap corporate earnings and a Federal Reserve policy decision [Equities end higher as Anthropic's IPO filing buoys AI stocks, Stock market today: Dow, S&P 500, Nasdaq gain as Anthropic ...]. Macro asset volatility was partially buffered as fixed-income desks stabilized, leaving the benchmark 10-year U.S. Treasury yield flat at 5.00% after a brief period of safe-haven accumulation [10 Year Treasury Rate - Real-Time & Historical Yield Trends, The Fed's narrow path | News & Insights - Chatham Financial]. Concurrently, global energy pressures experienced a localized reprieve as international Brent crude oil futures slid to settle near $116.00 a barrel, tracking tentative supply negotiations across primary Middle East shipping vectors [Stocks Get Tech Boost as Anthropic Files for IPO: Markets Wrap, US 10 Year Treasury Note Yield - Quote - Trading Economics].",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,676.80",
+        "change": "+53.12 pts",
+        "pct": "+0.70%",
+        "distribution_days": 9,
+        "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). The benchmark index halted back-to-back weekly losses by climbing on a tech-led bid, though aggregate exchange volume remained slightly beneath its 20-day institutional baseline [Stocks Get Tech Boost as Anthropic Files for IPO: Markets Wrap]."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "26,169.38",
+        "change": "+214.04 pts",
+        "pct": "+0.82%",
+        "distribution_days": 9,
+        "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). Technology allocation models aggressively targeted semiconductor hardware and software complexes on the Anthropic IPO filing, driving a strong daily recovery [Equities end higher as Anthropic's IPO filing buoys AI stocks, Stocks Get Tech Boost as Anthropic Files for IPO: Markets Wrap]."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "19,895.40",
+        "change": "+64.45 pts",
+        "pct": "+0.33%",
+        "distribution_days": 7,
+        "action": "Holds at 7 Distribution Days (Total: 7 Distribution Days). Broad cyclical layers and industrial capital networks found a reliable floor, though soft energy components restricted the legacy average from full performance parity."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$208.95",
+        "change": "+0.80 pts",
+        "pct": "+0.38%",
+        "distribution_days": 7,
+        "action": "Holds at 7 Distribution Days (Total: 7 Distribution Days). Underlying market breadth turned positive across the session, with NYSE advancing listings closing at a constructive 1.8-to-1 ratio against declining counters."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$114.30",
+        "change": "+0.95 pts",
+        "pct": "+0.84%",
+        "distribution_days": 9,
+        "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). Programmatic algorithms triggered heavy covering inside mid-tier infrastructure nodes, though the overall tracking framework remains under maximum defensive restrictions."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "SGRY",
+        "company": "Surgery Partners, Inc.",
+        "sector": "Healthcare",
+        "industry": "Healthcare Services",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$23.25",
+        "pct": "+8.40%",
+        "action": "Cleared its primary horizontal chart ceiling on massive institutional block volume pacing 25x above average, fueled by positive volume expansion matrices across medical facility corridors."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "R",
+        "company": "Ryder System, Inc.",
+        "sector": "Industrials",
+        "industry": "Transportation & Logistics",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 2",
+        "price": "$282.11",
+        "pct": "+4.15%",
+        "action": "Decoupled forcefully from broader supply-chain drag to blast past its primary chart pivot ceiling on massive accumulation volume tracking 1.8x above historical norms."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "NTRA",
+        "company": "Natera, Inc.",
+        "sector": "Healthcare",
+        "industry": "Diagnostics & Research",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 2",
+        "pivot_price": "$129.95",
+        "distance_to_pivot": "0.04%",
+        "telemetry": "The molecular diagnostics innovator strongly defended its short-term moving average parameters during the market bounce, tightening further to close at $129.95. Supply pools remain exceptionally locked up by top-tier funds, anchoring the pattern a razor-thin 0.04% below its core macro pivot buy point zone with volume drying up perfectly."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-23T20:00:00+00:00",
     "header": "Friday, October 23, 2026's Report",
     "headline": "A blistering technology surge propelled by blockbuster corporate earnings launches a fierce Wall Street counter-offensive, lifting the cap-weighted benchmarks to record weekly closing boundaries. Institutional programmatic acquisition baskets aggressively targeted the beaten-down artificial intelligence and computational chip complexes, sparked by an overwhelming, metric-shattering quarterly financial performance and upward margin revisions from consumer tech titan Apple. The massive tech rebound effectively neutralised macro headwinds stemming from the fixed-income markets, where bond clearing houses executed another light markdown cycle that pushed the benchmark 10-year U.S. Treasury yield four basis points higher to settle at 4.99%. Concurrently, global energy chokepoint anxieties stabilized slightly, leaving front-month international Brent crude oil futures marginally lower to settle at $112.50 a barrel as computerized capital loops paused short-term supply-premium hoarding.",
