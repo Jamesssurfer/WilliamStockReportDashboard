@@ -1,5 +1,107 @@
 [
   {
+    "timestamp": "2026-10-27T20:00:00+00:00",
+    "header": "Tuesday, October 27, 2026's Report",
+    "headline": "A powerful tech-led rally extends Wall Street's upward momentum as a sharp resurgence in semiconductor clusters pushes the Nasdaq Composite to its best daily performance in nearly a month. Institutional buyers aggressively expanded risk profiles ahead of highly anticipated mega-cap tech earnings from Microsoft and Alphabet alongside the Federal Reserve's looming monetary policy decision. Fixed-income desks experienced stable matching conditions, leaving the benchmark 10-year U.S. Treasury yield hovering slightly higher to settle near 5.02% as macroeconomic traders braced for the central bank's upcoming guidance. Concurrently, global energy pressures saw a welcome reprieve as front-month international Brent crude futures fell below $114.00 a barrel, tracking a prominent slowdown in near-term supply concerns as optimism over potential Middle East diplomatic channels emerged. (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10272026-12196175), (https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-mixed-tech-stocks-fall-after-rebound), (https://www.theedgesingapore.com/news/us-stocks/tech-stocks-power-wall-street-gains-oil-falls), (https://wtop.com/national/2026/10/asian-shares-slip-as-sharp-drops-for-ai-stocks-overwhelm-markets-worldwide-and-oil-prices-jump/), (https://mecktimes.com/news/2026/10/27/stocks-rise-as-oil-slips-with-tech-earnings-fed-ahead/).",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,722.60",
+        "change": "+45.83 pts",
+        "pct": "+0.60%",
+        "distribution_days": 9,
+        "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). The index advanced on solid tech-heavy programmatic buying, but aggregate exchange volume fell thin compared to its 20-day institutional baseline, locking the current count. (https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-27-2026)."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "26,477.81",
+        "change": "+308.43 pts",
+        "pct": "+1.18%",
+        "distribution_days": 9,
+        "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). A strong 2.3% surge across leading semiconductor hardware groups and computational architecture clusters sparked broad accumulation, though total index volume failed to reach peak expansion limits. (https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-mixed-tech-stocks-fall-after-rebound), (https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-27-2026), (https://www.theedgesingapore.com/news/us-stocks/tech-stocks-power-wall-street-gains-oil-falls)."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "19,958.80",
+        "change": "+63.40 pts",
+        "pct": "+0.32%",
+        "distribution_days": 7,
+        "action": "Holds at 7 Distribution Days (Total: 7 Distribution Days). Broad industrial and financial segments moved moderately higher, balancing out deep isolated drops in aerospace components."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$209.62",
+        "change": "+0.67 pts",
+        "pct": "+0.32%",
+        "distribution_days": 7,
+        "action": "Holds at 7 Distribution Days (Total: 7 Distribution Days). Market breadth stabilized, recording a supportive 1.5-to-1 positive advancing ratio across the New York Stock Exchange, validating that accumulation was relatively well distributed."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$115.10",
+        "change": "+0.80 pts",
+        "pct": "+0.70%",
+        "distribution_days": 9,
+        "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). Baskets executed steady short-covering inside secondary application software nodes, keeping the matrix securely inside defensive tracking rules."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "KNSA",
+        "company": "Kiniksa Pharmaceuticals Intl.",
+        "sector": "Healthcare",
+        "industry": "Biotechnology",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "price": "$89.05",
+        "pct": "+7.15%",
+        "action": "Forcefully cleared a key multi-week horizontal base pivot on massive institutional volume pacing 2.7x above its 50-day average following constructive pipeline upgrades. (https://www.google.com/intl/en_us/googlefinance/disclaimer)."
+      },
+      {
+        "rank": 2,
+        "ticker": "RDWR",
+        "company": "Radware Ltd.",
+        "sector": "Technology",
+        "industry": "Software—Infrastructure",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$35.54",
+        "pct": "+4.80%",
+        "action": "Vaulted past its chart ceiling on an aggressive institutional volume expansion rate of 2.1x normal, supercharged by robust enterprise network security demand. (https://www.google.com/intl/en_us/googlefinance/disclaimer)."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "RRC",
+        "company": "Range Resources Corporation",
+        "sector": "Energy",
+        "industry": "Oil, Gas & Consumable Fuels",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$56.38",
+        "pct": "+3.65%",
+        "action": "Decoupled completely from declining intraday crude oil metrics to execute a high-volume breakout past its primary pivot, driven by massive natural gas asset block accumulation tracking 3.6x above historical volume norms. (https://www.google.com/intl/en_us/googlefinance/disclaimer)."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "NTRA",
+        "company": "Natera, Inc.",
+        "sector": "Healthcare",
+        "industry": "Diagnostics & Research",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 2",
+        "pivot_price": "$129.98",
+        "distance_to_pivot": "0.02%",
+        "telemetry": "The molecular diagnostics innovator extended its elite relative strength posture during the broader tech rally, grinding into an exceptionally tight chart handle to close at $129.98. Institutional supply pools remain deeply restricted by top-tier desks, anchoring the pattern a razor-thin 0.02% below its core macro pivot buy point zone as transaction volume dried up perfectly."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-26T20:00:00+00:00",
     "header": "Monday, October 26, 2026's Report",
     "headline": "A high-profile public IPO filing from artificial intelligence pioneer Anthropic revives systemic enthusiasm for generative AI architectures, lifting U.S. benchmarks to arrest a consecutive multi-week decline [Markets News, Oct. 26, 2026: Stocks Finish Higher to Begin ..., Stock market today: Dow, S&P 500, Nasdaq gain as Anthropic ...]. The landmark registration statement by the developer of Claude injected massive optimism into technology corridors ahead of a crucial slate of mega-cap corporate earnings and a Federal Reserve policy decision [Equities end higher as Anthropic's IPO filing buoys AI stocks, Stock market today: Dow, S&P 500, Nasdaq gain as Anthropic ...]. Macro asset volatility was partially buffered as fixed-income desks stabilized, leaving the benchmark 10-year U.S. Treasury yield flat at 5.00% after a brief period of safe-haven accumulation [10 Year Treasury Rate - Real-Time & Historical Yield Trends, The Fed's narrow path | News & Insights - Chatham Financial]. Concurrently, global energy pressures experienced a localized reprieve as international Brent crude oil futures slid to settle near $116.00 a barrel, tracking tentative supply negotiations across primary Middle East shipping vectors [Stocks Get Tech Boost as Anthropic Files for IPO: Markets Wrap, US 10 Year Treasury Note Yield - Quote - Trading Economics].",
