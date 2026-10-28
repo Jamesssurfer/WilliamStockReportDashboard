@@ -1,5 +1,107 @@
 [
   {
+    "timestamp": "2026-10-28T20:00:00+00:00",
+    "header": "Wednesday, October 28, 2026's Report",
+    "headline": "U.S. stock benchmarks finish marginally higher in a tightly contained session as the Federal Reserve votes to hold interest rates flat, calming near-term macro duration fears ahead of a crucial big tech earnings slate [Markets News, Oct. 28, 2026: Stocks Close Higher, Treasury ..., Stock market today: Dow, S&P 500, Nasdaq climb as Fed ...]. The central bank's widely expected decision to maintain its policy benchmark provided immediate relief to debt-reliant growth vectors [Markets News, Oct. 28, 2026: Stocks Close Higher, Treasury ..., Oct 28 Could Be A Huge Day For The Stock Market]. Fixed-income benchmarks experienced localized initial swings before settling back down, keeping the benchmark 10-year U.S. Treasury yield flat at 5.02% as traders balanced two hawkish FOMC dissenting votes against a constructive reprieve from further policy tightening [Markets News, Oct. 28, 2026: Stocks Close Higher, Treasury ...]. Concurrently, global energy pressures stabilized near recent highs, leaving front-month international Brent crude futures to settle near $113.80 a barrel as computerized capital loops paused active inventory hoarding ahead of late-week macroeconomic storage prints.",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,743.98",
+        "change": "+21.38 pts",
+        "pct": "+0.28%",
+        "distribution_days": 9,
+        "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). The index ground out minor gains post-FOMC, but aggregate exchange volume remained below its 20-day institutional baseline, locking the current count [Markets News, Oct. 28, 2026: Stocks Close Higher, Treasury ...]."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "26,549.85",
+        "change": "+72.04 pts",
+        "pct": "+0.27%",
+        "distribution_days": 9,
+        "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). Technology grids caught an early morning chip sector tailwind from overseas earnings, but thin programmatic follow-through into the closing bell kept the absolute count bound to maximum levels [Wall Street ends higher as Fed holds key rate steady ...]."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "19,985.40",
+        "change": "+26.60 pts",
+        "pct": "+0.13%",
+        "distribution_days": 7,
+        "action": "Holds at 7 Distribution Days (Total: 7 Distribution Days). Broad cyclical layers and defensive utilities finished mixed to slightly positive on flat volume parameters, trailing the tech-cap benchmarks."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$209.85",
+        "change": "+0.23 pts",
+        "pct": "+0.11%",
+        "distribution_days": 7,
+        "action": "Holds at 7 Distribution Days (Total: 7 Distribution Days). Market breadth underperformed the main cap-weighted indices, recording a highly flat 1.1-to-1 positive advancing ratio across the New York board [Markets News, Oct. 28, 2026: Stocks Close Higher, Treasury ...]."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$115.35",
+        "change": "+0.25 pts",
+        "pct": "+0.22%",
+        "distribution_days": 9,
+        "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). Programmatic algorithms paused mechanical de-risking inside secondary growth nodes, keeping the matrix securely inside defensive tracking rules."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "ORCL",
+        "company": "Oracle Corporation",
+        "sector": "Technology",
+        "industry": "Software—Application",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$143.50",
+        "pct": "+11.00%",
+        "action": "Exploded past its horizontal chart pivot buy point on massive institutional volume tracking 3.5x above normal, supercharged by an optimistic investor day outlook detailing peaking AI infrastructure spend and robust long-term free cash flow targets [Markets News, Oct. 28, 2026: Stocks Close Higher, Treasury ...]."
+      },
+      {
+        "rank": 2,
+        "ticker": "MU",
+        "company": "Micron Technology, Inc.",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$108.40",
+        "pct": "+4.85%",
+        "action": "Cleared its primary base pivot buy trigger zone on heavy institutional volume expansion pacing 1.9x above average, fueled by blockbuster earnings and a sevenfold profit jump from global memory hardware peers [Wall Street ends higher as Fed holds key rate steady ...]."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "AEM",
+        "company": "Agnico Eagle Mines Limited",
+        "sector": "Basic Materials",
+        "industry": "Gold",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$88.65",
+        "pct": "+3.90%",
+        "action": "Decoupled completely from flat macro commodity indices to blast past its handle ceiling on high volume, capturing steady institutional safe-haven capital streams."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "NTRA",
+        "company": "Natera, Inc.",
+        "sector": "Healthcare",
+        "industry": "Diagnostics & Research",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 2",
+        "pivot_price": "$129.98",
+        "distance_to_pivot": "0.02%",
+        "telemetry": "The molecular diagnostics innovator fiercely preserved its elite relative strength posture ahead of the big tech earnings tape, closing unchanged at $129.98. Institutional supply pools remain deeply restricted by top-tier funds, anchoring the pattern a razor-thin 0.02% below its core macro pivot buy point zone as transaction volume dried up perfectly."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-27T20:00:00+00:00",
     "header": "Tuesday, October 27, 2026's Report",
     "headline": "A powerful tech-led rally extends Wall Street's upward momentum as a sharp resurgence in semiconductor clusters pushes the Nasdaq Composite to its best daily performance in nearly a month. Institutional buyers aggressively expanded risk profiles ahead of highly anticipated mega-cap tech earnings from Microsoft and Alphabet alongside the Federal Reserve's looming monetary policy decision. Fixed-income desks experienced stable matching conditions, leaving the benchmark 10-year U.S. Treasury yield hovering slightly higher to settle near 5.02% as macroeconomic traders braced for the central bank's upcoming guidance. Concurrently, global energy pressures saw a welcome reprieve as front-month international Brent crude futures fell below $114.00 a barrel, tracking a prominent slowdown in near-term supply concerns as optimism over potential Middle East diplomatic channels emerged. (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10272026-12196175), (https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-mixed-tech-stocks-fall-after-rebound), (https://www.theedgesingapore.com/news/us-stocks/tech-stocks-power-wall-street-gains-oil-falls), (https://wtop.com/national/2026/10/asian-shares-slip-as-sharp-drops-for-ai-stocks-overwhelm-markets-worldwide-and-oil-prices-jump/), (https://mecktimes.com/news/2026/10/27/stocks-rise-as-oil-slips-with-tech-earnings-fed-ahead/).",
@@ -342,96 +444,6 @@
         "pivot_price": "$128.50",
         "distance_to_pivot": "1.15%",
         "telemetry": "The molecular diagnostics innovator displayed elite structural insulation against broad-market liquidation loops, closing tightly at $128.50. Supply pools remain exceptionally restricted by top-tier funds, anchoring the pattern a precise 1.15% below its core macro pivot buy point zone with highly constructive volume drying up. (https://www.investors.com/)."
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-21T20:00:00+00:00",
-    "header": "Wednesday, October 21, 2026's Report",
-    "headline": "A wave of better-than-expected corporate earnings reports from major tech and aerospace bellwethers sparks a robust short-covering rally, driving the tech-heavy NASDAQ up over one percent [Stock market news for Oct. 21, 2026 - CNBC, How major US stock indexes fared Wednesday 10/21/2026]. Institutional dip-buyers aggressively reclaimed key short-term moving averages as stellar bottom-line results from SpaceX completely revitalized the sentiment matrix across the broader artificial intelligence and computational hardware complex [How major US stock indexes fared Wednesday 10/21/2026]. Fixed-income benchmarks experienced a highly constructive relief window, with the benchmark 10-year U.S. Treasury yield sliding back six basis points to settle at 5.14% as programmatic sovereign debt liquidation loops finally paused. Concurrently, global energy pressures remained acute as front-month international Brent crude futures pushed higher to settle near $110.85 a barrel following escalating geopolitical frictions and security developments surrounding Middle East distribution pathways [Stock Market Today: Dow, S&P Live Updates for October 22, Nasdaq logs 1.1% gain; S&P 500 and Dow end higher as AI ...].",
-    "market_status": "Uptrend Under Pressure",
-    "indexes": [
-      {
-        "name": "S&P 500 Index (.INX)",
-        "value": "7,757.17",
-        "change": "+123.97 pts",
-        "pct": "+0.58%",
-        "distribution_days": 8,
-        "action": "Holds at 8 Distribution Days (Total: 8 Distribution Days). The index rebounded off near-term support channels, but aggregate transaction volume fell short of the 20-day institutional accumulation baseline, logging a low-volume technical bounce."
-      },
-      {
-        "name": "Nasdaq Composite (.IXIC)",
-        "value": "26,702.86",
-        "change": "+541.65 pts",
-        "pct": "+1.05%",
-        "distribution_days": 8,
-        "action": "Holds at 8 Distribution Days (Total: 8 Distribution Days). Mega-cap tech allocation blocks aggressively retook key technical parameters, though absolute exchange volume thinned into the close, leaving the background count locked at maximum levels."
-      },
-      {
-        "name": "NYSE Composite (.NYA)",
-        "value": "19,810.50",
-        "change": "+170.64 pts",
-        "pct": "+0.87%",
-        "distribution_days": 7,
-        "action": "Holds at 7 Distribution Days (Total: 7 Distribution Days). The traditional board bounced back sharply as broad industrial capital goods, basic commodities, and financial services groups found steady structural buyers off multi-week consolidation floors."
-      },
-      {
-        "name": "Invesco S&P 500 Equal Weight (RSP)",
-        "value": "$206.50",
-        "change": "+1.40 pts",
-        "pct": "+0.68%",
-        "distribution_days": 7,
-        "action": "Holds at 7 Distribution Days (Total: 7 Distribution Days). Market breadth validated the underlying short-covering velocity, with NYSE advancing listings strongly outstripping declining issues by a positive 2.2-to-1 ratio across the session."
-      },
-      {
-        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
-        "value": "$114.90",
-        "change": "+1.30 pts",
-        "pct": "+1.14%",
-        "distribution_days": 8,
-        "action": "Holds at 8 Distribution Days (Total: 8 Distribution Days). Programmatic algorithms triggered heavy covering inside mid-tier application software slots, though the active tracking matrix remains heavily bound by extreme distribution filters."
-      }
-    ],
-    "sector_led_breakouts": [
-      {
-        "rank": 1,
-        "ticker": "SMCI",
-        "company": "Super Micro Computer, Inc.",
-        "sector": "Technology",
-        "industry": "Computer Hardware",
-        "base_pattern": "",
-        "base_stage": "",
-        "price": "$35.57",
-        "pct": "+9.55%",
-        "action": "Cleared its horizontal base pivot buy point on heavy institutional volume tracking +110% above average, supercharged by the massive SpaceX quarterly profit beat [How major US stock indexes fared Wednesday 10/21/2026]."
-      }
-    ],
-    "divergent_breakouts": [
-      {
-        "rank": 1,
-        "ticker": "COF",
-        "company": "Capital One Financial Corp.",
-        "sector": "Financial Services",
-        "industry": "Credit Services",
-        "base_pattern": "",
-        "base_stage": "",
-        "price": "$154.20",
-        "pct": "+6.15%",
-        "action": "Decoupled completely from broader credit sector drag to blast past its primary chart ceiling on massive block accumulation following a blowout bottom-line earnings release [How major US stock indexes fared Wednesday 10/21/2026]."
-      }
-    ],
-    "pre_breakout_watchlist": [
-      {
-        "rank": 1,
-        "ticker": "AAPL",
-        "company": "Apple Inc.",
-        "sector": "Technology",
-        "industry": "Consumer Electronics",
-        "base_pattern": "Cup-with-Handle",
-        "base_stage": "Stage 1",
-        "pivot_price": "",
-        "distance_to_pivot": "2.15%",
-        "telemetry": "The consumer hardware leader caught strong institutional block support during the tech rotation, grinding higher to form a tight weekly close near short-term moving averages. Supply mechanics remain exceptionally constrained as top-tier desks keep the configuration anchored 2.15% below its core macro pivot buy zone, maintaining elite relative strength parameters."
       }
     ]
   }
