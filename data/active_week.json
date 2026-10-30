@@ -1,5 +1,107 @@
 [
   {
+    "timestamp": "2026-10-29T20:00:00+00:00",
+    "header": "Thursday, October 29, 2026's Report",
+    "headline": "A historic double-digit collapse in Alphabet shares following a core revenue miss sparks a sharp tech-centric liquidation wave, completely overshadowing a massive broadening of breadth across the rest of the market [Stock Market Today (Oct. 29, 2026): S&P 500 falls after ..., Stock Market News, Oct. 29, 2026: AI Jitters Spread as Intel ...]. The Google parent's record-setting slide reignited intense institutional anxieties surrounding massive AI capital expenditure margins, triggering sharp mechanical de-risking inside high-multiple cloud software corridors despite blowout Azure metrics from Microsoft [Stock Market Today (Oct. 29, 2026): S&P 500 falls after ..., Stock Market News From Oct. 29, 2026: Alphabet's ... - Barron's]. Fixed-income benchmarks experienced subtle relief as fresh core PCE inflation data matched cooling estimates, pulling the benchmark 10-year U.S. Treasury yield down to settle near 4.95% [Markets News, Oct. 29, 2026: Nasdaq Leads Indexes Lower ...]. Concurrently, global energy matrices remained anchored near multi-month highs, leaving front-month international Brent crude oil futures flat near $114.00 a barrel as underlying geopolitical tensions balanced out higher production figures [Stock Market Today (Oct. 29, 2026): S&P 500 falls after ...].",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,721.18",
+        "change": "-22.80 pts",
+        "pct": "-0.29%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 10 Distribution Days). The index recorded a higher-volume breakdown driven entirely by large capitalization technology clusters, completely erasing a constructive session where 406 distinct underlying components actually finished higher [Stock Market Today (Oct. 29, 2026): S&P 500 falls after ..., Tech Stocks Sell Off on Earnings, Bitcoin Drops: Markets Wrap]."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "26,220.28",
+        "change": "-329.57 pts",
+        "pct": "-1.24%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 10 Distribution Days). High-beta growth architectures bore the brunt of systematic institutional de-risking as negative free cash flow profiles sparked massive liquidations, pushing the index deep into extreme distribution bounds [Stock Market News, Oct. 29, 2026: AI Jitters Spread as Intel ..., Stock Market News From Oct. 29, 2026: Alphabet's ... - Barron's]."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "19,925.40",
+        "change": "-33.40 pts",
+        "pct": "-0.17%",
+        "distribution_days": 7,
+        "action": "Holds at 7 Distribution Days (Total: 7 Distribution Days). The traditional board demonstrated significant relative insulation on flat volume constraints, as capital rotated safely into consumer staples and healthcare proxies [Markets News, Oct. 29, 2026: Nasdaq Leads Indexes Lower ...]."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$210.15",
+        "change": "+0.53 pts",
+        "pct": "+0.25%",
+        "distribution_days": 7,
+        "action": "Holds at 7 Distribution Days (Total: 7 Distribution Days). Stripped of cap-weighted technology weights, the equal-weighted framework outperformed dramatically as nearly 81% of broad market constituents advanced [Stock Market Today (Oct. 29, 2026): S&P 500 falls after ...]."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$114.15",
+        "change": "-1.20 pts",
+        "pct": "-1.04%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 10 Distribution Days). Algorithmic cash extraction hit mid-tier technology layouts forcefully on expanding volume, cementing strict defensive boundaries across the growth spectrum [Tech Stocks Sell Off on Earnings, Bitcoin Drops: Markets Wrap]."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "CMG",
+        "company": "Chipotle Mexican Grill, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Restaurants",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$62.50",
+        "pct": "+8.90%",
+        "action": "Cleared its primary horizontal base pivot trigger on heavy institutional volume tracking 2.4x above average, supercharged by an exceptional earnings beat and expanding digital transactional margins [Markets News, Oct. 29, 2026: Nasdaq Leads Indexes Lower ...]."
+      },
+      {
+        "rank": 2,
+        "ticker": "LLY",
+        "company": "Eli Lilly and Company",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers—General",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$918.40",
+        "pct": "+6.12%",
+        "action": "Vaulted past its chart ceiling on massive block accumulation volume following stellar clinical pipeline optimization updates and robust weight-loss asset demand [Stock Market Today (Oct. 29, 2026): S&P 500 falls after ..., Markets News, Oct. 29, 2026: Nasdaq Leads Indexes Lower ...]."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "DASH",
+        "company": "DoorDash, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Internet Content & Information",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$152.40",
+        "pct": "+5.60%",
+        "action": "Decoupled completely from broader internet content drag to execute a massive pivot clear on heavy volume, fueled by a definitive $17 billion all-stock acquisition agreement for delivery rival Instacart [Markets News, Oct. 29, 2026: Nasdaq Leads Indexes Lower ...]."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "NTRA",
+        "company": "Natera, Inc.",
+        "sector": "Healthcare",
+        "industry": "Diagnostics & Research",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 2",
+        "pivot_price": "$129.99",
+        "distance_to_pivot": "0.01%",
+        "telemetry": "The molecular diagnostics innovator fiercely preserved its elite relative strength posture during the technology rout, tightening further within its handle structure to close at $129.99. Institutional supply pools remain deeply restricted by top-tier funds, anchoring the pattern a razor-thin 0.01% below its core macro pivot buy point zone as transaction volume dried up perfectly."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-28T20:00:00+00:00",
     "header": "Wednesday, October 28, 2026's Report",
     "headline": "U.S. stock benchmarks finish marginally higher in a tightly contained session as the Federal Reserve votes to hold interest rates flat, calming near-term macro duration fears ahead of a crucial big tech earnings slate [Markets News, Oct. 28, 2026: Stocks Close Higher, Treasury ..., Stock market today: Dow, S&P 500, Nasdaq climb as Fed ...]. The central bank's widely expected decision to maintain its policy benchmark provided immediate relief to debt-reliant growth vectors [Markets News, Oct. 28, 2026: Stocks Close Higher, Treasury ..., Oct 28 Could Be A Huge Day For The Stock Market]. Fixed-income benchmarks experienced localized initial swings before settling back down, keeping the benchmark 10-year U.S. Treasury yield flat at 5.02% as traders balanced two hawkish FOMC dissenting votes against a constructive reprieve from further policy tightening [Markets News, Oct. 28, 2026: Stocks Close Higher, Treasury ...]. Concurrently, global energy pressures stabilized near recent highs, leaving front-month international Brent crude futures to settle near $113.80 a barrel as computerized capital loops paused active inventory hoarding ahead of late-week macroeconomic storage prints.",
