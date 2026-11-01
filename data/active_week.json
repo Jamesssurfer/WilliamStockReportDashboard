@@ -1,5 +1,82 @@
 [
   {
+    "timestamp": "2026-10-30T20:00:00+00:00",
+    "header": "Friday, October 30, 2026's Report",
+    "headline": "Disappointing earnings from tech giants trigger a brutal stock market meltdown to cap October, clobbering the Nasdaq Composite with its worst single-day drubbing since June [Stock market today: Nasdaq, Dow, S&P 500 clobbered as ..., Markets News, Oct. 30, 2026: Tech Sell]. Enormous expenditures on artificial intelligence infrastructure paired with a worrying decline in corporate free cash flow data spooked top-tier institutional funds [Stock market today: Nasdaq, Dow, S&P 500 clobbered as ..., Markets News, Oct. 30, 2026: Tech Sell]. Fixed-income desks recorded an orderly session as the benchmark 10-year U.S. Treasury yield held unchanged to close at 4.93% as money managers sought safety anchors [Markets News, Oct. 30, 2026: Tech Sell]. Concurrently, global energy matrices experienced sharp upward pressure, lifting West Texas Intermediate and international Brent crude oil futures up 2.4% past $104.00 a barrel on heightened cross-border supply chain risks [Markets News, Oct. 30, 2026: Tech Sell].",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,580.07",
+        "change": "-140.32 pts",
+        "pct": "-1.82%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 11 Distribution Days). The benchmark average was fundamentally clobbered on a massive expansion of aggregate exchange volume, slicing through multi-week structural floors [Stock market today: Nasdaq, Dow, S&P 500 clobbered as ..., Markets News, Oct. 30, 2026: Tech Sell]."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "25,437.00",
+        "change": "-747.73 pts",
+        "pct": "-2.86%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 11 Distribution Days). High-beta artificial intelligence stacks and semiconductor clusters faced intense, systematic algorithmic liquidation, plunging the index to its worst performance since June 5 [Stock market today: Nasdaq, Dow, S&P 500 clobbered as ...]."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "19,702.15",
+        "change": "-223.25 pts",
+        "pct": "-1.12%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 8 Distribution Days). Traditional blue-chip blocks, financials, and multi-national industrial lines buckled down the stretch under the weight of broad programmatic cross-asset cash raising."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$207.22",
+        "change": "-2.63 pts",
+        "pct": "-1.25%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 8 Distribution Days). Broad market insulation finally fractured on high transactional velocity, with NYSE declining listings aggressively outpacing advancing counters by a wide 3.4-to-1 ratio."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$111.45",
+        "change": "-2.70 pts",
+        "pct": "-2.36%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 11 Distribution Days). CRITICAL SIGNAL BREACH: The mid-tier growth proxy registered its eleventh active distribution day on immense institutional block liquidation volume, locking the engine into an unconditional defensive lockdown."
+      }
+    ],
+    "sector_led_breakouts": [],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "CHD",
+        "company": "Church & Dwight Co., Inc.",
+        "sector": "Consumer Defensive",
+        "industry": "Household & Personal Products",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$104.20",
+        "pct": "+4.85%",
+        "action": "Forcefully uncoupled from broad index liquidations to clear its multi-week ceiling on high institutional volume pacing 2x above its 50-day baseline, capturing aggressive safety-first capital rotation."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "NTRA",
+        "company": "Natera, Inc.",
+        "sector": "Healthcare",
+        "industry": "Diagnostics & Research",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 2",
+        "pivot_price": "$129.50",
+        "distance_to_pivot": "0.38%",
+        "telemetry": "The molecular diagnostics innovator fiercely preserved its elite relative strength posture ahead of the weekend, absorbing minor index drag to drop fractionally to $129.50. Institutional supply pools remain deeply restricted by top-tier funds, anchoring the pattern a razor-thin 0.38% below its core macro pivot buy point zone as transaction volume dried up perfectly."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-29T20:00:00+00:00",
     "header": "Thursday, October 29, 2026's Report",
     "headline": "A historic double-digit collapse in Alphabet shares following a core revenue miss sparks a sharp tech-centric liquidation wave, completely overshadowing a massive broadening of breadth across the rest of the market [Stock Market Today (Oct. 29, 2026): S&P 500 falls after ..., Stock Market News, Oct. 29, 2026: AI Jitters Spread as Intel ...]. The Google parent's record-setting slide reignited intense institutional anxieties surrounding massive AI capital expenditure margins, triggering sharp mechanical de-risking inside high-multiple cloud software corridors despite blowout Azure metrics from Microsoft [Stock Market Today (Oct. 29, 2026): S&P 500 falls after ..., Stock Market News From Oct. 29, 2026: Alphabet's ... - Barron's]. Fixed-income benchmarks experienced subtle relief as fresh core PCE inflation data matched cooling estimates, pulling the benchmark 10-year U.S. Treasury yield down to settle near 4.95% [Markets News, Oct. 29, 2026: Nasdaq Leads Indexes Lower ...]. Concurrently, global energy matrices remained anchored near multi-month highs, leaving front-month international Brent crude oil futures flat near $114.00 a barrel as underlying geopolitical tensions balanced out higher production figures [Stock Market Today (Oct. 29, 2026): S&P 500 falls after ...].",
