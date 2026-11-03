@@ -1,5 +1,82 @@
 [
   {
+    "timestamp": "2026-11-02T20:00:00+00:00",
+    "header": "Monday, November 2, 2026's Report",
+    "headline": "A highly anticipated slide in global oil prices sparks a strong morning short-covering boost, but a stubborn afternoon technology liquidation wave quickly forces cap-weighted indices back into negative territory. The initial market optimism got a major shot of adrenaline after executive diplomatic comments hinted at peaceful resolutions to Middle East tensions, sending energy benchmarks plunging to break structural supply floors. Fixed-income desks capitalized cleanly on the easing inflation expectations, pulling the benchmark 10-year U.S. Treasury yield down to settle lower at 4.91%—marking its lowest structural level since mid-September. Concurrently, global energy pressures completely reversed their October hoard footprints, leaving front-month international Brent crude oil futures down 7.6% to slide back under $96.00 a barrel as computerized capital grids unwound massive geopolitical risk premiums down the stretch. (https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-02-2026), (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11022026-12206945), (https://tradingeconomics.com/united-states/government-bond-yield).",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,541.40",
+        "change": "-38.67 pts",
+        "pct": "-0.51%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 12 Distribution Days). The benchmark index failed to lock in its midday rally, falling on a notable expansion of daily institutional exchange volume as a massive 2.7% drop in the underlying tech sector forced systematic cash raising. (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11022026-12206945), (https://x.com/marketsday/status/2117458018317246684)."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "25,164.32",
+        "change": "-272.68 pts",
+        "pct": "-1.07%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 12 Distribution Days). High-multiple artificial intelligence architectures and semiconductor nodes faced their third consecutive session of algorithmic liquidation on high volume ahead of high-stakes corporate prints. (https://x.com/marketsday/status/2117458018317246684), (https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-02-2026), (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11022026-12206945)."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "19,812.10",
+        "change": "+109.95 pts",
+        "pct": "+0.56%",
+        "distribution_days": 8,
+        "action": "Holds at 8 Distribution Days (Total: 8 Distribution Days). The traditional board demonstrated clear divergent insulation, grinding higher on flat volume metrics as capital rotated into newly unburdened transportation and industrial lines. (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11022026-12206945)."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$207.12",
+        "change": "-0.10 pts",
+        "pct": "-0.05%",
+        "distribution_days": 8,
+        "action": "Holds at 8 Distribution Days (Total: 8 Distribution Days). Stripped of large cap-weighted tech weights, equal-weighted structures finished virtually flat as broad non-tech market participation cushioned the blow, matching a near neutral footprint."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$110.15",
+        "change": "-1.30 pts",
+        "pct": "-1.17%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 12 Distribution Days). Automated cash-raising loops hit mid-tier software and infrastructure matrices aggressively on high transactional velocity, cementing the maximum protective shutdown."
+      }
+    ],
+    "sector_led_breakouts": [],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "EXPD",
+        "company": "Expeditors International of Washington",
+        "sector": "Industrials",
+        "industry": "Integrated Freight Logistics",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$124.50",
+        "pct": "+5.80%",
+        "action": "Completely uncoupled from index drag to execute a major base breakout on high institutional volume pacing 1.9x above average, strongly accelerated by the massive 8% plunge in fuel commodity overhead boundaries. (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11022026-12206945)."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "NTRA",
+        "company": "Natera, Inc.",
+        "sector": "Healthcare",
+        "industry": "Diagnostics & Research",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 2",
+        "pivot_price": "$378.92",
+        "distance_to_pivot": "",
+        "telemetry": "🚨 CRITICAL FILTER BREACH ALERT. The molecular diagnostics innovator suffered a severe, high-volume tracking breakdown to slide down 8.54% and close at $378.92 as institutional desks aggressively cleared health sector beta. The vertical drop has completely fractured the pattern's structural support bounds, pushing it deep past the 5% filter limits and forcing its immediate extraction from the scanner database tracking array. (https://www.globalbankingandfinance.com/natera-ntra-falls-2026-11-02/)."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-30T20:00:00+00:00",
     "header": "Friday, October 30, 2026's Report",
     "headline": "Disappointing earnings from tech giants trigger a brutal stock market meltdown to cap October, clobbering the Nasdaq Composite with its worst single-day drubbing since June [Stock market today: Nasdaq, Dow, S&P 500 clobbered as ..., Markets News, Oct. 30, 2026: Tech Sell]. Enormous expenditures on artificial intelligence infrastructure paired with a worrying decline in corporate free cash flow data spooked top-tier institutional funds [Stock market today: Nasdaq, Dow, S&P 500 clobbered as ..., Markets News, Oct. 30, 2026: Tech Sell]. Fixed-income desks recorded an orderly session as the benchmark 10-year U.S. Treasury yield held unchanged to close at 4.93% as money managers sought safety anchors [Markets News, Oct. 30, 2026: Tech Sell]. Concurrently, global energy matrices experienced sharp upward pressure, lifting West Texas Intermediate and international Brent crude oil futures up 2.4% past $104.00 a barrel on heightened cross-border supply chain risks [Markets News, Oct. 30, 2026: Tech Sell].",
