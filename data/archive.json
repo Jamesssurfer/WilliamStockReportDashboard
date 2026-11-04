@@ -1,6 +1,108 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-28T20:00:00+00:00",
+      "header": "Wednesday, October 28, 2026's Report",
+      "headline": "U.S. stock benchmarks finish marginally higher in a tightly contained session as the Federal Reserve votes to hold interest rates flat, calming near-term macro duration fears ahead of a crucial big tech earnings slate [Markets News, Oct. 28, 2026: Stocks Close Higher, Treasury ..., Stock market today: Dow, S&P 500, Nasdaq climb as Fed ...]. The central bank's widely expected decision to maintain its policy benchmark provided immediate relief to debt-reliant growth vectors [Markets News, Oct. 28, 2026: Stocks Close Higher, Treasury ..., Oct 28 Could Be A Huge Day For The Stock Market]. Fixed-income benchmarks experienced localized initial swings before settling back down, keeping the benchmark 10-year U.S. Treasury yield flat at 5.02% as traders balanced two hawkish FOMC dissenting votes against a constructive reprieve from further policy tightening [Markets News, Oct. 28, 2026: Stocks Close Higher, Treasury ...]. Concurrently, global energy pressures stabilized near recent highs, leaving front-month international Brent crude futures to settle near $113.80 a barrel as computerized capital loops paused active inventory hoarding ahead of late-week macroeconomic storage prints.",
+      "market_status": "",
+      "indexes": [
+        {
+          "name": "S&P 500 Index (.INX)",
+          "value": "7,743.98",
+          "change": "+21.38 pts",
+          "pct": "+0.28%",
+          "distribution_days": 9,
+          "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). The index ground out minor gains post-FOMC, but aggregate exchange volume remained below its 20-day institutional baseline, locking the current count [Markets News, Oct. 28, 2026: Stocks Close Higher, Treasury ...]."
+        },
+        {
+          "name": "Nasdaq Composite (.IXIC)",
+          "value": "26,549.85",
+          "change": "+72.04 pts",
+          "pct": "+0.27%",
+          "distribution_days": 9,
+          "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). Technology grids caught an early morning chip sector tailwind from overseas earnings, but thin programmatic follow-through into the closing bell kept the absolute count bound to maximum levels [Wall Street ends higher as Fed holds key rate steady ...]."
+        },
+        {
+          "name": "NYSE Composite (.NYA)",
+          "value": "19,985.40",
+          "change": "+26.60 pts",
+          "pct": "+0.13%",
+          "distribution_days": 7,
+          "action": "Holds at 7 Distribution Days (Total: 7 Distribution Days). Broad cyclical layers and defensive utilities finished mixed to slightly positive on flat volume parameters, trailing the tech-cap benchmarks."
+        },
+        {
+          "name": "Invesco S&P 500 Equal Weight (RSP)",
+          "value": "$209.85",
+          "change": "+0.23 pts",
+          "pct": "+0.11%",
+          "distribution_days": 7,
+          "action": "Holds at 7 Distribution Days (Total: 7 Distribution Days). Market breadth underperformed the main cap-weighted indices, recording a highly flat 1.1-to-1 positive advancing ratio across the New York board [Markets News, Oct. 28, 2026: Stocks Close Higher, Treasury ...]."
+        },
+        {
+          "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+          "value": "$115.35",
+          "change": "+0.25 pts",
+          "pct": "+0.22%",
+          "distribution_days": 9,
+          "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). Programmatic algorithms paused mechanical de-risking inside secondary growth nodes, keeping the matrix securely inside defensive tracking rules."
+        }
+      ],
+      "sector_led_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "ORCL",
+          "company": "Oracle Corporation",
+          "sector": "Technology",
+          "industry": "Software—Application",
+          "base_pattern": "",
+          "base_stage": "",
+          "price": "$143.50",
+          "pct": "+11.00%",
+          "action": "Exploded past its horizontal chart pivot buy point on massive institutional volume tracking 3.5x above normal, supercharged by an optimistic investor day outlook detailing peaking AI infrastructure spend and robust long-term free cash flow targets [Markets News, Oct. 28, 2026: Stocks Close Higher, Treasury ...]."
+        },
+        {
+          "rank": 2,
+          "ticker": "MU",
+          "company": "Micron Technology, Inc.",
+          "sector": "Technology",
+          "industry": "Semiconductors",
+          "base_pattern": "",
+          "base_stage": "",
+          "price": "$108.40",
+          "pct": "+4.85%",
+          "action": "Cleared its primary base pivot buy trigger zone on heavy institutional volume expansion pacing 1.9x above average, fueled by blockbuster earnings and a sevenfold profit jump from global memory hardware peers [Wall Street ends higher as Fed holds key rate steady ...]."
+        }
+      ],
+      "divergent_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "AEM",
+          "company": "Agnico Eagle Mines Limited",
+          "sector": "Basic Materials",
+          "industry": "Gold",
+          "base_pattern": "",
+          "base_stage": "",
+          "price": "$88.65",
+          "pct": "+3.90%",
+          "action": "Decoupled completely from flat macro commodity indices to blast past its handle ceiling on high volume, capturing steady institutional safe-haven capital streams."
+        }
+      ],
+      "pre_breakout_watchlist": [
+        {
+          "rank": 1,
+          "ticker": "NTRA",
+          "company": "Natera, Inc.",
+          "sector": "Healthcare",
+          "industry": "Diagnostics & Research",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 2",
+          "pivot_price": "$129.98",
+          "distance_to_pivot": "0.02%",
+          "telemetry": "The molecular diagnostics innovator fiercely preserved its elite relative strength posture ahead of the big tech earnings tape, closing unchanged at $129.98. Institutional supply pools remain deeply restricted by top-tier funds, anchoring the pattern a razor-thin 0.02% below its core macro pivot buy point zone as transaction volume dried up perfectly."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-27T20:00:00+00:00",
       "header": "Tuesday, October 27, 2026's Report",
       "headline": "A powerful tech-led rally extends Wall Street's upward momentum as a sharp resurgence in semiconductor clusters pushes the Nasdaq Composite to its best daily performance in nearly a month. Institutional buyers aggressively expanded risk profiles ahead of highly anticipated mega-cap tech earnings from Microsoft and Alphabet alongside the Federal Reserve's looming monetary policy decision. Fixed-income desks experienced stable matching conditions, leaving the benchmark 10-year U.S. Treasury yield hovering slightly higher to settle near 5.02% as macroeconomic traders braced for the central bank's upcoming guidance. Concurrently, global energy pressures saw a welcome reprieve as front-month international Brent crude futures fell below $114.00 a barrel, tracking a prominent slowdown in near-term supply concerns as optimism over potential Middle East diplomatic channels emerged. (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10272026-12196175), (https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-mixed-tech-stocks-fall-after-rebound), (https://www.theedgesingapore.com/news/us-stocks/tech-stocks-power-wall-street-gains-oil-falls), (https://wtop.com/national/2026/10/asian-shares-slip-as-sharp-drops-for-ai-stocks-overwhelm-markets-worldwide-and-oil-prices-jump/), (https://mecktimes.com/news/2026/10/27/stocks-rise-as-oil-slips-with-tech-earnings-fed-ahead/).",
@@ -345,7 +447,9 @@
           "telemetry": "The molecular diagnostics innovator displayed elite structural insulation against broad-market liquidation loops, closing tightly at $128.50. Supply pools remain exceptionally restricted by top-tier funds, anchoring the pattern a precise 1.15% below its core macro pivot buy point zone with highly constructive volume drying up. (https://www.investors.com/)."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-21T20:00:00+00:00",
       "header": "Wednesday, October 21, 2026's Report",
@@ -435,9 +539,7 @@
           "telemetry": "The consumer hardware leader caught strong institutional block support during the tech rotation, grinding higher to form a tight weekly close near short-term moving averages. Supply mechanics remain exceptionally constrained as top-tier desks keep the configuration anchored 2.15% below its core macro pivot buy zone, maintaining elite relative strength parameters."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-20T20:00:00+00:00",
       "header": "Tuesday, October 20, 2026's Report",
@@ -1348,7 +1450,9 @@
           "telemetry": "⚠️ WATCHLIST PROXIMITY EXPANSION. The long-standing relative strength anchor felt the weight of broad-market de-risking, sliding -1.92% to close at $448.91 as programmatic baskets dragged defense lines. The drop has widened its absolute proximity to 2.25% below its core $380.00 buy trigger, but the structural floor of the primary macro base remains securely defended by tier-1 desks."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-05T20:00:00+00:00",
       "header": "Monday, October 5, 2026's Report",
@@ -1450,9 +1554,7 @@
           "telemetry": "Maintained elite structural insulation during the tech rotation, grinding fractionally higher to close at $454.12. Supply mechanics remain exceptionally tight as tier-1 desks refuse to release block structures, pinning price action a razor-thin 0.95% below its core $380.00 base pivot buy trigger zone."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-02T20:00:00+00:00",
       "header": "Friday, October 2, 2026's Report",
