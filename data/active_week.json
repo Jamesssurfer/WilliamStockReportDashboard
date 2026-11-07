@@ -1,5 +1,94 @@
 [
   {
+    "timestamp": "2026-11-06T20:00:00+00:00",
+    "header": "Friday, November 6, 2026's Report",
+    "headline": "A sharp, high-volume programmatic short-covering bounce in the beaten-down semiconductor complex sparks a relief rally, helping the tech-heavy Nasdaq Composite and S&P 500 claw back minor ground from Thursday's catastrophic AI tech wreck [Markets News, Nov. 6, 2026: Nasdaq, S&P 500 Rise as Chip ..., Stock market today: Nasdaq and S&P 500 rebound, Dow slips ...]. Institutional desks stepped in to absorb heavily discounted chipmaker positions following the multi-trillion-dollar legislative panic, though the blue-chip Dow ended in the red due to lingering cyclical and industrial de-risking [Markets News, Nov. 6, 2026: Nasdaq, S&P 500 Rise as Chip ..., Stock market today: Nasdaq and S&P 500 rebound, Dow slips ...]. Fixed-income desks recorded notable volatility as a hotter-than-expected October jobs report expanded near-term rate concerns, sending the benchmark 10-year U.S. Treasury yield jumping as high as 4.90% intraday before settling near 4.86% [US 10 Year Treasury Note Yield - Quote - Chart - Historical Data]. Concurrently, global energy matrices registered high-volume consolidation, leaving front-month international Brent crude oil futures flat near $98.32 a barrel as traders balanced persistent Middle East naval blockade friction against record weekly capital outflows [Brent oil - Price - Chart - Historical Data - Trading Economics].",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,375.80",
+        "change": "+22.07 pts",
+        "pct": "+0.30%",
+        "distribution_days": 13,
+        "action": "Holds at 13 Distribution Days (Total: 13 Distribution Days). The index managed a fractional closing gain, but total transactional exchange volume thinned out significantly relative to Thursday's massive institutional liquidation spike, locking the current count [Markets News, Nov. 6, 2026: Nasdaq, S&P 500 Rise as Chip ...]."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "25,460.13",
+        "change": "+277.01 pts",
+        "pct": "+1.10%",
+        "distribution_days": 13,
+        "action": "Holds at 13 Distribution Days (Total: 13 Distribution Days). Technology allocation models directed programmatic buy programs into hammered semi-nodes [Markets News, Nov. 6, 2026: Nasdaq, S&P 500 Rise as Chip ...], but the index remains locked in correction territory with a maximum distribution count following a 3.4% weekly drop [Markets News, Nov. 6, 2026: Nasdaq, S&P 500 Rise as Chip ..., Stock Market Today (Nov. 6, 2026): S&P 500 edges higher ...]."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "19,578.40",
+        "change": "-98.70 pts",
+        "pct": "-0.50%",
+        "distribution_days": 9,
+        "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). The traditional board underperformed cleanly, weighed down by localized block distributions across legacy industrial and manufacturing proxies that completely bypassed the tech sector bounce [Markets News, Nov. 6, 2026: Nasdaq, S&P 500 Rise as Chip ...]."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$204.62",
+        "change": "-0.63 pts",
+        "pct": "-0.31%",
+        "distribution_days": 9,
+        "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). Stripped of cap-weighted cushions, broad participation remained negative with NYSE declining issues outpacing advancing listings by a clear 1.8-to-1 ratio under the hood."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$108.31",
+        "change": "+0.80 pts",
+        "pct": "+0.74%",
+        "distribution_days": 13,
+        "action": "Holds at 13 Distribution Days (Total: 13 Distribution Days). Automated computer networks paused heavy distribution inside secondary growth slots to cover short exposure, though maximum system boundaries remain strictly locked."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "NET",
+        "company": "Cloudflare, Inc.",
+        "sector": "Technology",
+        "industry": "Software—Infrastructure",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$94.50",
+        "pct": "+10.00%",
+        "action": "Defied the broad weekly growth contraction to blast past its primary horizontal chart ceiling on massive institutional volume pacing 2.8x above average, supercharged by a blockbuster quarterly financial print [Markets News, Nov. 6, 2026: Nasdaq, S&P 500 Rise as Chip ...]."
+      },
+      {
+        "rank": 2,
+        "ticker": "ABNB",
+        "company": "Airbnb, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Travel Services",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 2",
+        "price": "$141.20",
+        "pct": "+12.00%",
+        "action": "Vaulted cleanly past its multi-week structural resistance pivot on exceptional block accumulation volume, driven by raised full-year travel demand and margin optimization guidance [Markets News, Nov. 6, 2026: Nasdaq, S&P 500 Rise as Chip ...]."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "AMD",
+        "company": "Advanced Micro Devices, Inc.",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$171.62",
+        "pct": "+11.00%",
+        "action": "Demonstrated extraordinary relative strength to extend its post-election breakout posture on massive institutional volume, leading the chip sector's structural short-covering offensive [Stock market today: Nasdaq and S&P 500 rebound, Dow slips ..., Markets News, Nov. 6, 2026: Nasdaq, S&P 500 Rise as Chip ...]."
+      }
+    ],
+    "pre_breakout_watchlist": []
+  },
+  {
     "timestamp": "2026-11-05T20:00:00+00:00",
     "header": "Thursday, November 5, 2026's Report",
     "headline": "A devastating AI-driven technology wreck hammers Wall Street, dragging the Nasdaq Composite into an official technical correction and wiping out a historic single-day record of $2.5 trillion in market cap [Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5% - WSJ]. Systematic institutional de-risking reached true panic proportions as final legislative sweeps sparked widespread market fears over rigorous data center environmental restrictions and a complete winding down of artificial intelligence capital expenditure trades [Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5% - WSJ, Nasdaq tumbles into correction territory on AI tech wreck - CNBC]. The equity liquidation sequence triggered an explosive flight-to-safety coupon grab on fixed-income desks, dragging the benchmark 10-year U.S. Treasury yield down to a two-month low of 4.82%. Concurrently, global energy matrices registered sharp downside moves as front-month international Brent crude oil futures plunged nearly 6% to settle at $98.29 a barrel following unravelling macro inflation bets down the stretch [Current price of oil as of November 5, 2026 - Fortune].",
