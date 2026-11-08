@@ -1270,7 +1270,9 @@
           "telemetry": "The relative strength pioneer rebounded effectively off its short-term moving averages to close at $442.20. Supply pools remain exceptionally tight as defensive institutional buyers keep price action anchored 4.20% below its primary $380.00 base pivot zone, holding its critical position within our strict 5% scan gate filter."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-09T20:00:00+00:00",
       "header": "Friday, October 9, 2026's Report",
@@ -1372,9 +1374,7 @@
           "telemetry": "⚠️ WATCHLIST PROXIMITY BOUNDARY EXPANSION. The aerospace relative strength anchor stabilized marginally to close at $440.15. While institutional defense layers remain active at major moving averages, the absolute distance stands at 4.65% below its primary $380.00 base pivot buy zone, hanging by a thread within our strict 5% scan gate limit."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-08T20:00:00+00:00",
       "header": "Thursday, October 8, 2026's Report",
