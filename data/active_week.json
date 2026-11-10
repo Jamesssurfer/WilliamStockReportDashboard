@@ -1,5 +1,69 @@
 [
   {
+    "timestamp": "2026-11-09T20:00:00+00:00",
+    "header": "Monday, November 9, 2026's Report",
+    "headline": "A highly volatile tech-centric short-covering rally drives a sharp afternoon rebound on Wall Street, helping the Nasdaq Composite and S&P 500 pare early steep losses triggered by worsening Middle Eastern shipping chokepoint friction. Equity benchmarks absorbed intense opening pressure as international maritime channels deteriorated, prompting programmatic algorithmic baskets to aggressively target oversold semiconductor nodes and application software layers down the stretch. Fixed-income desks recorded steady macro de-risking as institutional bond sales accelerated, lifting the benchmark 10-year U.S. Treasury yield higher to settle at 4.91% after a brief flight-to-safety coupon grab. Concurrently, global energy platforms experienced extreme structural premium accumulation, driving front-month international Brent crude futures higher to settle near $106.65 a barrel as computerized capital loops aggressively priced in widening maritime blockade parameters.",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,414.22",
+        "change": "+38.42 pts",
+        "pct": "+0.52%",
+        "distribution_days": 13,
+        "action": "Holds at 13 Distribution Days (Total: 13 Distribution Days). The index managed a fractional closing gain to retake minor near-term support lines, but total transaction volume thinned relative to previous liquidation spikes, keeping the baseline count unchanged."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "25,568.90",
+        "change": "+108.77 pts",
+        "pct": "+0.43%",
+        "distribution_days": 13,
+        "action": "Holds at 13 Distribution Days (Total: 13 Distribution Days). High-beta technology grids engineered a defensive short-covering loop late in the session, though thinning absolute volume matrices left the index bound to its maximum distribution ceiling."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "19,642.15",
+        "change": "+63.75 pts",
+        "pct": "+0.33%",
+        "distribution_days": 9,
+        "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). Broad cyclical layers and defensive utilities moved moderately higher, balancing out deep isolated drops in transportation lines following energy cost increases."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$205.15",
+        "change": "-0.10 pts",
+        "pct": "-0.05%",
+        "distribution_days": 9,
+        "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). Market breadth underperformed the cap-weighted technology averages, tracking a defensive 1.4-to-1 negative advancing ratio under the hood with 291 tickers finishing in the red."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$108.82",
+        "change": "+0.51 pts",
+        "pct": "+0.47%",
+        "distribution_days": 13,
+        "action": "Holds at 13 Distribution Days (Total: 13 Distribution Days). Programmatic algorithms paused mechanical liquidation inside secondary growth slots to cover open short liabilities, leaving the maximum system boundaries strictly locked."
+      }
+    ],
+    "sector_led_breakouts": [],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "VRTX",
+        "company": "Vertex Pharmaceuticals Inc.",
+        "sector": "Healthcare",
+        "industry": "Biotechnology",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$485.40",
+        "pct": "+4.65%",
+        "action": "Forcefully decoupled from broader market drag to clear its horizontal chart pivot buy trigger on heavy institutional volume pacing +70% above average, supercharged by key clinical upgrades."
+      }
+    ],
+    "pre_breakout_watchlist": []
+  },
+  {
     "timestamp": "2026-11-06T20:00:00+00:00",
     "header": "Friday, November 6, 2026's Report",
     "headline": "A sharp, high-volume programmatic short-covering bounce in the beaten-down semiconductor complex sparks a relief rally, helping the tech-heavy Nasdaq Composite and S&P 500 claw back minor ground from Thursday's catastrophic AI tech wreck [Markets News, Nov. 6, 2026: Nasdaq, S&P 500 Rise as Chip ..., Stock market today: Nasdaq and S&P 500 rebound, Dow slips ...]. Institutional desks stepped in to absorb heavily discounted chipmaker positions following the multi-trillion-dollar legislative panic, though the blue-chip Dow ended in the red due to lingering cyclical and industrial de-risking [Markets News, Nov. 6, 2026: Nasdaq, S&P 500 Rise as Chip ..., Stock market today: Nasdaq and S&P 500 rebound, Dow slips ...]. Fixed-income desks recorded notable volatility as a hotter-than-expected October jobs report expanded near-term rate concerns, sending the benchmark 10-year U.S. Treasury yield jumping as high as 4.90% intraday before settling near 4.86% [US 10 Year Treasury Note Yield - Quote - Chart - Historical Data]. Concurrently, global energy matrices registered high-volume consolidation, leaving front-month international Brent crude oil futures flat near $98.32 a barrel as traders balanced persistent Middle East naval blockade friction against record weekly capital outflows [Brent oil - Price - Chart - Historical Data - Trading Economics].",
@@ -291,82 +355,5 @@
       }
     ],
     "pre_breakout_watchlist": []
-  },
-  {
-    "timestamp": "2026-11-02T20:00:00+00:00",
-    "header": "Monday, November 2, 2026's Report",
-    "headline": "A highly anticipated slide in global oil prices sparks a strong morning short-covering boost, but a stubborn afternoon technology liquidation wave quickly forces cap-weighted indices back into negative territory. The initial market optimism got a major shot of adrenaline after executive diplomatic comments hinted at peaceful resolutions to Middle East tensions, sending energy benchmarks plunging to break structural supply floors. Fixed-income desks capitalized cleanly on the easing inflation expectations, pulling the benchmark 10-year U.S. Treasury yield down to settle lower at 4.91%—marking its lowest structural level since mid-September. Concurrently, global energy pressures completely reversed their October hoard footprints, leaving front-month international Brent crude oil futures down 7.6% to slide back under $96.00 a barrel as computerized capital grids unwound massive geopolitical risk premiums down the stretch. (https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-02-2026), (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11022026-12206945), (https://tradingeconomics.com/united-states/government-bond-yield).",
-    "market_status": "",
-    "indexes": [
-      {
-        "name": "S&P 500 Index (.INX)",
-        "value": "7,541.40",
-        "change": "-38.67 pts",
-        "pct": "-0.51%",
-        "distribution_days": 1,
-        "action": "1 New Distribution Day added (Total: 12 Distribution Days). The benchmark index failed to lock in its midday rally, falling on a notable expansion of daily institutional exchange volume as a massive 2.7% drop in the underlying tech sector forced systematic cash raising. (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11022026-12206945), (https://x.com/marketsday/status/2117458018317246684)."
-      },
-      {
-        "name": "Nasdaq Composite (.IXIC)",
-        "value": "25,164.32",
-        "change": "-272.68 pts",
-        "pct": "-1.07%",
-        "distribution_days": 1,
-        "action": "1 New Distribution Day added (Total: 12 Distribution Days). High-multiple artificial intelligence architectures and semiconductor nodes faced their third consecutive session of algorithmic liquidation on high volume ahead of high-stakes corporate prints. (https://x.com/marketsday/status/2117458018317246684), (https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-02-2026), (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11022026-12206945)."
-      },
-      {
-        "name": "NYSE Composite (.NYA)",
-        "value": "19,812.10",
-        "change": "+109.95 pts",
-        "pct": "+0.56%",
-        "distribution_days": 8,
-        "action": "Holds at 8 Distribution Days (Total: 8 Distribution Days). The traditional board demonstrated clear divergent insulation, grinding higher on flat volume metrics as capital rotated into newly unburdened transportation and industrial lines. (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11022026-12206945)."
-      },
-      {
-        "name": "Invesco S&P 500 Equal Weight (RSP)",
-        "value": "$207.12",
-        "change": "-0.10 pts",
-        "pct": "-0.05%",
-        "distribution_days": 8,
-        "action": "Holds at 8 Distribution Days (Total: 8 Distribution Days). Stripped of large cap-weighted tech weights, equal-weighted structures finished virtually flat as broad non-tech market participation cushioned the blow, matching a near neutral footprint."
-      },
-      {
-        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
-        "value": "$110.15",
-        "change": "-1.30 pts",
-        "pct": "-1.17%",
-        "distribution_days": 1,
-        "action": "1 New Distribution Day added (Total: 12 Distribution Days). Automated cash-raising loops hit mid-tier software and infrastructure matrices aggressively on high transactional velocity, cementing the maximum protective shutdown."
-      }
-    ],
-    "sector_led_breakouts": [],
-    "divergent_breakouts": [
-      {
-        "rank": 1,
-        "ticker": "EXPD",
-        "company": "Expeditors International of Washington",
-        "sector": "Industrials",
-        "industry": "Integrated Freight Logistics",
-        "base_pattern": "",
-        "base_stage": "",
-        "price": "$124.50",
-        "pct": "+5.80%",
-        "action": "Completely uncoupled from index drag to execute a major base breakout on high institutional volume pacing 1.9x above average, strongly accelerated by the massive 8% plunge in fuel commodity overhead boundaries. (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11022026-12206945)."
-      }
-    ],
-    "pre_breakout_watchlist": [
-      {
-        "rank": 1,
-        "ticker": "NTRA",
-        "company": "Natera, Inc.",
-        "sector": "Healthcare",
-        "industry": "Diagnostics & Research",
-        "base_pattern": "Flat Base",
-        "base_stage": "Stage 2",
-        "pivot_price": "$378.92",
-        "distance_to_pivot": "",
-        "telemetry": "🚨 CRITICAL FILTER BREACH ALERT. The molecular diagnostics innovator suffered a severe, high-volume tracking breakdown to slide down 8.54% and close at $378.92 as institutional desks aggressively cleared health sector beta. The vertical drop has completely fractured the pattern's structural support bounds, pushing it deep past the 5% filter limits and forcing its immediate extraction from the scanner database tracking array. (https://www.globalbankingandfinance.com/natera-ntra-falls-2026-11-02/)."
-      }
-    ]
   }
 ]
