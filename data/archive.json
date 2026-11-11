@@ -1,6 +1,95 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-04T20:00:00+00:00",
+      "header": "Wednesday, November 4, 2026's Report",
+      "headline": "A historic post-election relief rally sweeps across Wall Street as the Democratic party secures a decisive sweep of both chambers of Congress, triggering a massive 1,500+ point surge for the blue-chip Dow [Markets News, Nov. 4, 2026: Dow Jumps ..., Stock Market Today: Dow Jumps to Best Day in 18 Months, Oil ...]. Top-tier institutional funds executed aggressive capital deployment loops as the absolute removal of midterm election uncertainty combined with expectations of altered tariff policies sparked multi-asset accumulation cascades [Markets News, Nov. 4, 2026: Dow Jumps ..., Stock Market Today: Dow Jumps to Best Day in 18 Months, Oil ...]. Fixed-income desks recorded heavy safe-haven coupon bids that drove significant yield deceleration, pulling the benchmark 10-year U.S. Treasury yield down 7 basis points to settle near 4.90% as long-term inflation fears temporarily cooled [US 10 Year Treasury Note Yield - Quote - Trading Economics]. Concurrently, global energy matrices suffered a major structural breakdown, leaving front-month international Brent crude futures crashing over 8% to settle at $94.68 a barrel following optimized hopes of a diplomatic resolution to the Iran war [Markets News, Nov. 4, 2026: Dow Jumps ..., Stock Market Today: Dow Jumps to Best Day in 18 Months, Oil ..., Brent oil - Price - Chart - Historical Data].",
+      "market_status": "",
+      "indexes": [
+        {
+          "name": "S&P 500 Index (.INX)",
+          "value": "7,690.02",
+          "change": "+121.10 pts",
+          "pct": "+1.60%",
+          "distribution_days": 12,
+          "action": "Holds at 12 Distribution Days (Total: 12 Distribution Days). The index vaulted higher on an intense expansion of daily aggregate exchange volume tracking well above its 20-day institutional baseline average, marking day one of an attempted accumulation cycle."
+        },
+        {
+          "name": "Nasdaq Composite (.IXIC)",
+          "value": "27,030.12",
+          "change": "+658.11 pts",
+          "pct": "+1.40%",
+          "distribution_days": 12,
+          "action": "Holds at 12 Distribution Days (Total: 12 Distribution Days). Mega-cap tech allocation grids generated massive leadership to reverse the off-hours slide, though severe isolated liquidations across artificial intelligence hardware slots offset software inflows."
+        },
+        {
+          "name": "NYSE Composite (.NYA)",
+          "value": "20,369.73",
+          "change": "+593.29 pts",
+          "pct": "+3.00%",
+          "distribution_days": 8,
+          "action": "Holds at 8 Distribution Days (Total: 8 Distribution Days). The traditional board outperformed dramatically on massive institutional volume expansion, powered by an exceptional rotation into banking networks, industrials, and retail consumer giants."
+        },
+        {
+          "name": "Invesco S&P 500 Equal Weight (RSP)",
+          "value": "$212.85",
+          "change": "+6.01 pts",
+          "pct": "+2.91%",
+          "distribution_days": 8,
+          "action": "Holds at 8 Distribution Days (Total: 8 Distribution Days). Stripped of cap-weighted concentrations, equal-weight structures surged as market breadth turned overwhelmingly positive, tracking an elite 4.2-to-1 advancing ratio across the main board."
+        },
+        {
+          "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+          "value": "$112.95",
+          "change": "+2.13 pts",
+          "pct": "+1.92%",
+          "distribution_days": 12,
+          "action": "Holds at 12 Distribution Days (Total: 12 Distribution Days). Programmatic algorithms triggered immense short-covering loops inside mid-tier infrastructure nodes, keeping the matrix securely inside defensive tracking rules."
+        }
+      ],
+      "sector_led_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "MMM",
+          "company": "3M Company",
+          "sector": "Industrials",
+          "industry": "Conglomerates",
+          "base_pattern": "Cup-with-Handle",
+          "base_stage": "Stage 1",
+          "price": "$142.15",
+          "pct": "+9.25%",
+          "action": "Forcefully cleared a major horizontal chart pivot buy point on extraordinary institutional volume pacing 2.5x above average, supercharged by a blockbuster bottom-line earnings release [Markets News, Nov. 4, 2026: Dow Jumps ...]."
+        },
+        {
+          "rank": 2,
+          "ticker": "MCD",
+          "company": "McDonald's Corporation",
+          "sector": "Consumer Cyclical",
+          "industry": "Restaurants",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 2",
+          "price": "$312.40",
+          "pct": "+6.10%",
+          "action": "Vaulted past its chart ceiling on massive block accumulation volume tracking +140% above normal, driven by exceptional global same-store margin optimization data [Markets News, Nov. 4, 2026: Dow Jumps ...]."
+        }
+      ],
+      "divergent_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "AMD",
+          "company": "Advanced Micro Devices, Inc.",
+          "sector": "Technology",
+          "industry": "Semiconductors",
+          "base_pattern": "Double Bottom",
+          "base_stage": "Stage 1",
+          "price": "$154.62",
+          "pct": "+5.73%",
+          "action": "Completely uncoupled from severe liquidation trends dragging down neighboring AI chip giants to clear its primary chart pivot ceiling on massive institutional volume expansion [Stock Market Today (Nov. 4, 2026): Nasdaq climbs as ..., Markets News, Nov. 4, 2026: Dow Jumps ...]."
+        }
+      ],
+      "pre_breakout_watchlist": []
+    },
+    {
       "timestamp": "2026-11-03T20:00:00+00:00",
       "header": "Tuesday, November 3, 2026's Report",
       "headline": "The S&P 500 and Nasdaq snap a three-day skid on Election Day as a fierce rebound across the chip sector counters a steep Apple-led drag [Markets News, Nov. 3, 2026: S&P 500, Nasdaq Snap 3-Day ..., Stock market news for Nov. 3, 2026 - CNBC]. U.S. stock benchmarks logged a highly fragmented session as Americans headed to the polls for the midterm elections, prompting automated short-covering loops to chase deep discounts in the battered semiconductor complex ahead of critical corporate tech earnings [Stock market today: Dow slips, S&P and Nasdaq gain as chip ..., Stock market news for Nov. 3, 2026 - CNBC]. Fixed-income desks logged renewed macro volatility as systematic bond distributions expanded, pushing the benchmark 10-year U.S. Treasury yield higher to settle at 4.97% [Markets News, Nov. 3, 2026: S&P 500, Nasdaq Snap 3-Day ...]. Concurrently, energy supply parameters experienced relatively quiet matching conditions, leaving front-month international Brent crude futures flat near $96.00 a barrel as computerized capital grids paused active macro liquidation following Monday's massive 7.6% multi-month structural breakdown.",
@@ -319,7 +408,9 @@
           "telemetry": "The molecular diagnostics innovator fiercely preserved its elite relative strength posture during the technology rout, tightening further within its handle structure to close at $129.99. Institutional supply pools remain deeply restricted by top-tier funds, anchoring the pattern a razor-thin 0.01% below its core macro pivot buy point zone as transaction volume dried up perfectly."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-28T20:00:00+00:00",
       "header": "Wednesday, October 28, 2026's Report",
@@ -421,9 +512,7 @@
           "telemetry": "The molecular diagnostics innovator fiercely preserved its elite relative strength posture ahead of the big tech earnings tape, closing unchanged at $129.98. Institutional supply pools remain deeply restricted by top-tier funds, anchoring the pattern a razor-thin 0.02% below its core macro pivot buy point zone as transaction volume dried up perfectly."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-27T20:00:00+00:00",
       "header": "Tuesday, October 27, 2026's Report",
@@ -1321,7 +1410,9 @@
           "telemetry": "The absolute relative strength anchor defended its short-term moving average parameters cleanly during the macro pause, ticking up to close at $443.50. Institutional supply mechanics remain heavily locked down by top-tier desks, keeping price action a minor 3.90% below its primary $380.00 base pivot zone and firmly inside our strict 5% tracking gate."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-12T20:00:00+00:00",
       "header": "Monday, October 12, 2026's Report",
@@ -1411,9 +1502,7 @@
           "telemetry": "The relative strength pioneer rebounded effectively off its short-term moving averages to close at $442.20. Supply pools remain exceptionally tight as defensive institutional buyers keep price action anchored 4.20% below its primary $380.00 base pivot zone, holding its critical position within our strict 5% scan gate filter."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-09T20:00:00+00:00",
       "header": "Friday, October 9, 2026's Report",
