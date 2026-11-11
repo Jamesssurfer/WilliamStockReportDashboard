@@ -1,5 +1,94 @@
 [
   {
+    "timestamp": "2026-11-10T20:00:00+00:00",
+    "header": "Tuesday, November 10, 2026's Report",
+    "headline": "A blistering global trade de-risking rally erupts across Wall Street as Beijing officially extends its transpacific trade truce with Washington, sparking heavy programmatic institutional accumulation loops [China Extends U.S. Trade Truce]. The surprise two-month extension temporarily shelves a critical 24% additional tariff and maritime port fees until January 10, 2027, injecting massive near-term structural stabilization across global supply architectures ahead of the high-stakes APEC summit [China Extends U.S. Trade Truce]. Fixed-income desks recorded sharp safe-haven outflows as duration assets cooled, pushing the benchmark 10-year U.S. Treasury yield higher to settle at 4.96% [10-Year Treasury Yield Pushes to 4.96%]. Concurrently, global energy market premium hoarding stabilized slightly, leaving front-month international Brent crude futures marginally lower to settle near $104.00 a barrel as computerized capital grids paused near-term geopolitical inventory stacking.",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,458.12",
+        "change": "+43.90 pts",
+        "pct": "+0.59%",
+        "distribution_days": 13,
+        "action": "Holds at 13 Distribution Days (Total: 13 Distribution Days). The average strongly reclaimed its short-term moving average parameters, but aggregate exchange volume thinned marginally compared to the 20-day institutional baseline average, logging a low-volume technical bounce."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "25,732.60",
+        "change": "+163.70 pts",
+        "pct": "+0.64%",
+        "distribution_days": 13,
+        "action": "Holds at 13 Distribution Days (Total: 13 Distribution Days). Mega-cap tech allocation blocks engineered a mechanical short-covering loop off intermediate structural support bounds, though absolute volume matrices remained beneath peak accumulation filters."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "19,715.40",
+        "change": "+73.25 pts",
+        "pct": "+0.37%",
+        "distribution_days": 9,
+        "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). Broad cyclical layers, heavy industrial manufacturers, and transpacific logistics components ground out steady gains, finding reliable support off short-term moving average baselines."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$205.80",
+        "change": "+0.65 pts",
+        "pct": "+0.32%",
+        "distribution_days": 9,
+        "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). Underlying market breadth validated the constructive nature of the session, tracking a supportive 1.6-to-1 positive advancing ratio across the New York Stock Exchange."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$109.12",
+        "change": "+0.30 pts",
+        "pct": "+0.27%",
+        "distribution_days": 13,
+        "action": "Holds at 13 Distribution Days (Total: 13 Distribution Days). Programmatic algorithms paused mechanical liquidation inside secondary growth slots to cover open short liabilities, leaving the maximum system boundaries strictly locked."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "FDX",
+        "company": "FedEx Corporation",
+        "sector": "Industrials",
+        "industry": "Integrated Freight Logistics",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "price": "$282.40",
+        "pct": "+6.12%",
+        "action": "Forcefully cleared a major horizontal chart pivot buy point on extraordinary institutional volume pacing 2.4x above average, supercharged by the sudden transpacific tariff truce extension."
+      },
+      {
+        "rank": 2,
+        "ticker": "CAT",
+        "company": "Caterpillar Inc.",
+        "sector": "Industrials",
+        "industry": "Farm & Heavy Construction Machinery",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$384.15",
+        "pct": "+4.80%",
+        "action": "Vaulted past its chart ceiling on massive block accumulation volume tracking +110% above normal, driven by exceptional global procurement optimization expectations."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "NTES",
+        "company": "Netease, Inc.",
+        "sector": "Technology",
+        "industry": "Internet Content & Information",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 1",
+        "price": "$94.60",
+        "pct": "+7.15%",
+        "action": "Decoupled spectacularly from broader technology noise to blast past its primary chart pivot ceiling on massive institutional block volume pacing 3.1x above historical norms."
+      }
+    ],
+    "pre_breakout_watchlist": []
+  },
+  {
     "timestamp": "2026-11-09T20:00:00+00:00",
     "header": "Monday, November 9, 2026's Report",
     "headline": "A highly volatile tech-centric short-covering rally drives a sharp afternoon rebound on Wall Street, helping the Nasdaq Composite and S&P 500 pare early steep losses triggered by worsening Middle Eastern shipping chokepoint friction. Equity benchmarks absorbed intense opening pressure as international maritime channels deteriorated, prompting programmatic algorithmic baskets to aggressively target oversold semiconductor nodes and application software layers down the stretch. Fixed-income desks recorded steady macro de-risking as institutional bond sales accelerated, lifting the benchmark 10-year U.S. Treasury yield higher to settle at 4.91% after a brief flight-to-safety coupon grab. Concurrently, global energy platforms experienced extreme structural premium accumulation, driving front-month international Brent crude futures higher to settle near $106.65 a barrel as computerized capital loops aggressively priced in widening maritime blockade parameters.",
