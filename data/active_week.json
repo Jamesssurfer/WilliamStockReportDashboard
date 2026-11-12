@@ -1,5 +1,94 @@
 [
   {
+    "timestamp": "2026-11-11T20:00:00+00:00",
+    "header": "Wednesday, November 11, 2026's Report",
+    "headline": "A blockbuster earnings report and raised full-year guidance from AI cloud infrastructure provider CoreWeave ignites a fierce semiconductor and technology rebound, propelling the Nasdaq Composite up 1.60%. Institutional desks aggressively snapped up discounted chipmakers as Nvidia reversed two days of declines and memory device producers surged on upgraded valuation outlooks. Fixed-income markets were closed in observance of Veterans Day, leaving the benchmark 10-year U.S. Treasury yield frozen at 4.99% following Tuesday's inflation-driven spike. Concurrently, global energy pressures ticked moderately higher as front-month international Brent crude futures rose 1.25% to settle at $92.63 a barrel, tracking persistent Middle East maritime friction. (https://tradingeconomics.com/commodity/brent-crude-oil), (https://www.tradingkey.com/analysis/stocks/us-stocks/262301417-us-stock-nasdaq-rallies-coreweave-earnings-nvidia-stock-rebound-tradingkey), (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11112026-12248789), (https://www.home.saxo/content/articles/macro/market-quick-take---us-treasury-yields-rip-higher---11-november-2026-11112026).",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,619.38",
+        "change": "+98.45 pts",
+        "pct": "+1.31%",
+        "distribution_days": 13,
+        "action": "Holds at 13 Distribution Days (Total: 13 Distribution Days). The benchmark index surged past its 50-day moving average on strong tech leadership, though holiday-thinned holiday exchange volume kept the move beneath the 20-day institutional accumulation baseline. (https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html), (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11112026-12248789)."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "25,466.19",
+        "change": "+400.32 pts",
+        "pct": "+1.60%",
+        "distribution_days": 13,
+        "action": "Holds at 13 Distribution Days (Total: 13 Distribution Days). High-beta technology grids engineered a powerful rebound led by a 6% surge across semiconductor ETFs, though lighter Veterans Day trading volume left the legacy distribution ceiling intact. (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11112026-12248789), (https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html)."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "24,513.18",
+        "change": "+50.85 pts",
+        "pct": "+0.21%",
+        "distribution_days": 9,
+        "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). The traditional board ground out modest gains on subdued holiday volume, trailing the tech-heavy benchmarks as capital rotated out of gold and defensive utilities into oversold growth slots. (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11112026-12248789), (https://www.marketwatch.com/investing/index/nya)."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$206.45",
+        "change": "+0.65 pts",
+        "pct": "+0.32%",
+        "distribution_days": 9,
+        "action": "Holds at 9 Distribution Days (Total: 9 Distribution Days). Broad market participation remained constructive behind the mega-cap tech rally, logging a positive 1.7-to-1 advancing-to-declining ratio across the New York Stock Exchange."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$110.85",
+        "change": "+1.73 pts",
+        "pct": "+1.58%",
+        "distribution_days": 13,
+        "action": "Holds at 13 Distribution Days (Total: 13 Distribution Days). Programmatic algorithms triggered aggressive short-covering across mid-tier memory and cloud storage providers, though the scanner matrix remains locked under maximum defensive rules. (https://www.tradingkey.com/analysis/stocks/us-stocks/262301417-us-stock-nasdaq-rallies-coreweave-earnings-nvidia-stock-rebound-tradingkey), (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11112026-12248789)."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "SNDK",
+        "company": "SanDisk Corporation",
+        "sector": "Technology",
+        "industry": "Computer Hardware & Storage",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$68.40",
+        "pct": "+13.95%",
+        "action": "Exploded past its horizontal chart pivot to pace S&P 500 gainers on heavy institutional volume following a bullish Morgan Stanley memory sector valuation upgrade. (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11112026-12248789), (https://www.tradingkey.com/analysis/stocks/us-stocks/262301417-us-stock-nasdaq-rallies-coreweave-earnings-nvidia-stock-rebound-tradingkey)."
+      },
+      {
+        "rank": 2,
+        "ticker": "DELL",
+        "company": "Dell Technologies Inc.",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$148.20",
+        "pct": "+12.00%",
+        "action": "Vaulted cleanly past its multi-week structural ceiling on aggressive block accumulation, supercharged by surging enterprise AI server procurement expectations. (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11112026-12248789), (https://www.tradingkey.com/analysis/stocks/us-stocks/262301417-us-stock-nasdaq-rallies-coreweave-earnings-nvidia-stock-rebound-tradingkey)."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "CRWV",
+        "company": "CoreWeave, Inc.",
+        "sector": "Technology",
+        "industry": "Software—Infrastructure",
+        "base_pattern": "",
+        "base_stage": "",
+        "price": "$84.50",
+        "pct": "+25.00%",
+        "action": "Decoupled completely from recent AI spending skepticism to blast past its primary pivot ceiling on massive institutional volume after beating Q3 revenue estimates and raising full-year guidance. (https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html), (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11112026-12248789)."
+      }
+    ],
+    "pre_breakout_watchlist": []
+  },
+  {
     "timestamp": "2026-11-10T20:00:00+00:00",
     "header": "Tuesday, November 10, 2026's Report",
     "headline": "A blistering global trade de-risking rally erupts across Wall Street as Beijing officially extends its transpacific trade truce with Washington, sparking heavy programmatic institutional accumulation loops [China Extends U.S. Trade Truce]. The surprise two-month extension temporarily shelves a critical 24% additional tariff and maritime port fees until January 10, 2027, injecting massive near-term structural stabilization across global supply architectures ahead of the high-stakes APEC summit [China Extends U.S. Trade Truce]. Fixed-income desks recorded sharp safe-haven outflows as duration assets cooled, pushing the benchmark 10-year U.S. Treasury yield higher to settle at 4.96% [10-Year Treasury Yield Pushes to 4.96%]. Concurrently, global energy market premium hoarding stabilized slightly, leaving front-month international Brent crude futures marginally lower to settle near $104.00 a barrel as computerized capital grids paused near-term geopolitical inventory stacking.",
