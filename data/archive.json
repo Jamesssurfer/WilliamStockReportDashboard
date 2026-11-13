@@ -1,6 +1,57 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-05T20:00:00+00:00",
+      "header": "Thursday, November 5, 2026's Report",
+      "headline": "A devastating AI-driven technology wreck hammers Wall Street, dragging the Nasdaq Composite into an official technical correction and wiping out a historic single-day record of $2.5 trillion in market cap [Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5% - WSJ]. Systematic institutional de-risking reached true panic proportions as final legislative sweeps sparked widespread market fears over rigorous data center environmental restrictions and a complete winding down of artificial intelligence capital expenditure trades [Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5% - WSJ, Nasdaq tumbles into correction territory on AI tech wreck - CNBC]. The equity liquidation sequence triggered an explosive flight-to-safety coupon grab on fixed-income desks, dragging the benchmark 10-year U.S. Treasury yield down to a two-month low of 4.82%. Concurrently, global energy matrices registered sharp downside moves as front-month international Brent crude oil futures plunged nearly 6% to settle at $98.29 a barrel following unravelling macro inflation bets down the stretch [Current price of oil as of November 5, 2026 - Fortune].",
+      "market_status": "",
+      "indexes": [
+        {
+          "name": "S&P 500 Index (.INX)",
+          "value": "7,353.73",
+          "change": "-336.29 pts",
+          "pct": "-4.36%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 13 Distribution Days). The benchmark average suffered its worst single-day technical meltdown since early April 2025, breaching near-term moving averages on an absolute panic expansion of institutional volume [Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5% - WSJ]."
+        },
+        {
+          "name": "Nasdaq Composite (.IXIC)",
+          "value": "25,183.12",
+          "change": "-1,847.00 pts",
+          "pct": "-5.40%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 13 Distribution Days). The high-beta growth complex was fundamentally clobbered past its structural 200-day moving average baseline on a massive liquidation wave, cementing its position 10% below recent all-time peaks [Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5% - WSJ, Nasdaq tumbles into correction territory on AI tech wreck - CNBC]."
+        },
+        {
+          "name": "NYSE Composite (.NYA)",
+          "value": "19,677.10",
+          "change": "-692.63 pts",
+          "pct": "-3.40%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 9 Distribution Days). Traditional blue-chip blocks, heavy manufacturers, and financial conglomerates crumbled as multi-asset managers engaged in systemic programmatic cash raising [Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5% - WSJ]."
+        },
+        {
+          "name": "Invesco S&P 500 Equal Weight (RSP)",
+          "value": "$205.25",
+          "change": "-7.60 pts",
+          "pct": "-3.57%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 9 Distribution Days). Underlying structural insulation fractured on intense liquidation velocity, with all 11 industry sectors losing ground and decliners aggressively outstripping gainers by a punishing 7.4-to-1 ratio [Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5% - WSJ]."
+        },
+        {
+          "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+          "value": "$107.51",
+          "change": "-5.44 pts",
+          "pct": "-4.82%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 13 Distribution Days). Automated computer baskets dumped mid-tier software and networking nodes unconditionally on massive volume, locking the engine into a severe defensive state [Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5% - WSJ]."
+        }
+      ],
+      "sector_led_breakouts": [],
+      "divergent_breakouts": [],
+      "pre_breakout_watchlist": []
+    },
+    {
       "timestamp": "2026-11-04T20:00:00+00:00",
       "header": "Wednesday, November 4, 2026's Report",
       "headline": "A historic post-election relief rally sweeps across Wall Street as the Democratic party secures a decisive sweep of both chambers of Congress, triggering a massive 1,500+ point surge for the blue-chip Dow [Markets News, Nov. 4, 2026: Dow Jumps ..., Stock Market Today: Dow Jumps to Best Day in 18 Months, Oil ...]. Top-tier institutional funds executed aggressive capital deployment loops as the absolute removal of midterm election uncertainty combined with expectations of altered tariff policies sparked multi-asset accumulation cascades [Markets News, Nov. 4, 2026: Dow Jumps ..., Stock Market Today: Dow Jumps to Best Day in 18 Months, Oil ...]. Fixed-income desks recorded heavy safe-haven coupon bids that drove significant yield deceleration, pulling the benchmark 10-year U.S. Treasury yield down 7 basis points to settle near 4.90% as long-term inflation fears temporarily cooled [US 10 Year Treasury Note Yield - Quote - Trading Economics]. Concurrently, global energy matrices suffered a major structural breakdown, leaving front-month international Brent crude futures crashing over 8% to settle at $94.68 a barrel following optimized hopes of a diplomatic resolution to the Iran war [Markets News, Nov. 4, 2026: Dow Jumps ..., Stock Market Today: Dow Jumps to Best Day in 18 Months, Oil ..., Brent oil - Price - Chart - Historical Data].",
@@ -306,7 +357,9 @@
           "telemetry": "The molecular diagnostics innovator fiercely preserved its elite relative strength posture ahead of the weekend, absorbing minor index drag to drop fractionally to $129.50. Institutional supply pools remain deeply restricted by top-tier funds, anchoring the pattern a razor-thin 0.38% below its core macro pivot buy point zone as transaction volume dried up perfectly."
         }
       ]
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-29T20:00:00+00:00",
       "header": "Thursday, October 29, 2026's Report",
@@ -408,9 +461,7 @@
           "telemetry": "The molecular diagnostics innovator fiercely preserved its elite relative strength posture during the technology rout, tightening further within its handle structure to close at $129.99. Institutional supply pools remain deeply restricted by top-tier funds, anchoring the pattern a razor-thin 0.01% below its core macro pivot buy point zone as transaction volume dried up perfectly."
         }
       ]
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-28T20:00:00+00:00",
       "header": "Wednesday, October 28, 2026's Report",
@@ -1333,7 +1384,9 @@
           "telemetry": "⚠️ WATCHLIST FILTER TRIGGER WARNING. The elite relative strength pioneer buckled under the weight of programmatic basket liquidation loops, sliding down to close at $437.10. While institutional support block structures remain visible at lower chart moving averages, the decline has pushed the stock to 4.90% below its primary $380.00 base pivot buy trigger zone, hanging by a razor-thin thread at the extreme outer edge of our strict 5% filter."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-13T20:00:00+00:00",
       "header": "Tuesday, October 13, 2026's Report",
@@ -1410,9 +1463,7 @@
           "telemetry": "The absolute relative strength anchor defended its short-term moving average parameters cleanly during the macro pause, ticking up to close at $443.50. Institutional supply mechanics remain heavily locked down by top-tier desks, keeping price action a minor 3.90% below its primary $380.00 base pivot zone and firmly inside our strict 5% tracking gate."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-12T20:00:00+00:00",
       "header": "Monday, October 12, 2026's Report",

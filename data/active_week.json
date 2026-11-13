@@ -1,5 +1,56 @@
 [
   {
+    "timestamp": "2026-11-12T20:00:00+00:00",
+    "header": "Thursday, November 12, 2026's Report",
+    "headline": "The NASDAQ Composite and S&P 500 extend their recovery as technology and semiconductor momentum carries forward alongside stabilizing macro indicators. Wall Street built on Wednesday's relief rally during Thursday's session, with institutional portfolios continuing to rotate back into artificial intelligence hardware, neocloud infrastructure, and mega-cap software following Anthropic's oversubscribed IPO demand and CoreWeave's upbeat revenue guidance. Sovereign fixed-income markets reopened from the Veterans Day holiday with steady demand, keeping the benchmark 10-year U.S. Treasury yield anchored near 4.96% as bond desks digested cooler producer price inflation metrics. Meanwhile, international energy markets absorbed ongoing Middle East maritime friction, holding Brent crude oil futures steady around $92.80 a barrel as traders balanced Strait of Hormuz tanker strikes against rising U.S. crude inventories.",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,618.45",
+        "change": "+34.33 pts",
+        "pct": "+0.45%",
+        "distribution_days": null,
+        "action": ""
+      },
+      {
+        "name": "NASDAQ Composite (.IXIC)",
+        "value": "25,745.20",
+        "change": "+216.75 pts",
+        "pct": "+0.85%",
+        "distribution_days": null,
+        "action": ""
+      },
+      {
+        "name": "Dow Jones Industrial Average (.DJI)",
+        "value": "52,520.40",
+        "change": "+104.80 pts",
+        "pct": "+0.20%",
+        "distribution_days": null,
+        "action": ""
+      },
+      {
+        "name": "Post-Holiday Bond Market Stabilization & PPI Relief",
+        "value": "",
+        "change": "",
+        "pct": "",
+        "distribution_days": null,
+        "action": "As U.S. Treasury markets resumed cash trading following Wednesday's Veterans Day closure, fixed-income desks absorbed softer-than-feared producer price data that helped stabilize the 10-year yield below 5.00%. The orderly rate backdrop removed immediate valuation pressure from long-duration growth stocks and allowed institutional buyers to press their advantage in beaten-down semiconductor and software leaders."
+      },
+      {
+        "name": "Institutional Capital Rotation Back Into AI Infrastructure",
+        "value": "",
+        "change": "",
+        "pct": "",
+        "distribution_days": null,
+        "action": "Follow-through buying across CoreWeave ($CRWV), Micron ($MU), and NVIDIA ($NVDA) confirmed a decisive shift in near-term market leadership away from defensive staples and volatility hedges. Investors continued to digest Anthropic's oversubscribed IPO demand and CoreWeave's GPU-backed debt financing structure as evidence that hyperscaler and neocloud capital expenditure pipelines remain intact despite post-midterm regulatory rhetoric."
+      }
+    ],
+    "sector_led_breakouts": [],
+    "divergent_breakouts": [],
+    "pre_breakout_watchlist": []
+  },
+  {
     "timestamp": "2026-11-11T20:00:00+00:00",
     "header": "Wednesday, November 11, 2026's Report",
     "headline": "A blockbuster earnings report and raised full-year guidance from AI cloud infrastructure provider CoreWeave ignites a fierce semiconductor and technology rebound, propelling the Nasdaq Composite up 1.60%. Institutional desks aggressively snapped up discounted chipmakers as Nvidia reversed two days of declines and memory device producers surged on upgraded valuation outlooks. Fixed-income markets were closed in observance of Veterans Day, leaving the benchmark 10-year U.S. Treasury yield frozen at 4.99% following Tuesday's inflation-driven spike. Concurrently, global energy pressures ticked moderately higher as front-month international Brent crude futures rose 1.25% to settle at $92.63 a barrel, tracking persistent Middle East maritime friction. (https://tradingeconomics.com/commodity/brent-crude-oil), (https://www.tradingkey.com/analysis/stocks/us-stocks/262301417-us-stock-nasdaq-rallies-coreweave-earnings-nvidia-stock-rebound-tradingkey), (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11112026-12248789), (https://www.home.saxo/content/articles/macro/market-quick-take---us-treasury-yields-rip-higher---11-november-2026-11112026).",
@@ -328,57 +379,6 @@
         "action": "Demonstrated extraordinary relative strength to extend its post-election breakout posture on massive institutional volume, leading the chip sector's structural short-covering offensive [Stock market today: Nasdaq and S&P 500 rebound, Dow slips ..., Markets News, Nov. 6, 2026: Nasdaq, S&P 500 Rise as Chip ...]."
       }
     ],
-    "pre_breakout_watchlist": []
-  },
-  {
-    "timestamp": "2026-11-05T20:00:00+00:00",
-    "header": "Thursday, November 5, 2026's Report",
-    "headline": "A devastating AI-driven technology wreck hammers Wall Street, dragging the Nasdaq Composite into an official technical correction and wiping out a historic single-day record of $2.5 trillion in market cap [Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5% - WSJ]. Systematic institutional de-risking reached true panic proportions as final legislative sweeps sparked widespread market fears over rigorous data center environmental restrictions and a complete winding down of artificial intelligence capital expenditure trades [Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5% - WSJ, Nasdaq tumbles into correction territory on AI tech wreck - CNBC]. The equity liquidation sequence triggered an explosive flight-to-safety coupon grab on fixed-income desks, dragging the benchmark 10-year U.S. Treasury yield down to a two-month low of 4.82%. Concurrently, global energy matrices registered sharp downside moves as front-month international Brent crude oil futures plunged nearly 6% to settle at $98.29 a barrel following unravelling macro inflation bets down the stretch [Current price of oil as of November 5, 2026 - Fortune].",
-    "market_status": "",
-    "indexes": [
-      {
-        "name": "S&P 500 Index (.INX)",
-        "value": "7,353.73",
-        "change": "-336.29 pts",
-        "pct": "-4.36%",
-        "distribution_days": 1,
-        "action": "1 New Distribution Day added (Total: 13 Distribution Days). The benchmark average suffered its worst single-day technical meltdown since early April 2025, breaching near-term moving averages on an absolute panic expansion of institutional volume [Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5% - WSJ]."
-      },
-      {
-        "name": "Nasdaq Composite (.IXIC)",
-        "value": "25,183.12",
-        "change": "-1,847.00 pts",
-        "pct": "-5.40%",
-        "distribution_days": 1,
-        "action": "1 New Distribution Day added (Total: 13 Distribution Days). The high-beta growth complex was fundamentally clobbered past its structural 200-day moving average baseline on a massive liquidation wave, cementing its position 10% below recent all-time peaks [Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5% - WSJ, Nasdaq tumbles into correction territory on AI tech wreck - CNBC]."
-      },
-      {
-        "name": "NYSE Composite (.NYA)",
-        "value": "19,677.10",
-        "change": "-692.63 pts",
-        "pct": "-3.40%",
-        "distribution_days": 1,
-        "action": "1 New Distribution Day added (Total: 9 Distribution Days). Traditional blue-chip blocks, heavy manufacturers, and financial conglomerates crumbled as multi-asset managers engaged in systemic programmatic cash raising [Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5% - WSJ]."
-      },
-      {
-        "name": "Invesco S&P 500 Equal Weight (RSP)",
-        "value": "$205.25",
-        "change": "-7.60 pts",
-        "pct": "-3.57%",
-        "distribution_days": 1,
-        "action": "1 New Distribution Day added (Total: 9 Distribution Days). Underlying structural insulation fractured on intense liquidation velocity, with all 11 industry sectors losing ground and decliners aggressively outstripping gainers by a punishing 7.4-to-1 ratio [Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5% - WSJ]."
-      },
-      {
-        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
-        "value": "$107.51",
-        "change": "-5.44 pts",
-        "pct": "-4.82%",
-        "distribution_days": 1,
-        "action": "1 New Distribution Day added (Total: 13 Distribution Days). Automated computer baskets dumped mid-tier software and networking nodes unconditionally on massive volume, locking the engine into a severe defensive state [Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5% - WSJ]."
-      }
-    ],
-    "sector_led_breakouts": [],
-    "divergent_breakouts": [],
     "pre_breakout_watchlist": []
   }
 ]
