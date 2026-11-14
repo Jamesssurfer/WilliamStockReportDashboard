@@ -1319,7 +1319,9 @@
           "telemetry": "The credit services leader completed its technical consolidation phase by executing a high-volume pivot clear on Friday, making it the lone successful entity to exit the pre-breakout watch array [Investor’s Business Daily | Stock News and Stock Market Analysis]. Structural supply pools remain heavily locked by tier-1 desks as the stock moves safely out of the 5% maximum buy fence [Investor’s Business Daily | Stock News and Stock Market Analysis]."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-15T20:00:00+00:00",
       "header": "Thursday, October 15, 2026's Report",
@@ -1396,9 +1398,7 @@
           "telemetry": "🚨 CRITICAL FILTER BREACH ALERT. The long-standing relative strength anchor finally buckled under the weight of programmatic basket liquidations, sliding down to close at $435.50. The technical drop has officially pushed the stock to 5.13% below its primary $380.00 base pivot zone, breaching our strict 5% scan gate and forcing its immediate removal from the active pre-breakout watch array."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-14T20:00:00+00:00",
       "header": "Wednesday, October 14, 2026's Report",
