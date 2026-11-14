@@ -1,5 +1,107 @@
 [
   {
+    "timestamp": "2026-11-13T20:00:00+00:00",
+    "header": "Friday, November 13, 2026's Report",
+    "headline": "A sustained semiconductor liquidation wave drags the Nasdaq Composite and S&P 500 lower to close out a volatile week, as ongoing leadership turmoil at Nvidia following CEO Jensen Huang's resignation sparks broad institutional de-risking across artificial intelligence hardware. Fixed-income desks recorded renewed selling pressure after October's Producer Price Index (PPI) jumped 6.5% year-over-year—its fastest annual pace since November 2022—pushing the benchmark 10-year U.S. Treasury yield up to 5.15%. Concurrently, global energy benchmarks remained tightly anchored near elevated geopolitical floors, leaving front-month international Brent crude oil futures virtually flat to settle at $95.74 a barrel as traders balanced Middle East chokepoint hazards against broader macroeconomic tightening. (https://tradingeconomics.com/united-states/government-bond-yield), (https://www.investopedia.com/stock-market-today-dow-jones-today-s-and-p-500-nasdaq-11132026-12252143), (https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-ceo-jensen-huang-resigns-ppi-inflation-data), (https://www.wsj.com/market-data/quotes/bond/BX/TMUBMUSD10Y), (https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html), (https://sg.finance.yahoo.com/quote/BZ%3DF/history/).",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,561.67",
+        "change": "-30.73 pts",
+        "pct": "-0.40%",
+        "distribution_days": 14,
+        "action": "Holds at 14 Distribution Days (Total: 14 Distribution Days). Aggregate exchange volume thinned dramatically to 2.73 billion shares—falling well below the 20-day institutional baseline average—sparing the benchmark from adding another distribution day despite snapping a four-week losing streak with a 2.5% weekly gain. (https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-ceo-jensen-huang-resigns-ppi-inflation-data), (https://finance.yahoo.com/quote/%5EGSPC/history/)."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "25,136.27",
+        "change": "-229.82 pts",
+        "pct": "-0.91%",
+        "distribution_days": 14,
+        "action": "Holds at 14 Distribution Days (Total: 14 Distribution Days). High-multiple chipmakers and neocloud providers bore the brunt of systematic de-risking on lighter overall exchange volume, capping a volatile week in which the index still managed a 2.3% weekly advance. (https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html), (https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-ceo-jensen-huang-resigns-ppi-inflation-data), (https://virginiabusiness.com/nvidia-uncertainty-weighs-on-sp-500-nasdaq-tech-shares/)."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "24,450.97",
+        "change": "-16.00 pts",
+        "pct": "-0.07%",
+        "distribution_days": 10,
+        "action": "Holds at 10 Distribution Days (Total: 10 Distribution Days). The traditional board demonstrated strong relative insulation on subdued volume, as steady rotation into healthcare, financials, and consumer staples cushioned declines across industrial and basic materials groups. (https://www.home.saxo/content/articles/macro/market-quick-take---nvidia-earnings-up-next-tuesday---13-november-2026-13112026), (https://www.bloomberg.com/quote/NYA:IND), (https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026)."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$220.72",
+        "change": "-0.23 pts",
+        "pct": "-0.10%",
+        "distribution_days": 10,
+        "action": "Holds at 10 Distribution Days (Total: 10 Distribution Days). Stripped of cap-weighted technology concentrations, the equal-weighted framework outperformed cleanly as seven of eleven S&P 500 sectors closed in positive territory. (https://stockanalysis.com/etf/rsp/), (https://www.marketscholars.com/market-outlook-november-12-2026/), (https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026)."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$109.25",
+        "change": "-0.97 pts",
+        "pct": "-0.88%",
+        "distribution_days": 14,
+        "action": "Holds at 14 Distribution Days (Total: 14 Distribution Days). Programmatic algorithms executed steady de-risking across mid-tier semiconductor and data-center infrastructure nodes on lighter volume, keeping the scanner locked under maximum defensive rules. (https://virginiabusiness.com/nvidia-uncertainty-weighs-on-sp-500-nasdaq-tech-shares/)."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "STE",
+        "company": "STERIS plc",
+        "sector": "Healthcare",
+        "industry": "Medical Instruments & Supplies",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "price": "$263.45",
+        "pct": "+3.95%",
+        "action": "Cleared its primary horizontal chart ceiling on strong institutional volume pacing well above average, leading defensive healthcare accumulation across the board. (https://www.chartmill.com/news/AMD/Chartmill-58679-SP-500-Top-Movers-for-Nov-13-2026-Charter-Communications-Leads-Gainers-AMD-Leads-Losers)."
+      },
+      {
+        "rank": 2,
+        "ticker": "GPN",
+        "company": "Global Payments Inc.",
+        "sector": "Financial Services",
+        "industry": "Specialty Business Services",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 2",
+        "price": "$92.07",
+        "pct": "+4.40%",
+        "action": "Vaulted past its intermediate pivot buy trigger on expanding institutional block demand, extending a six-month outperformance trend. (https://www.chartmill.com/news/AMD/Chartmill-58679-SP-500-Top-Movers-for-Nov-13-2026-Charter-Communications-Leads-Gainers-AMD-Leads-Losers)."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "APP",
+        "company": "AppLovin Corporation",
+        "sector": "Technology",
+        "industry": "Software—Application",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 1",
+        "price": "$408.23",
+        "pct": "+3.69%",
+        "action": "Completely uncoupled from broader technology and semiconductor liquidations to clear its horizontal handle pivot on heavy institutional accumulation, extending its one-month surge past 40%. (https://www.chartmill.com/news/AMD/Chartmill-58679-SP-500-Top-Movers-for-Nov-13-2026-Charter-Communications-Leads-Gainers-AMD-Leads-Losers)."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "FIVE",
+        "company": "Five Below, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Specialty Retail",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 1",
+        "pivot_price": "",
+        "distance_to_pivot": "2.15%",
+        "telemetry": "The specialty retailer demonstrated strong relative strength by holding tightly above its 21-day exponential moving average during Friday's tech-led pullback. Daily trading volume dried up constructively below average as institutional supply remained tightly absorbed ahead of the holiday retail cycle. Price action sits anchored a precise 2.15% below its primary buy point pivot, keeping it squarely inside our strict 5% tracking filter."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-12T20:00:00+00:00",
     "header": "Thursday, November 12, 2026's Report",
     "headline": "Wall Street absorbs a massive shockwave from the sudden resignation of Nvidia CEO Jensen Huang, erasing steep morning losses to close with only modest declines as rival chipmakers catch an aggressive sympathy bid. Fixed-income markets suffered heavy liquidation pressure after hawkish Federal Reserve commentary and stalled Middle East peace talks reignited inflation fears, driving the benchmark 10-year U.S. Treasury yield up 15 basis points to close at 5.14%. Concurrently, global energy benchmarks surged higher, pushing front-month international Brent crude oil futures up 3.59% to settle at $96.09 a barrel after executive remarks signaled no immediate diplomatic deal with Iran.",
