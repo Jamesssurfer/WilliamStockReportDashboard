@@ -1,5 +1,107 @@
 [
   {
+    "timestamp": "2026-11-18T20:00:00+00:00",
+    "header": "Wednesday, November 18, 2026's Report",
+    "headline": "Wall Street finishes mixed in choppy trade as a blockbuster cybersecurity rally lifts the Nasdaq Composite, while hawkish Federal Reserve minutes and a post-earnings slide in Nvidia push the S&P 500 below its 200-day moving average [Anthropic's IPO Is Finally Here | Review & Prev - Barron's, Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as ...]. Fixed-income desks recorded a modest safe-haven bid as falling oil prices eased near-term inflation pressure, pulling the benchmark 10-year U.S. Treasury yield down 3 basis points to close at 5.07% despite FOMC minutes signaling further rate hikes ahead [US 10 Year Treasury Note Yield - Quote - Chart]. Concurrently, global energy benchmarks dropped sharply after U.S. government data revealed a massive 3.4-million-barrel weekly build in domestic crude inventories, dragging front-month international Brent crude futures down 1.28% to settle at $91.95 a barrel [Oil falls on Nov 18 as US crude stocks rise by 3.4m barrels].",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,323.63",
+        "change": "-16.90 pts",
+        "pct": "-0.23%",
+        "distribution_days": 16,
+        "action": "Holds at 16 Distribution Days (Total: 16 Distribution Days). The benchmark index extended its losing streak to five straight sessions and slipped beneath its 200-day moving average [Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as ...], though lighter aggregate exchange volume relative to Tuesday's liquidation spared it from logging an additional distribution day."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "24,429.88",
+        "change": "+101.50 pts",
+        "pct": "+0.42%",
+        "distribution_days": 16,
+        "action": "Holds at 16 Distribution Days (Total: 16 Distribution Days). Surging cybersecurity providers and rival chipmakers AMD and Broadcom lifted the tech benchmark out of a four-day skid despite Nvidia sliding 2.9% post-earnings [Anthropic's IPO Is Finally Here | Review & Prev - Barron's, Markets News, Nov. 18, 2026: Dow Plunges 560 Points, S&P ...]."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "23,815.40",
+        "change": "-167.05 pts",
+        "pct": "-0.70%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 13 Distribution Days). Heavy institutional liquidations across managed healthcare providers, energy refiners, and gold miners dragged the legacy board lower on elevated volume [S&P 500 Top Movers: Gainers and Losers in the Nov. 18 ..., Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as ...]."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$215.20",
+        "change": "-0.90 pts",
+        "pct": "-0.42%",
+        "distribution_days": 12,
+        "action": "Holds at 12 Distribution Days (Total: 12 Distribution Days). Market breadth remained skewed toward defensive distribution under the hood as declining issues outpaced advancing counters on the New York Stock Exchange despite pockets of retail strength [Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as ...]."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$106.15",
+        "change": "+0.53 pts",
+        "pct": "+0.50%",
+        "distribution_days": 16,
+        "action": "Holds at 16 Distribution Days (Total: 16 Distribution Days). Programmatic algorithms rotated aggressively into enterprise security software and retail names [Anthropic's IPO Is Finally Here | Review & Prev - Barron's, Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as ...], keeping the scanner locked under maximum defensive boundaries."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "OKTA",
+        "company": "Okta, Inc.",
+        "sector": "Technology",
+        "industry": "Software—Infrastructure",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 1",
+        "price": "$187.61",
+        "pct": "+7.49%",
+        "action": "Vaulted past its horizontal resistance pivot on massive institutional accumulation volume as heightened cyber-outage fears sparked broad enterprise security inflows [Anthropic's IPO Is Finally Here | Review & Prev - Barron's]."
+      },
+      {
+        "rank": 2,
+        "ticker": "PANW",
+        "company": "Palo Alto Networks, Inc.",
+        "sector": "Technology",
+        "industry": "Software—Infrastructure",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 2",
+        "price": "$330.80",
+        "pct": "+6.95%",
+        "action": "Cleared its primary handle buy trigger on heavy block volume ahead of its post-close earnings beat and $4.5 billion Applied Compute acquisition [Anthropic's IPO Is Finally Here | Review & Prev - Barron's, Stock Market News, November 18, 2026: Nvidia Earnings Fail ...]."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "TJX",
+        "company": "The TJX Companies, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Apparel Retail",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "price": "$143.79",
+        "pct": "+10.74%",
+        "action": "Uncoupled completely from broad S&P 500 weakness to blast past its chart ceiling on surging institutional volume after posting a 4% comparable sales beat and raising profit margin plans [S&P 500 Top Movers: Gainers and Losers in the Nov. 18 ...]."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "FIVE",
+        "company": "Five Below, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Specialty Retail",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 1",
+        "pivot_price": "$245.60",
+        "distance_to_pivot": "2.55%",
+        "telemetry": "The specialty retailer caught a constructive sympathy tailwind from off-price peers TJX and Target, holding tightly above its 21-day exponential moving average near $245.60. Daily trading volume dried up below average as institutional supply remained tightly absorbed ahead of the holiday shopping cycle. Price action sits anchored a precise 2.55% below its primary buy point pivot, keeping it squarely inside our strict 5% tracking filter."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-17T20:00:00+00:00",
     "header": "Tuesday, November 17, 2026's Report",
     "headline": "Broad institutional de-risking extends Wall Street's losing streak to four straight sessions as investors brace for Nvidia's post-close earnings report and Anthropic's landmark IPO while digesting a reported National Security Agency network outage. Fixed-income desks recorded a steady safe-haven bid following a $1.2 billion U.S. Treasury long-bond buyback operation and weaker-than-expected homebuilder confidence, pulling the benchmark 10-year U.S. Treasury yield down 3 basis points to close at 5.10%. Concurrently, global energy benchmarks eased slightly on improving Middle East oil exports, pulling front-month international Brent crude futures down 0.7% to settle near $91.80 a barrel. (https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html), (https://virginiabusiness.com/wall-street-falls-nvidia-earnings-anthropic-ipo/), (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11172026-12259343), (https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasurys-79322f27), (https://tradingeconomics.com/united-states/government-bond-yield).",
