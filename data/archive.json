@@ -1,6 +1,108 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-12T20:00:00+00:00",
+      "header": "Thursday, November 12, 2026's Report",
+      "headline": "Wall Street absorbs a massive shockwave from the sudden resignation of Nvidia CEO Jensen Huang, erasing steep morning losses to close with only modest declines as rival chipmakers catch an aggressive sympathy bid. Fixed-income markets suffered heavy liquidation pressure after hawkish Federal Reserve commentary and stalled Middle East peace talks reignited inflation fears, driving the benchmark 10-year U.S. Treasury yield up 15 basis points to close at 5.14%. Concurrently, global energy benchmarks surged higher, pushing front-month international Brent crude oil futures up 3.59% to settle at $96.09 a barrel after executive remarks signaled no immediate diplomatic deal with Iran.",
+      "market_status": "",
+      "indexes": [
+        {
+          "name": "S&P 500 Index (.INX)",
+          "value": "7,592.40",
+          "change": "-26.98 pts",
+          "pct": "-0.35%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 14 Distribution Days). Heavy institutional turnover pushed aggregate exchange volume well above the 20-day baseline average, registering another formal liquidation day despite a late intraday recovery."
+        },
+        {
+          "name": "Nasdaq Composite (.IXIC)",
+          "value": "25,366.09",
+          "change": "-100.10 pts",
+          "pct": "-0.39%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 14 Distribution Days). High-beta technology grids absorbed intense opening volatility following Nvidia's 14% plunge, with surging yields above 5.10% capping midday recovery attempts on elevated volume."
+        },
+        {
+          "name": "NYSE Composite (.NYA)",
+          "value": "24,421.15",
+          "change": "-92.03 pts",
+          "pct": "-0.38%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 10 Distribution Days). Broad industrial and financial components buckled under renewed interest-rate pressure as San Francisco Fed President Mary Daly signaled a bias toward further policy tightening."
+        },
+        {
+          "name": "Invesco S&P 500 Equal Weight (RSP)",
+          "value": "$205.50",
+          "change": "-0.95 pts",
+          "pct": "-0.46%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 10 Distribution Days). Market breadth deteriorated under the weight of rising borrowing costs, with NYSE declining issues outpacing advancing counters by a clear 2.1-to-1 ratio."
+        },
+        {
+          "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+          "value": "$110.22",
+          "change": "-0.63 pts",
+          "pct": "-0.57%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 14 Distribution Days). Programmatic algorithms executed steady de-risking across mid-tier software and storage networks on higher volume, locking the scanner into maximum defensive boundaries."
+        }
+      ],
+      "sector_led_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "AVGO",
+          "company": "Broadcom Inc.",
+          "sector": "Technology",
+          "industry": "Semiconductors",
+          "base_pattern": "Double Bottom",
+          "base_stage": "Stage 1",
+          "price": "$363.30",
+          "pct": "+5.24%",
+          "action": "Vaulted past its near-term horizontal resistance pivot on heavy institutional accumulation volume as asset managers rotated custom AI silicon capital away from Nvidia."
+        },
+        {
+          "rank": 2,
+          "ticker": "AMD",
+          "company": "Advanced Micro Devices, Inc.",
+          "sector": "Technology",
+          "industry": "Semiconductors",
+          "base_pattern": "Double Bottom",
+          "base_stage": "Stage 1",
+          "price": "$580.40",
+          "pct": "+4.97%",
+          "action": "Surged on elevated block volume to clear its extended pivot trigger, supercharged by a new utility-scale quantum computing partnership with PsiQuantum and Nvidia leadership turmoil."
+        }
+      ],
+      "divergent_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "LTH",
+          "company": "Life Time Group Holdings, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Leisure",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 2",
+          "price": "$34.80",
+          "pct": "+4.59%",
+          "action": "Decoupled completely from broad index distribution and surging bond yields to clear its primary horizontal chart pivot on heavy institutional volume pacing +85% above average."
+        }
+      ],
+      "pre_breakout_watchlist": [
+        {
+          "rank": 1,
+          "ticker": "FIVE",
+          "company": "Five Below, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Specialty Retail",
+          "base_pattern": "Cup-with-Handle",
+          "base_stage": "Stage 1",
+          "pivot_price": "",
+          "distance_to_pivot": "2.40%",
+          "telemetry": "The specialty retailer demonstrated strong relative strength by holding tightly above its 21-day exponential moving average despite the broader market dip. Daily trading volume dried up constructively as institutional supply remained tightly absorbed following recent earnings momentum. Price action sits anchored a precise 2.40% below its primary buy point pivot, keeping it squarely inside our strict 5% tracking filter."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-11T20:00:00+00:00",
       "header": "Wednesday, November 11, 2026's Report",
       "headline": "A blockbuster earnings report and raised full-year guidance from AI cloud infrastructure provider CoreWeave ignites a fierce semiconductor and technology rebound, propelling the Nasdaq Composite up 1.60%. Institutional desks aggressively snapped up discounted chipmakers as Nvidia reversed two days of declines and memory device producers surged on upgraded valuation outlooks. Fixed-income markets were closed in observance of Veterans Day, leaving the benchmark 10-year U.S. Treasury yield frozen at 4.99% following Tuesday's inflation-driven spike. Concurrently, global energy pressures ticked moderately higher as front-month international Brent crude futures rose 1.25% to settle at $92.63 a barrel, tracking persistent Middle East maritime friction. (https://tradingeconomics.com/commodity/brent-crude-oil), (https://www.tradingkey.com/analysis/stocks/us-stocks/262301417-us-stock-nasdaq-rallies-coreweave-earnings-nvidia-stock-rebound-tradingkey), (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11112026-12248789), (https://www.home.saxo/content/articles/macro/market-quick-take---us-treasury-yields-rip-higher---11-november-2026-11112026).",
@@ -330,7 +432,9 @@
         }
       ],
       "pre_breakout_watchlist": []
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-05T20:00:00+00:00",
       "header": "Thursday, November 5, 2026's Report",
@@ -381,9 +485,7 @@
       "sector_led_breakouts": [],
       "divergent_breakouts": [],
       "pre_breakout_watchlist": []
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-04T20:00:00+00:00",
       "header": "Wednesday, November 4, 2026's Report",
@@ -1330,7 +1432,9 @@
           "telemetry": "The consumer hardware leader caught strong institutional block support during the tech rotation, grinding higher to form a tight weekly close near short-term moving averages. Supply mechanics remain exceptionally constrained as top-tier desks keep the configuration anchored 2.15% below its core macro pivot buy zone, maintaining elite relative strength parameters."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-20T20:00:00+00:00",
       "header": "Tuesday, October 20, 2026's Report",
@@ -1407,9 +1511,7 @@
           "telemetry": "The consumer electronics anchor caught a protective bid early but eventually succumbed to index-driven paring, closing at $231.40. Institutional defense blocks remain visible at lower chart floors, keeping the price configuration anchored a tight 3.10% below its primary macro buy trigger zone and safely within our 5% scan gate."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-19T20:00:00+00:00",
       "header": "Monday, October 19, 2026's Report",
