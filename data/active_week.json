@@ -1,5 +1,95 @@
 [
   {
+    "timestamp": "2026-11-19T20:00:00+00:00",
+    "header": "Thursday, November 19, 2026's Report",
+    "headline": "Wall Street suffers a broad-based liquidation wave as Anthropic's record $81.3 billion IPO debut triggers widespread portfolio rotation out of mega-cap tech, dragging the S&P 500 to its sixth consecutive daily loss [Markets News, Nov. 19, 2026: Dow Plunges ..., Stock Market on Nov. 19, 2026: Dow drops ... - MarketWatch, Nasdaq falls 2% as Anthropic IPO fails to resuscitate AI trade]. Fixed-income desks recorded a steady safe-haven coupon bid as deteriorating equity sentiment prompted defensive inflows, pulling the benchmark 10-year U.S. Treasury yield down 3 basis points to close at 5.04%. Concurrently, global energy benchmarks held virtually unchanged as rising domestic crude inventories offset renewed Middle East military strike concerns, leaving front-month international Brent crude futures flat near $92.27 a barrel.",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,175.83",
+        "change": "-147.80 pts",
+        "pct": "-2.02%",
+        "distribution_days": 16,
+        "action": "Holds at 16 Distribution Days (Total: 16 Distribution Days). The benchmark index logged its longest losing streak since April 2024 as all 11 sectors finished in the red [Stock Market on Nov. 19, 2026: Dow drops ... - MarketWatch], though lighter aggregate exchange volume (3.34 billion shares vs. Wednesday's 5.39 billion) spared it from adding another distribution day [S&P 500 (^GSPC) historical data]."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "23,879.20",
+        "change": "-550.69 pts",
+        "pct": "-2.25%",
+        "distribution_days": 16,
+        "action": "Holds at 16 Distribution Days (Total: 16 Distribution Days). Early enthusiasm around Anthropic's 34% opening pop faded into heavy selling across legacy AI chipmakers and hyperscalers [Nasdaq falls 2% as Anthropic IPO fails to resuscitate AI trade, Anthropic IPO live updates: ANT stock price and Nasdaq debut], leaving the index 13% off its October peak on subdued overall volume [Stock Market News, Nov. 19, 2026: Anthropic Shares ... - WSJ]."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "23,345.10",
+        "change": "-470.30 pts",
+        "pct": "-1.97%",
+        "distribution_days": 13,
+        "action": "Holds at 13 Distribution Days (Total: 13 Distribution Days). Heavy liquidations across industrial conglomerates, home furnishings retailers, and payment networks dragged the traditional board lower on lighter transactional volume [Two Big Debuts Fail To Boost Stocks - WSJ, November 19, 2026 U.S. equities ended sharply lower on ...]."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$211.63",
+        "change": "-3.80 pts",
+        "pct": "-1.76%",
+        "distribution_days": 12,
+        "action": "Holds at 12 Distribution Days (Total: 12 Distribution Days). Broad market participation deteriorated sharply under the hood, with over 90% of S&P 500 constituents finishing in negative territory [November 19, 2026 U.S. equities ended sharply lower on ...]."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$103.85",
+        "change": "-2.30 pts",
+        "pct": "-2.17%",
+        "distribution_days": 16,
+        "action": "Holds at 16 Distribution Days (Total: 16 Distribution Days). Programmatic algorithms executed broad de-risking across mid-tier software and hardware nodes as funds raised cash to absorb Anthropic IPO allocations [Stock Market on Nov. 19, 2026: Dow drops ... - MarketWatch, Stock Market News, Nov. 19, 2026: Anthropic Shares ... - WSJ]."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "PANW",
+        "company": "Palo Alto Networks, Inc.",
+        "sector": "Technology",
+        "industry": "Software—Infrastructure",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 2",
+        "price": "$361.73",
+        "pct": "+6.42%",
+        "action": "Extended Wednesday's breakout to pace all S&P 500 gainers on heavy institutional volume following an earnings beat and heightened enterprise security demand after major banking data leaks [Two Big Debuts Fail To Boost Stocks - WSJ, November 19, 2026 U.S. equities ended sharply lower on ...]."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "EXPD",
+        "company": "Expeditors International of Washington, Inc.",
+        "sector": "Industrials",
+        "industry": "Integrated Freight & Logistics",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "price": "$193.14",
+        "pct": "+2.26%",
+        "action": "Completely uncoupled from a 2.6% drop in the broader industrial sector to clear a fresh horizontal resistance shelf on strong institutional accumulation volume [November 19, 2026 U.S. equities ended sharply lower on ...]."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "FIVE",
+        "company": "Five Below, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Specialty Retail",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 1",
+        "pivot_price": "",
+        "distance_to_pivot": "3.10%",
+        "telemetry": "The specialty retailer demonstrated strong relative insulation by holding tightly near its 21-day exponential moving average despite a 3% sell-off across the broader consumer discretionary sector [Two Big Debuts Fail To Boost Stocks - WSJ]. Daily trading volume dried up well below average as institutional supply remained tightly absorbed alongside off-price peers Target and TJX [November 19, 2026 U.S. equities ended sharply lower on ...]. Price action sits anchored a precise 3.10% below its primary buy point pivot, keeping it squarely inside our strict 5% tracking filter."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-18T20:00:00+00:00",
     "header": "Wednesday, November 18, 2026's Report",
     "headline": "Wall Street finishes mixed in choppy trade as a blockbuster cybersecurity rally lifts the Nasdaq Composite, while hawkish Federal Reserve minutes and a post-earnings slide in Nvidia push the S&P 500 below its 200-day moving average [Anthropic's IPO Is Finally Here | Review & Prev - Barron's, Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as ...]. Fixed-income desks recorded a modest safe-haven bid as falling oil prices eased near-term inflation pressure, pulling the benchmark 10-year U.S. Treasury yield down 3 basis points to close at 5.07% despite FOMC minutes signaling further rate hikes ahead [US 10 Year Treasury Note Yield - Quote - Chart]. Concurrently, global energy benchmarks dropped sharply after U.S. government data revealed a massive 3.4-million-barrel weekly build in domestic crude inventories, dragging front-month international Brent crude futures down 1.28% to settle at $91.95 a barrel [Oil falls on Nov 18 as US crude stocks rise by 3.4m barrels].",
