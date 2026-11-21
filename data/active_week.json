@@ -1,5 +1,107 @@
 [
   {
+    "timestamp": "2026-11-20T20:00:00+00:00",
+    "header": "Friday, November 20, 2026's Report",
+    "headline": "A severe artificial intelligence meltdown drags the S&P 500 and Dow into official correction territory while pushing the Nasdaq Composite into negative territory for 2026, capping Wall Street's worst weekly drop since the COVID-19 pandemic. Fixed-income desks recorded a sharp flight-to-safety rally as institutional cash fled high-beta tech, pulling the benchmark 10-year U.S. Treasury yield down 10 basis points to settle near 4.94%. Concurrently, global energy benchmarks rebounded moderately on renewed Middle East tanker threats despite ample supply, lifting front-month international Brent crude oil futures up 0.64% to close at $92.57 a barrel. (https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html), (https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026), (https://tradingeconomics.com/united-states/government-bond-yield), (https://tradingeconomics.com/commodity/brent-crude-oil), (https://energynow.com/2026/11/oil-prices-rebound-friday-on-middle-east-tensions-but-fall-for-third-straight-week-wti-closes-at-83-98-brent-at-92-57/).",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "6,910.39",
+        "change": "-265.44 pts",
+        "pct": "-3.70%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 17 Distribution Days). Heavy institutional liquidation volume surged past the 20-day baseline average (4.73 billion shares), dragging the index to a seventh straight daily decline and more than 10% below its October peak. (https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026), (https://sg.finance.yahoo.com/quote/%5EGSPC/)."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "22,617.73",
+        "change": "-1,261.47 pts",
+        "pct": "-5.28%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 17 Distribution Days). High-multiple chipmakers and AI infrastructure names suffered panic selling on surging volume—led by a 14% drop in Nvidia amid SEC accounting probe reports and a 9.2% slide in Anthropic—marking the index's second-largest one-day point drop in history. (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11202026-12266027), (https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html), (https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026)."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "22,657.82",
+        "change": "-481.99 pts",
+        "pct": "-2.08%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 14 Distribution Days). Broad industrial and cyclical conglomerates buckled under afternoon programmatic cash raising on elevated volume, though defensive consumer staples and healthcare groups limited steeper losses. (https://www.barrons.com/livecoverage/stock-market-news-today-112026), (https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html)."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$207.44",
+        "change": "-4.19 pts",
+        "pct": "-1.98%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 13 Distribution Days). Market breadth deteriorated significantly under the hood as declining issues outnumbered advancing counters 375 to 124 within the benchmark index on expanded turnover. (https://www.trefis.com/stock/spy/articles/627499/sp-500-movers-winners-gpn-gis-mkc-losers-be-nvda-lite/2026-11-21)."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$98.35",
+        "change": "-5.50 pts",
+        "pct": "-5.30%",
+        "distribution_days": 1,
+        "action": "1 New Distribution Day added (Total: 17 Distribution Days). Programmatic algorithms executed aggressive liquidation across mid-tier semiconductor and data-center nodes on heavy volume, cementing an unconditional defensive lockdown across the scanner. (https://www.gpb.org/news/2026/11/20/sp-500-sinks-37-and-the-nasdaq-composite-goes-negative-for-the-year), (https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html)."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "HCA",
+        "company": "HCA Healthcare, Inc.",
+        "sector": "Healthcare",
+        "industry": "Medical Care Facilities",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "price": "$475.57",
+        "pct": "+3.31%",
+        "action": "Vaulted past its horizontal resistance shelf on strong institutional accumulation volume as asset managers rotated defensively into hospital operators. (https://markets.businessinsider.com/index/market-movers/s&p_500), (https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html)."
+      },
+      {
+        "rank": 2,
+        "ticker": "UHS",
+        "company": "Universal Health Services, Inc.",
+        "sector": "Healthcare",
+        "industry": "Medical Care Facilities",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 2",
+        "price": "$179.43",
+        "pct": "+2.54%",
+        "action": "Cleared its intermediate pivot buy trigger on expanding block demand, joining healthcare peers in defying Friday's market-wide tech rout. (https://markets.businessinsider.com/index/market-movers/s&p_500), (https://www.trefis.com/stock/spy/articles/627499/sp-500-movers-winners-gpn-gis-mkc-losers-be-nvda-lite/2026-11-21)."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "GPN",
+        "company": "Global Payments Inc.",
+        "sector": "Financial Services",
+        "industry": "Specialty Business Services",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 2",
+        "price": "$91.83",
+        "pct": "+9.95%",
+        "action": "Completely uncoupled from broad S&P 500 liquidation to blast past its chart ceiling on massive institutional volume, pacing all benchmark gainers. (https://markets.businessinsider.com/index/market-movers/s&p_500), (https://www.trefis.com/stock/spy/articles/627499/sp-500-movers-winners-gpn-gis-mkc-losers-be-nvda-lite/2026-11-21)."
+      }
+    ],
+    "pre_breakout_watchlist": [
+      {
+        "rank": 1,
+        "ticker": "FIVE",
+        "company": "Five Below, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Specialty Retail",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 1",
+        "pivot_price": "$223.36",
+        "distance_to_pivot": "5.48%",
+        "telemetry": "🚨 CRITICAL FILTER BREACH ALERT. The specialty retailer finally succumbed to broad index liquidation pressure, sliding -2.46% to close at $223.36 on lighter volume of 238,677 shares. This pullback pushes price action 5.48% below its primary buy point pivot, breaching our strict 5% proximity limit and forcing its immediate removal from the active watch array. (https://finance.yahoo.com/quote/FIVE/history/)."
+      }
+    ]
+  },
+  {
     "timestamp": "2026-11-19T20:00:00+00:00",
     "header": "Thursday, November 19, 2026's Report",
     "headline": "Wall Street suffers a broad-based liquidation wave as Anthropic's record $81.3 billion IPO debut triggers widespread portfolio rotation out of mega-cap tech, dragging the S&P 500 to its sixth consecutive daily loss [Markets News, Nov. 19, 2026: Dow Plunges ..., Stock Market on Nov. 19, 2026: Dow drops ... - MarketWatch, Nasdaq falls 2% as Anthropic IPO fails to resuscitate AI trade]. Fixed-income desks recorded a steady safe-haven coupon bid as deteriorating equity sentiment prompted defensive inflows, pulling the benchmark 10-year U.S. Treasury yield down 3 basis points to close at 5.04%. Concurrently, global energy benchmarks held virtually unchanged as rising domestic crude inventories offset renewed Middle East military strike concerns, leaving front-month international Brent crude futures flat near $92.27 a barrel.",
