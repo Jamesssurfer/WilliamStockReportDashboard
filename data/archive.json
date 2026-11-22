@@ -1290,7 +1290,9 @@
           "telemetry": "The molecular diagnostics innovator strongly defended its short-term moving average parameters during the market bounce, tightening further to close at $129.95. Supply pools remain exceptionally locked up by top-tier funds, anchoring the pattern a razor-thin 0.04% below its core macro pivot buy point zone with volume drying up perfectly."
         }
       ]
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-23T20:00:00+00:00",
       "header": "Friday, October 23, 2026's Report",
@@ -1367,9 +1369,7 @@
           "telemetry": "The molecular diagnostics innovator strongly extended its relative strength outperformance, tightening further near its structural moving averages to close at $129.80. Supply pools remain exceptionally locked up by top-tier funds, anchoring the pattern a razor-thin 0.15% below its core macro pivot buy point zone with volume drying up perfectly."
         }
       ]
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-22T20:00:00+00:00",
       "header": "Thursday, October 22, 2026's Report",
