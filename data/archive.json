@@ -1,6 +1,108 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-16T20:00:00+00:00",
+      "header": "Monday, November 16, 2026's Report",
+      "headline": "Tighter U.S. export restrictions on advanced artificial intelligence chips and ongoing leadership turmoil at Nvidia ignite a broad semiconductor liquidation wave, dragging the Nasdaq Composite down nearly 2.5% ahead of Tuesday's pivotal earnings report. Fixed-income desks experienced mixed session swings as hawkish Federal Reserve commentary offset safe-haven equity outflows, leaving the benchmark 10-year U.S. Treasury yield virtually flat near 5.14%. Concurrently, global energy benchmarks eased slightly as shipments through the Strait of Hormuz showed incremental resilience, pulling front-month international Brent crude oil futures down to settle at $95.50 a barrel. (https://tradingeconomics.com/united-states/government-bond-yield), (https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-nvidia-sinks-as-u-s-tightens-ai-chip-restrictions-and-analysts-slash-price-targets/), (https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html), (https://sg.finance.yahoo.com/quote/BZ%3DF/history/).",
+      "market_status": "",
+      "indexes": [
+        {
+          "name": "S&P 500 Index (.INX)",
+          "value": "7,416.59",
+          "change": "-145.08 pts",
+          "pct": "-1.92%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 15 Distribution Days). Heavy institutional turnover pushed aggregate exchange volume well above the 20-day baseline average, marking a third straight session of index losses. (https://www.10tv.com/article/syndication/associatedpress/how-major-us-stock-indexes-fared-monday-11162026/616-5e1ef1cd-d301-4f9c-83bd-5b7cf29631a7), (https://live.euronext.com/en/financial-news/stocks-end-lower-ahead-nvidia-earnings-and-anthropic-ipo-oil-drops), (https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-nvidia-sinks-as-u-s-tightens-ai-chip-restrictions-and-analysts-slash-price-targets/)."
+        },
+        {
+          "name": "Nasdaq Composite (.IXIC)",
+          "value": "24,509.76",
+          "change": "-626.51 pts",
+          "pct": "-2.49%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 15 Distribution Days). High-multiple chipmakers bore the brunt of systematic de-risking on surging institutional volume—led by Nvidia's 119% volume spike—as elevated yields above 5.10% pressured growth valuations. (https://live.euronext.com/en/financial-news/stocks-end-lower-ahead-nvidia-earnings-and-anthropic-ipo-oil-drops), (https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-nvidia-sinks-as-u-s-tightens-ai-chip-restrictions-and-analysts-slash-price-targets/)."
+        },
+        {
+          "name": "NYSE Composite (.NYA)",
+          "value": "24,279.94",
+          "change": "-240.88 pts",
+          "pct": "-0.98%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 11 Distribution Days). Broad industrial and defense components buckled under late-day selling pressure on elevated volume, offsetting isolated strength in real estate and regulated utilities. (https://www.chartmill.com/news/INTC/Chartmill-58763-SP-500-Top-Movers-Gainers-and-Losers-for-Nov-16-2026), (https://www.marketwatch.com/investing/index/nya), (https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-tech-selloff-deepens-as-ai-leadership-crisis-rattles-nasdaq/), (https://www.10tv.com/article/syndication/associatedpress/how-major-us-stock-indexes-fared-monday-11162026/616-5e1ef1cd-d301-4f9c-83bd-5b7cf29631a7)."
+        },
+        {
+          "name": "Invesco S&P 500 Equal Weight (RSP)",
+          "value": "$218.60",
+          "change": "-2.56 pts",
+          "pct": "-1.16%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 11 Distribution Days). Market breadth deteriorated broadly across the New York Stock Exchange as declining issues outpaced advancing counters by more than 2.5-to-1 under the hood."
+        },
+        {
+          "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+          "value": "$106.75",
+          "change": "-2.50 pts",
+          "pct": "-2.29%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 15 Distribution Days). Programmatic algorithms executed aggressive cash raising across mid-tier semiconductor and infrastructure nodes on high volume, locking the scanner into maximum defensive rules."
+        }
+      ],
+      "sector_led_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "CNC",
+          "company": "Centene Corporation",
+          "sector": "Healthcare",
+          "industry": "Healthcare Plans",
+          "base_pattern": "Flat Base",
+          "base_stage": "Stage 2",
+          "price": "$74.24",
+          "pct": "+4.17%",
+          "action": "Vaulted past its horizontal resistance pivot on heavy institutional accumulation volume, leading defensive managed-care inflows across the board. (https://www.chartmill.com/news/INTC/Chartmill-58763-SP-500-Top-Movers-Gainers-and-Losers-for-Nov-16-2026)."
+        },
+        {
+          "rank": 2,
+          "ticker": "ELV",
+          "company": "Elevance Health, Inc.",
+          "sector": "Healthcare",
+          "industry": "Healthcare Plans",
+          "base_pattern": "Cup-with-Handle",
+          "base_stage": "Stage 2",
+          "price": "$443.02",
+          "pct": "+3.10%",
+          "action": "Cleared its intermediate handle buy trigger on expanding block demand, extending a three-month relative strength trend as capital rotated into defensive healthcare. (https://www.chartmill.com/news/INTC/Chartmill-58763-SP-500-Top-Movers-Gainers-and-Losers-for-Nov-16-2026)."
+        }
+      ],
+      "divergent_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "TSN",
+          "company": "Tyson Foods, Inc.",
+          "sector": "Consumer Defensive",
+          "industry": "Farm Products",
+          "base_pattern": "Double Bottom",
+          "base_stage": "Stage 1",
+          "price": "$62.84",
+          "pct": "+6.83%",
+          "action": "Completely uncoupled from broad index distribution to blast past its primary pivot ceiling on massive institutional volume after issuing strong fiscal 2027 guidance and a bullish beef segment outlook. (https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-nov-16-174502059.html), (https://www.chartmill.com/news/INTC/Chartmill-58763-SP-500-Top-Movers-Gainers-and-Losers-for-Nov-16-2026), (https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-tech-selloff-deepens-as-ai-leadership-crisis-rattles-nasdaq/)."
+        }
+      ],
+      "pre_breakout_watchlist": [
+        {
+          "rank": 1,
+          "ticker": "FIVE",
+          "company": "Five Below, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Specialty Retail",
+          "base_pattern": "Cup-with-Handle",
+          "base_stage": "Stage 1",
+          "pivot_price": "$244.80",
+          "distance_to_pivot": "2.90%",
+          "telemetry": "The specialty retailer demonstrated exceptional relative strength by holding firm near $244.80 and defending its 21-day exponential moving average despite Monday's broad market sell-off. Daily trading volume remained tightly muted below average as institutional supply stayed locked up ahead of the holiday retail cycle. Price action sits anchored a precise 2.90% below its primary buy point pivot, keeping it squarely inside our strict 5% tracking filter."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-13T20:00:00+00:00",
       "header": "Friday, November 13, 2026's Report",
       "headline": "A sustained semiconductor liquidation wave drags the Nasdaq Composite and S&P 500 lower to close out a volatile week, as ongoing leadership turmoil at Nvidia following CEO Jensen Huang's resignation sparks broad institutional de-risking across artificial intelligence hardware. Fixed-income desks recorded renewed selling pressure after October's Producer Price Index (PPI) jumped 6.5% year-over-year—its fastest annual pace since November 2022—pushing the benchmark 10-year U.S. Treasury yield up to 5.15%. Concurrently, global energy benchmarks remained tightly anchored near elevated geopolitical floors, leaving front-month international Brent crude oil futures virtually flat to settle at $95.74 a barrel as traders balanced Middle East chokepoint hazards against broader macroeconomic tightening. (https://tradingeconomics.com/united-states/government-bond-yield), (https://www.investopedia.com/stock-market-today-dow-jones-today-s-and-p-500-nasdaq-11132026-12252143), (https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-ceo-jensen-huang-resigns-ppi-inflation-data), (https://www.wsj.com/market-data/quotes/bond/BX/TMUBMUSD10Y), (https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html), (https://sg.finance.yahoo.com/quote/BZ%3DF/history/).",
@@ -381,7 +483,9 @@
         }
       ],
       "pre_breakout_watchlist": []
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-09T20:00:00+00:00",
       "header": "Monday, November 9, 2026's Report",
@@ -445,9 +549,7 @@
         }
       ],
       "pre_breakout_watchlist": []
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-06T20:00:00+00:00",
       "header": "Friday, November 6, 2026's Report",
@@ -5380,7 +5482,9 @@
         }
       ],
       "pre_breakout_watchlist": []
-    },
+    }
+  ],
+  "past_6_months": [
     {
       "timestamp": "2026-08-25T20:00:00+00:00",
       "header": "Tuesday, August 25, 2026's Report",
@@ -5442,7 +5546,6 @@
       "pre_breakout_watchlist": []
     }
   ],
-  "past_6_months": [],
   "past_1_year": [],
   "historical": []
 }

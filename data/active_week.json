@@ -1,5 +1,94 @@
 [
   {
+    "timestamp": "2026-11-23T20:00:00+00:00",
+    "header": "Monday, November 23, 2026's Report",
+    "headline": "The surprise reinstatement of Jensen Huang (https://www.google.com/search?kgmid=%2Fm%2F06n774&q=Can+i+Have+23+November+report%3F+jensen+huang) as Nvidia CEO ignites an explosive artificial intelligence relief rally, propelling the S&P 500 out of correction territory and lifting the Nasdaq Composite 6.51% in its best single-day surge since April 2025. Fixed-income desks recorded modest safe-haven outflows as institutional capital rotated aggressively back into risk assets, leaving the benchmark 10-year U.S. Treasury yield hovering near 4.95%. Concurrently, global energy benchmarks dropped sharply to three-month lows after Libya reopened its Sharara pipeline and U.S.-Iran diplomatic optimism eased supply fears, dragging front-month international Brent crude futures down 3.46% to settle at $89.37 a barrel. (https://tradingeconomics.com/commodity/brent-crude-oil), (https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html), (https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/), (https://tradingeconomics.com/united-states/government-bond-yield), (https://www.nationthailand.com/news/world/40073845).",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,237.17",
+        "change": "+326.78 pts",
+        "pct": "+4.73%",
+        "distribution_days": 17,
+        "action": "Holds at 17 Distribution Days (Total: 17 Distribution Days). The benchmark index snapped a seven-day losing streak and exited correction territory, though aggregate exchange volume (4.25 billion shares) fell below Friday's liquidation spike and the 20-day institutional baseline. (https://www.washingtonpost.com/business/2026/11/23/wall-street-stocks-dow-nasdaq/5a7bcea0-e785-11f1-8db0-6f1e3c389e7c_story.html), (https://sg.finance.yahoo.com/quote/%5EGSPC/history/), (https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/)."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "24,089.56",
+        "change": "+1,471.82 pts",
+        "pct": "+6.51%",
+        "distribution_days": 17,
+        "action": "Holds at 17 Distribution Days (Total: 17 Distribution Days). Surging semiconductor and neocloud providers—led by Nvidia's record $952 billion market-cap jump and a 14% surge in the PHLX Semiconductor Index—logged Day 1 of an attempted rally while legacy distribution counts remained locked at maximum levels. (https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html), (https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026)."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "23,145.60",
+        "change": "+487.78 pts",
+        "pct": "+2.15%",
+        "distribution_days": 14,
+        "action": "Holds at 14 Distribution Days (Total: 14 Distribution Days). Broad industrial, financial, and cyclical conglomerates rebounded strongly off Friday's lows on moderate turnover, though energy producers lagged amid falling crude benchmarks. (https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026), (https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html), (https://www.nationthailand.com/news/world/40073845)."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$211.90",
+        "change": "+4.46 pts",
+        "pct": "+2.15%",
+        "distribution_days": 13,
+        "action": "Holds at 13 Distribution Days (Total: 13 Distribution Days). Market breadth improved substantially under the hood as advancing issues outpaced declining counters by more than 3-to-1 across the New York Stock Exchange."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$104.25",
+        "change": "+5.90 pts",
+        "pct": "+6.00%",
+        "distribution_days": 17,
+        "action": "Holds at 17 Distribution Days (Total: 17 Distribution Days). Programmatic algorithms executed aggressive short-covering across mid-tier AI hardware and memory nodes, though the scanner remains locked under defensive rules until a verified follow-through day registers. (https://www.chartmill.com/news/IP/Chartmill-59068-SP-500-Top-Movers-for-Nov-23-2026-Gainers-and-Losers), (https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026)."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "MU",
+        "company": "Micron Technology, Inc.",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 2",
+        "price": "$708.66",
+        "pct": "+19.20%",
+        "action": "Vaulted past near-term resistance on surging institutional accumulation volume after securing new multi-year customer memory supply agreements amid the AI sector rebound. (https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/), (https://www.chartmill.com/news/IP/Chartmill-59068-SP-500-Top-Movers-for-Nov-23-2026-Gainers-and-Losers)."
+      },
+      {
+        "rank": 2,
+        "ticker": "ZS",
+        "company": "Zscaler, Inc.",
+        "sector": "Technology",
+        "industry": "Software—Infrastructure",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "price": "$248.50",
+        "pct": "+17.67%",
+        "action": "Exploded past its horizontal chart ceiling on massive institutional volume following an all-stock acquisition agreement from CrowdStrike valued at approximately $43.9 billion. (https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026), (https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/)."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "TSLA",
+        "company": "Tesla, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Auto Manufacturers",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 2",
+        "price": "$342.10",
+        "pct": "+11.46%",
+        "action": "Uncoupled from broader consumer discretionary lag to clear its intermediate handle pivot on heavy institutional accumulation volume following progress updates on commercializing autonomous driving. (https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/)."
+      }
+    ],
+    "pre_breakout_watchlist": []
+  },
+  {
     "timestamp": "2026-11-20T20:00:00+00:00",
     "header": "Friday, November 20, 2026's Report",
     "headline": "A severe artificial intelligence meltdown drags the S&P 500 and Dow into official correction territory while pushing the Nasdaq Composite into negative territory for 2026, capping Wall Street's worst weekly drop since the COVID-19 pandemic. Fixed-income desks recorded a sharp flight-to-safety rally as institutional cash fled high-beta tech, pulling the benchmark 10-year U.S. Treasury yield down 10 basis points to settle near 4.94%. Concurrently, global energy benchmarks rebounded moderately on renewed Middle East tanker threats despite ample supply, lifting front-month international Brent crude oil futures up 0.64% to close at $92.57 a barrel. (https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html), (https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026), (https://tradingeconomics.com/united-states/government-bond-yield), (https://tradingeconomics.com/commodity/brent-crude-oil), (https://energynow.com/2026/11/oil-prices-rebound-friday-on-middle-east-tensions-but-fall-for-third-straight-week-wti-closes-at-83-98-brent-at-92-57/).",
@@ -367,108 +456,6 @@
         "pivot_price": "$243.90",
         "distance_to_pivot": "3.25%",
         "telemetry": "The specialty retailer demonstrated exceptional relative strength by holding firm near $243.90 and defending its 21-day exponential moving average despite Tuesday's broad market sell-off. Daily trading volume dried up well below average as institutional supply remained tightly absorbed ahead of the holiday retail cycle. Price action sits anchored a precise 3.25% below its primary buy point pivot, keeping it squarely inside our strict 5% tracking filter."
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-11-16T20:00:00+00:00",
-    "header": "Monday, November 16, 2026's Report",
-    "headline": "Tighter U.S. export restrictions on advanced artificial intelligence chips and ongoing leadership turmoil at Nvidia ignite a broad semiconductor liquidation wave, dragging the Nasdaq Composite down nearly 2.5% ahead of Tuesday's pivotal earnings report. Fixed-income desks experienced mixed session swings as hawkish Federal Reserve commentary offset safe-haven equity outflows, leaving the benchmark 10-year U.S. Treasury yield virtually flat near 5.14%. Concurrently, global energy benchmarks eased slightly as shipments through the Strait of Hormuz showed incremental resilience, pulling front-month international Brent crude oil futures down to settle at $95.50 a barrel. (https://tradingeconomics.com/united-states/government-bond-yield), (https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-nvidia-sinks-as-u-s-tightens-ai-chip-restrictions-and-analysts-slash-price-targets/), (https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html), (https://sg.finance.yahoo.com/quote/BZ%3DF/history/).",
-    "market_status": "",
-    "indexes": [
-      {
-        "name": "S&P 500 Index (.INX)",
-        "value": "7,416.59",
-        "change": "-145.08 pts",
-        "pct": "-1.92%",
-        "distribution_days": 1,
-        "action": "1 New Distribution Day added (Total: 15 Distribution Days). Heavy institutional turnover pushed aggregate exchange volume well above the 20-day baseline average, marking a third straight session of index losses. (https://www.10tv.com/article/syndication/associatedpress/how-major-us-stock-indexes-fared-monday-11162026/616-5e1ef1cd-d301-4f9c-83bd-5b7cf29631a7), (https://live.euronext.com/en/financial-news/stocks-end-lower-ahead-nvidia-earnings-and-anthropic-ipo-oil-drops), (https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-nvidia-sinks-as-u-s-tightens-ai-chip-restrictions-and-analysts-slash-price-targets/)."
-      },
-      {
-        "name": "Nasdaq Composite (.IXIC)",
-        "value": "24,509.76",
-        "change": "-626.51 pts",
-        "pct": "-2.49%",
-        "distribution_days": 1,
-        "action": "1 New Distribution Day added (Total: 15 Distribution Days). High-multiple chipmakers bore the brunt of systematic de-risking on surging institutional volume—led by Nvidia's 119% volume spike—as elevated yields above 5.10% pressured growth valuations. (https://live.euronext.com/en/financial-news/stocks-end-lower-ahead-nvidia-earnings-and-anthropic-ipo-oil-drops), (https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-nvidia-sinks-as-u-s-tightens-ai-chip-restrictions-and-analysts-slash-price-targets/)."
-      },
-      {
-        "name": "NYSE Composite (.NYA)",
-        "value": "24,279.94",
-        "change": "-240.88 pts",
-        "pct": "-0.98%",
-        "distribution_days": 1,
-        "action": "1 New Distribution Day added (Total: 11 Distribution Days). Broad industrial and defense components buckled under late-day selling pressure on elevated volume, offsetting isolated strength in real estate and regulated utilities. (https://www.chartmill.com/news/INTC/Chartmill-58763-SP-500-Top-Movers-Gainers-and-Losers-for-Nov-16-2026), (https://www.marketwatch.com/investing/index/nya), (https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-tech-selloff-deepens-as-ai-leadership-crisis-rattles-nasdaq/), (https://www.10tv.com/article/syndication/associatedpress/how-major-us-stock-indexes-fared-monday-11162026/616-5e1ef1cd-d301-4f9c-83bd-5b7cf29631a7)."
-      },
-      {
-        "name": "Invesco S&P 500 Equal Weight (RSP)",
-        "value": "$218.60",
-        "change": "-2.56 pts",
-        "pct": "-1.16%",
-        "distribution_days": 1,
-        "action": "1 New Distribution Day added (Total: 11 Distribution Days). Market breadth deteriorated broadly across the New York Stock Exchange as declining issues outpaced advancing counters by more than 2.5-to-1 under the hood."
-      },
-      {
-        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
-        "value": "$106.75",
-        "change": "-2.50 pts",
-        "pct": "-2.29%",
-        "distribution_days": 1,
-        "action": "1 New Distribution Day added (Total: 15 Distribution Days). Programmatic algorithms executed aggressive cash raising across mid-tier semiconductor and infrastructure nodes on high volume, locking the scanner into maximum defensive rules."
-      }
-    ],
-    "sector_led_breakouts": [
-      {
-        "rank": 1,
-        "ticker": "CNC",
-        "company": "Centene Corporation",
-        "sector": "Healthcare",
-        "industry": "Healthcare Plans",
-        "base_pattern": "Flat Base",
-        "base_stage": "Stage 2",
-        "price": "$74.24",
-        "pct": "+4.17%",
-        "action": "Vaulted past its horizontal resistance pivot on heavy institutional accumulation volume, leading defensive managed-care inflows across the board. (https://www.chartmill.com/news/INTC/Chartmill-58763-SP-500-Top-Movers-Gainers-and-Losers-for-Nov-16-2026)."
-      },
-      {
-        "rank": 2,
-        "ticker": "ELV",
-        "company": "Elevance Health, Inc.",
-        "sector": "Healthcare",
-        "industry": "Healthcare Plans",
-        "base_pattern": "Cup-with-Handle",
-        "base_stage": "Stage 2",
-        "price": "$443.02",
-        "pct": "+3.10%",
-        "action": "Cleared its intermediate handle buy trigger on expanding block demand, extending a three-month relative strength trend as capital rotated into defensive healthcare. (https://www.chartmill.com/news/INTC/Chartmill-58763-SP-500-Top-Movers-Gainers-and-Losers-for-Nov-16-2026)."
-      }
-    ],
-    "divergent_breakouts": [
-      {
-        "rank": 1,
-        "ticker": "TSN",
-        "company": "Tyson Foods, Inc.",
-        "sector": "Consumer Defensive",
-        "industry": "Farm Products",
-        "base_pattern": "Double Bottom",
-        "base_stage": "Stage 1",
-        "price": "$62.84",
-        "pct": "+6.83%",
-        "action": "Completely uncoupled from broad index distribution to blast past its primary pivot ceiling on massive institutional volume after issuing strong fiscal 2027 guidance and a bullish beef segment outlook. (https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-nov-16-174502059.html), (https://www.chartmill.com/news/INTC/Chartmill-58763-SP-500-Top-Movers-Gainers-and-Losers-for-Nov-16-2026), (https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-tech-selloff-deepens-as-ai-leadership-crisis-rattles-nasdaq/)."
-      }
-    ],
-    "pre_breakout_watchlist": [
-      {
-        "rank": 1,
-        "ticker": "FIVE",
-        "company": "Five Below, Inc.",
-        "sector": "Consumer Cyclical",
-        "industry": "Specialty Retail",
-        "base_pattern": "Cup-with-Handle",
-        "base_stage": "Stage 1",
-        "pivot_price": "$244.80",
-        "distance_to_pivot": "2.90%",
-        "telemetry": "The specialty retailer demonstrated exceptional relative strength by holding firm near $244.80 and defending its 21-day exponential moving average despite Monday's broad market sell-off. Daily trading volume remained tightly muted below average as institutional supply stayed locked up ahead of the holiday retail cycle. Price action sits anchored a precise 2.90% below its primary buy point pivot, keeping it squarely inside our strict 5% tracking filter."
       }
     ]
   }
