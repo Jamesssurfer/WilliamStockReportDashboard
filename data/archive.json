@@ -1,6 +1,83 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-17T20:00:00+00:00",
+      "header": "Tuesday, November 17, 2026's Report",
+      "headline": "Broad institutional de-risking extends Wall Street's losing streak to four straight sessions as investors brace for Nvidia's post-close earnings report and Anthropic's landmark IPO while digesting a reported National Security Agency network outage. Fixed-income desks recorded a steady safe-haven bid following a $1.2 billion U.S. Treasury long-bond buyback operation and weaker-than-expected homebuilder confidence, pulling the benchmark 10-year U.S. Treasury yield down 3 basis points to close at 5.10%. Concurrently, global energy benchmarks eased slightly on improving Middle East oil exports, pulling front-month international Brent crude futures down 0.7% to settle near $91.80 a barrel. (https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html), (https://virginiabusiness.com/wall-street-falls-nvidia-earnings-anthropic-ipo/), (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11172026-12259343), (https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasurys-79322f27), (https://tradingeconomics.com/united-states/government-bond-yield).",
+      "market_status": "",
+      "indexes": [
+        {
+          "name": "S&P 500 Index (.INX)",
+          "value": "7,340.53",
+          "change": "-76.06 pts",
+          "pct": "-1.03%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 16 Distribution Days). Heavy institutional turnover pushed aggregate exchange volume well above the 20-day baseline average, dragging the benchmark to its lowest closing level since late July as all 11 sectors finished in the red. (https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-q3-financial-results-retail-sales-import-prices), (https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html)."
+        },
+        {
+          "name": "Nasdaq Composite (.IXIC)",
+          "value": "24,328.38",
+          "change": "-181.37 pts",
+          "pct": "-0.74%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 16 Distribution Days). High-multiple enterprise software names bore the brunt of systematic liquidations—led by a 9.5% plunge in Salesforce—pushing the index to a seven-month intraday low on elevated volume before late chip-sector short covering trimmed losses. (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11172026-12259343), (https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html), (https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-q3-financial-results-retail-sales-import-prices)."
+        },
+        {
+          "name": "NYSE Composite (.NYA)",
+          "value": "23,982.45",
+          "change": "-297.49 pts",
+          "pct": "-1.23%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 12 Distribution Days). Broad financial services, healthcare, and industrial conglomerates buckled under renewed Fed rate-hike anxiety and widespread programmatic cash raising on expanding volume. (https://virginiabusiness.com/wall-street-falls-nvidia-earnings-anthropic-ipo/), (https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/)."
+        },
+        {
+          "name": "Invesco S&P 500 Equal Weight (RSP)",
+          "value": "$216.10",
+          "change": "-2.50 pts",
+          "pct": "-1.14%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 12 Distribution Days). Market breadth deteriorated broadly across the New York Stock Exchange as declining issues outpaced advancing counters by over 3-to-1 under the hood. (https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-q3-financial-results-retail-sales-import-prices)."
+        },
+        {
+          "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+          "value": "$105.62",
+          "change": "-1.13 pts",
+          "pct": "-1.06%",
+          "distribution_days": 1,
+          "action": "1 New Distribution Day added (Total: 16 Distribution Days). Programmatic algorithms executed aggressive de-risking across mid-tier software and data-center infrastructure nodes on high volume, locking the scanner into maximum defensive boundaries. (https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11172026-12259343)."
+        }
+      ],
+      "sector_led_breakouts": [],
+      "divergent_breakouts": [
+        {
+          "rank": 1,
+          "ticker": "ZBH",
+          "company": "Zimmer Biomet Holdings, Inc.",
+          "sector": "Healthcare",
+          "industry": "Medical Devices",
+          "base_pattern": "Cup-with-Handle",
+          "base_stage": "Stage 1",
+          "price": "$103.14",
+          "pct": "+1.71%",
+          "action": "Uncoupled cleanly from steep managed-care sector liquidations to clear its intermediate handle pivot on expanding institutional volume, extending its three-month relative strength trend. (https://markets.businessinsider.com/index/market-movers/s&p_500), (https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/)."
+        }
+      ],
+      "pre_breakout_watchlist": [
+        {
+          "rank": 1,
+          "ticker": "FIVE",
+          "company": "Five Below, Inc.",
+          "sector": "Consumer Cyclical",
+          "industry": "Specialty Retail",
+          "base_pattern": "Cup-with-Handle",
+          "base_stage": "Stage 1",
+          "pivot_price": "$243.90",
+          "distance_to_pivot": "3.25%",
+          "telemetry": "The specialty retailer demonstrated exceptional relative strength by holding firm near $243.90 and defending its 21-day exponential moving average despite Tuesday's broad market sell-off. Daily trading volume dried up well below average as institutional supply remained tightly absorbed ahead of the holiday retail cycle. Price action sits anchored a precise 3.25% below its primary buy point pivot, keeping it squarely inside our strict 5% tracking filter."
+        }
+      ]
+    },
+    {
       "timestamp": "2026-11-16T20:00:00+00:00",
       "header": "Monday, November 16, 2026's Report",
       "headline": "Tighter U.S. export restrictions on advanced artificial intelligence chips and ongoing leadership turmoil at Nvidia ignite a broad semiconductor liquidation wave, dragging the Nasdaq Composite down nearly 2.5% ahead of Tuesday's pivotal earnings report. Fixed-income desks experienced mixed session swings as hawkish Federal Reserve commentary offset safe-haven equity outflows, leaving the benchmark 10-year U.S. Treasury yield virtually flat near 5.14%. Concurrently, global energy benchmarks eased slightly as shipments through the Strait of Hormuz showed incremental resilience, pulling front-month international Brent crude oil futures down to settle at $95.50 a barrel. (https://tradingeconomics.com/united-states/government-bond-yield), (https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-nvidia-sinks-as-u-s-tightens-ai-chip-restrictions-and-analysts-slash-price-targets/), (https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html), (https://sg.finance.yahoo.com/quote/BZ%3DF/history/).",
@@ -394,7 +471,9 @@
         }
       ],
       "pre_breakout_watchlist": []
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-10T20:00:00+00:00",
       "header": "Tuesday, November 10, 2026's Report",
@@ -483,9 +562,7 @@
         }
       ],
       "pre_breakout_watchlist": []
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-09T20:00:00+00:00",
       "header": "Monday, November 9, 2026's Report",
