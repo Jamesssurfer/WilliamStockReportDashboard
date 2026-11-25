@@ -1,5 +1,82 @@
 [
   {
+    "timestamp": "2026-11-24T20:00:00+00:00",
+    "header": "Tuesday, November 24, 2026's Report",
+    "headline": "A sharp semiconductor and artificial intelligence pullback drags the Nasdaq Composite down 1.48% and snaps Monday's historic relief rally, while defensive healthcare and consumer rotation lifts the blue-chip Dow past 50,000 [Markets News, Nov. 24, 2026: S&P 500, Nasdaq Fall After ..., Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates]. Fixed-income desks recorded a steady safe-haven coupon bid ahead of Wednesday's key PCE inflation release, pulling the benchmark 10-year U.S. Treasury yield down to settle near 4.91% [Markets News, Nov. 24, 2026: S&P 500, Nasdaq Fall After ...]. Concurrently, global energy benchmarks rebounded from three-month lows after heightened naval mine and sanctions tensions in the Strait of Hormuz, lifting front-month international Brent crude futures up 1.60% to close at $90.80 a barrel.",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,201.09",
+        "change": "-36.08 pts",
+        "pct": "-0.50%",
+        "distribution_days": 17,
+        "action": "Holds at 17 Distribution Days (Total: 17 Distribution Days). Aggregate exchange volume thinned substantially to 3.32 billion shares—falling well below Monday's 5.61 billion spike and the 20-day institutional baseline—sparing the benchmark from adding another distribution day despite recording its eighth loss in nine sessions [S&P 500 (^GSPC) Historical Data, How major US stock indexes fared Tuesday 11/24/2026]."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "23,733.54",
+        "change": "-356.02 pts",
+        "pct": "-1.48%",
+        "distribution_days": 17,
+        "action": "Holds at 17 Distribution Days (Total: 17 Distribution Days). High-beta chipmakers and AI developers bore the brunt of profit-taking on lighter overall exchange volume—led by a 7.88% drop in the Philadelphia Semiconductor Index and Anthropic breaking below its $83 IPO price—leaving the index locked at maximum distribution levels [Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates, Today's Market Recap: Nasdaq Falls Nearly 1.5%, Nvidia ...]."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "23,310.45",
+        "change": "+164.85 pts",
+        "pct": "+0.71%",
+        "distribution_days": 14,
+        "action": "Holds at 14 Distribution Days (Total: 14 Distribution Days). The traditional board outperformed cleanly on moderate turnover, propelled by institutional rotation into blue-chip healthcare, value cyclicals, and consumer staples [Today's Market Recap: Nasdaq Falls Nearly 1.5%, Nvidia ..., Tech Sell-Off Drags Nasdaq as Dow Gains on Value Rotation]."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$213.45",
+        "change": "+1.55 pts",
+        "pct": "+0.73%",
+        "distribution_days": 13,
+        "action": "Holds at 13 Distribution Days (Total: 13 Distribution Days). Stripped of mega-cap tech drag, broad market breadth remained firmly constructive under the hood as the majority of New York Stock Exchange listings finished in positive territory [How major US stock indexes fared Tuesday 11/24/2026]."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$102.80",
+        "change": "-1.45 pts",
+        "pct": "-1.39%",
+        "distribution_days": 17,
+        "action": "Holds at 17 Distribution Days (Total: 17 Distribution Days). Programmatic algorithms reversed Monday's short-covering across mid-tier semiconductor and memory nodes on subdued volume, keeping the scanner locked under defensive rules [Today's Market Recap: Nasdaq Falls Nearly 1.5%, Nvidia ...]."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "DLTR",
+        "company": "Dollar Tree, Inc.",
+        "sector": "Consumer Defensive",
+        "industry": "Discount Stores",
+        "base_pattern": "Flat Base",
+        "base_stage": "Stage 1",
+        "price": "$154.24",
+        "pct": "+10.88%",
+        "action": "Vaulted past its horizontal resistance shelf on surging institutional accumulation volume to lead all S&P 500 gainers after reporting third-quarter results [S&P 500 Top Movers: Nov. 24, 2026 Gainers and Losers]."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "SWKS",
+        "company": "Skyworks Solutions, Inc.",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 2",
+        "price": "$82.29",
+        "pct": "+6.70%",
+        "action": "Completely uncoupled from a 7.9% plunge across the broader semiconductor index to clear its intermediate pivot buy trigger on expanding institutional volume [Today's Market Recap: Nasdaq Falls Nearly 1.5%, Nvidia ..., S&P 500 Top Movers: Nov. 24, 2026 Gainers and Losers]."
+      }
+    ],
+    "pre_breakout_watchlist": []
+  },
+  {
     "timestamp": "2026-11-23T20:00:00+00:00",
     "header": "Monday, November 23, 2026's Report",
     "headline": "The surprise reinstatement of Jensen Huang (https://www.google.com/search?kgmid=%2Fm%2F06n774&q=Can+i+Have+23+November+report%3F+jensen+huang) as Nvidia CEO ignites an explosive artificial intelligence relief rally, propelling the S&P 500 out of correction territory and lifting the Nasdaq Composite 6.51% in its best single-day surge since April 2025. Fixed-income desks recorded modest safe-haven outflows as institutional capital rotated aggressively back into risk assets, leaving the benchmark 10-year U.S. Treasury yield hovering near 4.95%. Concurrently, global energy benchmarks dropped sharply to three-month lows after Libya reopened its Sharara pipeline and U.S.-Iran diplomatic optimism eased supply fears, dragging front-month international Brent crude futures down 3.46% to settle at $89.37 a barrel. (https://tradingeconomics.com/commodity/brent-crude-oil), (https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html), (https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/), (https://tradingeconomics.com/united-states/government-bond-yield), (https://www.nationthailand.com/news/world/40073845).",
