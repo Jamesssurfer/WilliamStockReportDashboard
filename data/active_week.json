@@ -1,5 +1,56 @@
 [
   {
+    "timestamp": "2026-11-26T20:00:00+00:00",
+    "header": "Thursday, November 26, 2026's Report",
+    "headline": "U.S. equity and fixed-income markets are closed in observance of the Thanksgiving Day holiday, freezing all domestic institutional distribution counts and attempted rally timers ahead of Friday's abbreviated trading session. Cash U.S. Treasury desks remained shuttered with the benchmark 10-year yield anchored at Wednesday's 4.85% close, while overnight equity futures ticked modestly higher (+0.6% to +0.7%) ahead of Black Friday's 1:00 PM ET closing bell. Overseas energy trading remained active despite the U.S. holiday, lifting front-month international Brent crude futures up 2.07% to settle at $96.57 a barrel after reports of naval mine strikes on tankers in the Strait of Hormuz and drone attacks near Saudi Arabia's Ras Tanura refinery ahead of Sunday's OPEC+ policy meeting. (https://www.nyse.com/markets/hours-calendars), (https://finance.yahoo.com/personal-finance/investing/article/is-the-stock-market-open-today-thanksgiving-and-black-friday-151405274.html), (https://ycharts.com/indicators/10_year_treasury_rate), (https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html), (https://tradingeconomics.com/commodity/brent-crude-oil), (https://www.nationthailand.com/news/world/40073981).",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,182.78",
+        "change": "",
+        "pct": "",
+        "distribution_days": 17,
+        "action": "Holds at 17 Distribution Days (Total: 17 Distribution Days). Exchange floors remained dark for Thanksgiving, keeping the index frozen on Day 3 of its attempted rally with zero institutional volume recorded. (https://www.ic.com/blog/general-market-analysis-26-november-2026-ic/), (https://www.nyse.com/markets/hours-calendars)."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "23,585.80",
+        "change": "",
+        "pct": "",
+        "distribution_days": 17,
+        "action": "Holds at 17 Distribution Days (Total: 17 Distribution Days). Growth technology corridors remained offline for the federal holiday, holding the index at maximum distribution levels ahead of Friday's shortened 3.5-hour session. (https://www.instagram.com/p/DgI5ZMADlBx/), (https://www.ic.com/blog/general-market-analysis-26-november-2026-ic/), (https://www.nyse.com/markets/hours-calendars)."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "23,412.60",
+        "change": "",
+        "pct": "",
+        "distribution_days": 14,
+        "action": "Holds at 14 Distribution Days (Total: 14 Distribution Days). Traditional industrial, financial, and energy groups remained stationary with NYSE trading hours closed for the holiday. (https://www.nyse.com/markets/hours-calendars)."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$214.85",
+        "change": "",
+        "pct": "",
+        "distribution_days": 13,
+        "action": "Holds at 13 Distribution Days (Total: 13 Distribution Days). Broad market breadth telemetry remained paused at Wednesday's constructive close with zero NYSE advancing or declining prints registered. (https://www.nyse.com/markets/hours-calendars)."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$102.30",
+        "change": "",
+        "pct": "",
+        "distribution_days": 17,
+        "action": "Holds at 17 Distribution Days (Total: 17 Distribution Days). Algorithmic baskets remained idle during the U.S. holiday closure, keeping the scanner locked under maximum defensive rules. (https://www.nyse.com/markets/hours-calendars)."
+      }
+    ],
+    "sector_led_breakouts": [],
+    "divergent_breakouts": [],
+    "pre_breakout_watchlist": []
+  },
+  {
     "timestamp": "2026-11-25T20:00:00+00:00",
     "header": "Wednesday, November 25, 2026's Report",
     "headline": "Wall Street stages a dramatic late-session recovery to erase steep morning AI-driven losses ahead of the Thanksgiving holiday, leaving the S&P 500 and Nasdaq Composite only marginally lower while lifting the blue-chip Dow to a third straight gain. Hotter-than-expected October Core PCE inflation at 3.3% year-over-year, an upward revision to third-quarter GDP, and fresh U.S. Section 301 tariff proposals on 14 trading partners initially triggered intense morning de-risking across artificial intelligence leaders. Fixed-income desks recorded a strong flight-to-safety coupon bid ahead of the long holiday weekend, pulling the benchmark 10-year U.S. Treasury yield down 6 basis points to close at 4.85%. Concurrently, global energy benchmarks jumped sharply following a Houthi attack on Saudi Arabia's Ras Tanura refinery, lifting front-month international Brent crude futures up 3.51% to settle at $94.61 a barrel. (https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html), (https://www.tradingkey.com/analysis/stocks/us-stocks/262322956-market-recap-sp-nasdaq-nvidia-pce-gold-breaks-3500-tradingkey), (https://cappnotes.substack.com/p/closing-look-wednesday-november-25), (https://thebusinessjournal.com/wall-street-ai-stock-sell-off-inflation-tariffs/).",
