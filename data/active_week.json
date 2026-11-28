@@ -1,5 +1,94 @@
 [
   {
+    "timestamp": "2026-11-27T20:00:00+00:00",
+    "header": "Friday, November 27, 2026's Report",
+    "headline": "A powerful semiconductor and artificial intelligence rebound lifts Wall Street in a holiday-shortened Black Friday session, propelling the Nasdaq Composite up 2.31% and capping the market's strongest weekly advance since April 2025 [How major US stock indexes fared Friday 11/27/2026, Stock Market Today, Nov. 27: Chip Stocks Rebound Sharply ...]. Fixed-income desks recorded steady safe-haven outflows as upbeat equity sentiment and expectations of a December Federal Reserve rate hike pushed the benchmark 10-year U.S. Treasury yield up 9 basis points to close at 4.94%. Concurrently, global energy benchmarks pulled back sharply from Thursday's holiday gains as Persian Gulf crude shipments recovered ahead of Sunday's OPEC+ policy meeting, dragging front-month international Brent crude futures down 2.48% to settle at $94.00 a barrel.",
+    "market_status": "",
+    "indexes": [
+      {
+        "name": "S&P 500 Index (.INX)",
+        "value": "7,297.49",
+        "change": "+114.71 pts",
+        "pct": "+1.60%",
+        "distribution_days": 17,
+        "action": "Holds at 17 Distribution Days (Total: 17 Distribution Days). The benchmark index logged a 5.6% weekly gain on Day 4 of its attempted rally [How major US stock indexes fared Friday 11/27/2026], though abbreviated 1:00 PM ET holiday volume of 1.72 billion shares fell well below Wednesday's 5.52 billion and the 20-day institutional baseline [S&P 500 (^GSPC) historical data], preventing a confirmed Follow-Through Day."
+      },
+      {
+        "name": "Nasdaq Composite (.IXIC)",
+        "value": "24,129.50",
+        "change": "+543.70 pts",
+        "pct": "+2.31%",
+        "distribution_days": 17,
+        "action": "Holds at 17 Distribution Days (Total: 17 Distribution Days). Surging semiconductor and AI infrastructure names—led by a nearly 5% rebound in the Philadelphia Semiconductor Index and a 10.7% pop in Anthropic—capped a 6.7% weekly surge on thin Black Friday volume, leaving the legacy distribution ceiling intact [Stock market today: Dow, S&P 500, Nasdaq end holiday week ..., Dow rallies nearly 600 points to close out best week since 2022: Live updates]."
+      },
+      {
+        "name": "NYSE Composite (.NYA)",
+        "value": "23,791.35",
+        "change": "+295.27 pts",
+        "pct": "+1.26%",
+        "distribution_days": 14,
+        "action": "Holds at 14 Distribution Days (Total: 14 Distribution Days). The traditional board advanced cleanly on light post-Thanksgiving turnover, buoyed by broad participation across industrial power equipment, paper packaging, and cyclical recovery groups [S&P 500 Movers | Winners: SNDK, COHR, LITE | Losers]."
+      },
+      {
+        "name": "Invesco S&P 500 Equal Weight (RSP)",
+        "value": "$218.38",
+        "change": "+2.64 pts",
+        "pct": "+1.22%",
+        "distribution_days": 13,
+        "action": "Holds at 13 Distribution Days (Total: 13 Distribution Days). Broad market breadth confirmed widespread buying participation under the hood as S&P 500 gainers outnumbered decliners 410 to 92 on holiday-reduced volume of 7.59 million shares [Invesco S&P 500 Equal Weight ETF (RSP), S&P 500 Movers | Winners: SNDK, COHR, LITE | Losers]."
+      },
+      {
+        "name": "Direxion Nasdaq-100 Equal Weight (QQQE)",
+        "value": "$105.05",
+        "change": "+2.75 pts",
+        "pct": "+2.69%",
+        "distribution_days": 17,
+        "action": "Holds at 17 Distribution Days (Total: 17 Distribution Days). Programmatic algorithms executed broad short-covering across mid-tier data storage and optical networking nodes on thin holiday volume, keeping the scanner locked under defensive rules until a high-volume Follow-Through Day registers."
+      }
+    ],
+    "sector_led_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "SNDK",
+        "company": "SanDisk Corporation",
+        "sector": "Technology",
+        "industry": "Computer Hardware & Storage",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 1",
+        "price": "$85.20",
+        "pct": "+15.83%",
+        "action": "Exploded past its near-term resistance shelf to pace all S&P 500 gainers as memory and data storage providers surged alongside a 7.9% gain in Seagate Technology and 7.6% in Micron [S&P 500 Movers | Winners: SNDK, COHR, LITE | Losers]."
+      },
+      {
+        "rank": 2,
+        "ticker": "COHR",
+        "company": "Coherent Corp.",
+        "sector": "Technology",
+        "industry": "Electronic Components",
+        "base_pattern": "Cup-with-Handle",
+        "base_stage": "Stage 2",
+        "price": "$223.79",
+        "pct": "+14.07%",
+        "action": "Vaulted past its intermediate handle pivot on strong institutional demand of 7.16 million shares during the shortened session, leading optical networking peers higher [S&P 500 Movers | Winners: SNDK, COHR, LITE | Losers]."
+      }
+    ],
+    "divergent_breakouts": [
+      {
+        "rank": 1,
+        "ticker": "GNRC",
+        "company": "Generac Holdings Inc.",
+        "sector": "Industrials",
+        "industry": "Specialty Industrial Machinery",
+        "base_pattern": "Double Bottom",
+        "base_stage": "Stage 2",
+        "price": "$185.40",
+        "pct": "+7.40%",
+        "action": "Uncoupled from broader industrial averages to clear its intermediate resistance pivot on solid institutional accumulation, outpacing cyclical peers."
+      }
+    ],
+    "pre_breakout_watchlist": []
+  },
+  {
     "timestamp": "2026-11-26T20:00:00+00:00",
     "header": "Thursday, November 26, 2026's Report",
     "headline": "U.S. equity and fixed-income markets are closed in observance of the Thanksgiving Day holiday, freezing all domestic institutional distribution counts and attempted rally timers ahead of Friday's abbreviated trading session. Cash U.S. Treasury desks remained shuttered with the benchmark 10-year yield anchored at Wednesday's 4.85% close, while overnight equity futures ticked modestly higher (+0.6% to +0.7%) ahead of Black Friday's 1:00 PM ET closing bell. Overseas energy trading remained active despite the U.S. holiday, lifting front-month international Brent crude futures up 2.07% to settle at $96.57 a barrel after reports of naval mine strikes on tankers in the Strait of Hormuz and drone attacks near Saudi Arabia's Ras Tanura refinery ahead of Sunday's OPEC+ policy meeting. (https://www.nyse.com/markets/hours-calendars), (https://finance.yahoo.com/personal-finance/investing/article/is-the-stock-market-open-today-thanksgiving-and-black-friday-151405274.html), (https://ycharts.com/indicators/10_year_treasury_rate), (https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html), (https://tradingeconomics.com/commodity/brent-crude-oil), (https://www.nationthailand.com/news/world/40073981).",
